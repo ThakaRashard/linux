@@ -32,6 +32,8 @@
 *.lex.c
 *.ll
 *.lst
+*.mo
+*.css
 *.lz4
 *.lzma
 *.lzo
