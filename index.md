@@ -15,12 +15,18 @@
  
 <body markdown="1">
 
+# RealLinux [LosAngeles](https://lacity.gov/jobs) 
+[My_NAsa_JPL_UPDATE @nasa-jpl](https://dn720704.ca.archive.org/0/items/the-yogi-bear-show/The%20Yogi%20Bear%20Show/Season%2001/The%20Yogi%20Bear%20Show%20-%20S01E02%20-%20Slumber%20Party%20Smarty%20HDTV-1080p.mp4) - [RAshard's `Trello`](https://trello.com/b/CN1UytXe/housekeeping) @nasa @redhatoffical @suse @ubuntu
+
   
+# Emulation : [liked](https://archive.org/details/consolelivingroom)
+![wipeout](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8zCCzLBRiduoy_-oKLSH7h1Ct9d2OWse9z9rSqCklIXMFXvXeOXlDN7fKiMfS9Xyg96iN8Acy79QNW-329g5LQI-whi0c3cWSJUguVCQO8pVZHhN72A9bneuh0WE2oNzZsv6fpqiNuUJV/s1600/1270676-we_ps1_plat_cover.jpg)
+<iframe src="https://archive.org/embed/psx_wpoutxl" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmkdRG7MQm4?si=KcHeYOTRC3tkIWx6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/w-3_20231227" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
  
 <div id="heading"><div>./HoleToAnotherUniverse/linux</div></div> 
-
-# RealAndroid [LosAngeles](https://lacity.gov/jobs) 
- 
 
 <div class="tupperware">
 
@@ -66,9 +72,6 @@
 
 </div>
 
-![wipeout](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8zCCzLBRiduoy_-oKLSH7h1Ct9d2OWse9z9rSqCklIXMFXvXeOXlDN7fKiMfS9Xyg96iN8Acy79QNW-329g5LQI-whi0c3cWSJUguVCQO8pVZHhN72A9bneuh0WE2oNzZsv6fpqiNuUJV/s1600/1270676-we_ps1_plat_cover.jpg)
-<iframe src="https://archive.org/embed/psx_wpoutxl" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mmkdRG7MQm4?si=KcHeYOTRC3tkIWx6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -203,6 +206,7 @@ The Android Open Source Project (AOSP) is publicly available and modifiable Andr
 [RelatedTweet](https://x.com/BubbleGumPop510/status/1884682125473177888)
 [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions#using_transitions_when_highlighting_menus) `A common use of CSS is to highlight items in a menu as the user hovers the mouse cursor over them. It's easy to use transitions to make the effect even more attractive.` @nasa-jpl im working on containers please play with this one its the secondary nav on every page [CodePen - https://codepen.io/ricoThaka/pen/PwodVXw](https://codepen.io/ricoThaka/pen/PwodVXw) [YAML_Twt @blackgirlscode](https://x.com/RicoThaka/status/1895914057162768886) [c7](https://x.com/BubbleGumPop510/status/1870627229744631839)
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/linked" title="Linked" target="_blank" style="color: #cccccc; text-decoration: none;">Linked</a></div>
 
   <h1>GitGitGadget</h1>
   <img src="https://gitgitgadget.github.io/images/gitgitgadget-explanation.png" alt="GitGitGadget" />       <h1 id="งツว-1980--͜ʖ͡">(งツ)ว 1980 (° ͜ʖ͡°)╭∩╮</h1>
