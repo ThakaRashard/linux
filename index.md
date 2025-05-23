@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>1980 | ./HoleToAnotherUniverse</title>
+<title>RashardKELLY | ./HoleToAnotherUniverse/linux</title>
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="1980" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://ricothaka.github.io/1980" />
-<meta property="og:url" content="https://ricothaka.github.io/1980" />
+<link rel="canonical" href="https://ricothakarashard.github.io/linux" />
+<meta property="og:url" content="https://ricothakarashard.github.io/linux" />
 <meta property="og:site_name" content="./HoleToAnotherUniverse" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
@@ -23,10 +23,8 @@
 
    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
     <script src="/assets/js/main.js"></script>
-    <!--[if lt IE 9]>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <style>
  @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
 @import "rouge-base16-dark";
