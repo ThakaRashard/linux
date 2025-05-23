@@ -17,7 +17,7 @@
 
 # RealLinux [LosAngeles](https://lacity.gov/jobs) 
 [My_NAsa_JPL_UPDATE @nasa-jpl](https://dn720704.ca.archive.org/0/items/the-yogi-bear-show/The%20Yogi%20Bear%20Show/Season%2001/The%20Yogi%20Bear%20Show%20-%20S01E02%20-%20Slumber%20Party%20Smarty%20HDTV-1080p.mp4) - [RAshard's `Trello`](https://trello.com/b/CN1UytXe/housekeeping) @nasa @redhatoffical @suse @ubuntu [AMD](https://www.amd.com/en.html) @amd @intel
-
+[RELATEDTWEET](https://x.com/BubbleGumPop510/status/1926061396669645091)
   
 # Emulation : [liked](https://archive.org/details/consolelivingroom)
 ![wipeout](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8zCCzLBRiduoy_-oKLSH7h1Ct9d2OWse9z9rSqCklIXMFXvXeOXlDN7fKiMfS9Xyg96iN8Acy79QNW-329g5LQI-whi0c3cWSJUguVCQO8pVZHhN72A9bneuh0WE2oNzZsv6fpqiNuUJV/s1600/1270676-we_ps1_plat_cover.jpg)
