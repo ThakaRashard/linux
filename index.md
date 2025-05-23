@@ -825,16 +825,69 @@ figure {
     <div id="wrapper">
        <div id="heading">
   
-      <div>./HoleToAnotherUniverse
+ 
   
-      </div>      
-  
-    </div>
-  
- <div id="m
+ <div id="main>
  
 
- # Emulation on Android using [RetroArch](https://web.libretro.com/)
+# RealAndroid [LosAngeles](https://lacity.gov/jobs) 
+ 
+<div class="tupperware">
+  
+  
+<video  controls> 
+	<source src="https://ia800404.us.archive.org/23/items/vid-20250217-120844/VID_20250216_223735.mp4" type="video/mp4">	 
+</video> 
+
+<video controls>
+	<source src="https://ia802301.us.archive.org/15/items/screen-20250110-091254/screen-20250110-091254.mp4" type="video/mp4">	 
+</video> 
+
+<video controls>
+	<source src="https://ia800604.us.archive.org/25/items/screen-20250109-185120/screen-20250109-185120.mp4" type="video/mp4">	 
+</video> 
+<video  controls> 
+	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250220-093458.mp4" type="video/mp4">	 
+</video> 
+
+<video controls> 
+	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250220-131433.mp4" type="video/mp4">	 
+</video> 
+
+<video controls> 
+	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250220-193317.mp4" type="video/mp4">	 
+</video> 
+
+</div>
+
+[DataMAnagement](https://daac.ornl.gov/datamanagement/)
+<div class="tupperware">
+<video width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
+</video> 
+
+<video width="auto" height="400px" controls> 
+	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-092102.mp4" type="video/mp4">	 
+</video> 
+
+<video width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-094856.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+
+<div class="tupperware">
+<video controls> 
+	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-060247.mp4" type="video/mp4">	 
+</video> 
+<video controls> 
+	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-084039.mp4" type="video/mp4">	 
+</video> 
+<video controls> 
+	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-062038.mp4" type="video/mp4">	 
+</video>
+ </div>
+# Emulation on Android using [RetroArch](https://web.libretro.com/)
 
 <div class="tupperware">
 <video  controls> 
@@ -862,6 +915,9 @@ figure {
 </video> 
 </div>
 
+
+
+[xScreensaver on Android](https://x.com/BubbleGumPop626/status/1743038270815236483)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1816134055214910%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 <h2>Red Hat Enterprise Linux 10.0</h2>
