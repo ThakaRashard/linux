@@ -16,7 +16,7 @@
 <body markdown="1">
 
 # RealLinux [LosAngeles](https://lacity.gov/jobs) 
-[My_NAsa_JPL_UPDATE @nasa-jpl](https://dn720704.ca.archive.org/0/items/the-yogi-bear-show/The%20Yogi%20Bear%20Show/Season%2001/The%20Yogi%20Bear%20Show%20-%20S01E02%20-%20Slumber%20Party%20Smarty%20HDTV-1080p.mp4) - [RAshard's `Trello`](https://trello.com/b/CN1UytXe/housekeeping) @nasa @redhatoffical @suse @ubuntu
+[My_NAsa_JPL_UPDATE @nasa-jpl](https://dn720704.ca.archive.org/0/items/the-yogi-bear-show/The%20Yogi%20Bear%20Show/Season%2001/The%20Yogi%20Bear%20Show%20-%20S01E02%20-%20Slumber%20Party%20Smarty%20HDTV-1080p.mp4) - [RAshard's `Trello`](https://trello.com/b/CN1UytXe/housekeeping) @nasa @redhatoffical @suse @ubuntu [AMD](https://www.amd.com/en.html) @amd @intel
 
   
 # Emulation : [liked](https://archive.org/details/consolelivingroom)
