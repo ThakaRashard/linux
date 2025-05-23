@@ -19,8 +19,22 @@
   
  
   
- <div id="main>
+ <div id="main">
  
+
+ <div class="tupperware">
+  
+  
+<video  controls> 
+	<source src="https://ia600105.us.archive.org/17/items/vid-20241224-142326/screen-20241225-130931.mp4" alt="Rashard Reading Android Forensics" type="video/mp4">	 
+</video> 
+
+<video controls>
+	<source src="https://ia600105.us.archive.org/17/items/vid-20241224-142326/screen-20241225-204603.mp4" alt="Rashard Using image magicK" type="video/mp4">	 
+</video> 
+
+</div>
+
 
 # RealAndroid [LosAngeles](https://lacity.gov/jobs) 
  
