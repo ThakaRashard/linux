@@ -66,6 +66,12 @@
 
 </div>
 
+![wipeout](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8zCCzLBRiduoy_-oKLSH7h1Ct9d2OWse9z9rSqCklIXMFXvXeOXlDN7fKiMfS9Xyg96iN8Acy79QNW-329g5LQI-whi0c3cWSJUguVCQO8pVZHhN72A9bneuh0WE2oNzZsv6fpqiNuUJV/s1600/1270676-we_ps1_plat_cover.jpg)
+<iframe src="https://archive.org/embed/psx_wpoutxl" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmkdRG7MQm4?si=KcHeYOTRC3tkIWx6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 [DataMAnagement](https://daac.ornl.gov/datamanagement/)
 <div class="tupperware">
 <video width="auto" height="400px" controls> 
@@ -204,7 +210,7 @@ The Android Open Source Project (AOSP) is publicly available and modifiable Andr
 <h3 id="is-that-all-there-is---peggy-lee"><a href="https://www.youtube.com/watch?v=QPP6UgkmyM4">Is That All There Is? - Peggy Lee</a></h3>
 <h1 id="‿つ-1980">⊂(◉‿◉)つ 1980</h1>
 <p>im still your friend, i think u will like this <a href="https://youtu.be/KHDOj2QxAfQ?t=483">Hexstatic - Solid Steel Presents Hexstatic: Listen &amp; Learn (full mix-CD)</a>
-i wrote u a not on <a href="ricothaka.github.io">my page</a></p>
+i wrote u a not on <a href="{{ site.url }}{{ site.baseurl }}">my page</a></p>
 <iframe width="960" height="540" src="https://www.youtube.com/embed/F6wnB3Aa8TI" title="Count Basie - Have A Nice Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 <h3 id="learning-linux">learning Linux</h3>
 <p><a href="https://linuxjourney.com/">Linux Journey</a> <a href="https://distrosea.com/">DistroSea: Test Linux distros online</a></p>
@@ -240,10 +246,10 @@ i wrote u a not on <a href="ricothaka.github.io">my page</a></p>
   <div class="css3badge"><a href="https://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:43px;height:15px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /></a>
   </div>
 
-  <div class="css3badge"><a href="https://github.com/ricothaka"><img style="border:0;width:57.5px;height:15px" src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" alt="ricothaka" /></a>
+  <div class="css3badge"><a href="https://github.com/ricothakarashard"><img style="border:0;width:57.5px;height:15px" src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" alt="ricothaka" /></a>
   </div>
 
-  <div class="logo"><a href="https://ricothaka.github.io/">./HoleToAnotherUniverse</a>
+  <div class="logo"><a href="{{ site.url }}{{ site.baseurl }}">./HoleToAnotherUniverse</a>
  <IMG src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/default/public/2023-04/Tri_Color_Ribbon_6000x75_v2.png.webp" alt="Los ANgeles Flag" />
 </div>
  
