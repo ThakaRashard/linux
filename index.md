@@ -38,7 +38,7 @@
 </style>
   </head>
   
-  
+  <div id="wrapper"><div id="heading"><div>./HoleToAnotherUniverse/linux</div></div>
   <body markdown="1">
 
   
@@ -246,15 +246,11 @@ i wrote u a not on <a href="ricothaka.github.io">my page</a></p>
 
 
 </div>
-      <div id="footer">
-  
-      <div>./HoleToAnotherUniverse</div>
-  
+    <div id="footer"> <div>./HoleToAnotherUniverse</div></div>
     </div>
-      </div>
-      <script type="text/javascript" src="/js/lightbox.js"></script>
-      <link rel="stylesheet" href="/css/lightbox.css">
-  </body>
+    <script type="text/javascript" src="/js/lightbox.js"></script>
+    <link rel="stylesheet" href="/css/lightbox.css">
+</body>
 
   
 </html>
