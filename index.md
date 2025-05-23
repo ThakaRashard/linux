@@ -1,38 +1,15 @@
 <!doctype html>
 <html lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>RashardKELLY | ./HoleToAnotherUniverse/linux</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="1980" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://ricothakarashard.github.io/linux" />
-<meta property="og:url" content="https://ricothakarashard.github.io/linux" />
-<meta property="og:site_name" content="./HoleToAnotherUniverse" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="1980" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","headline":"1980","url":"https://ricothaka.github.io/1980"}</script>
-
-
- <link rel="stylesheet" href="htau.css"> 
-
-   <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
-    <script src="/assets/js/main.js"></script>
-
-   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<head>
+<link rel="stylesheet" href="htau.css"> 
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <style>
- @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
 @import "rouge-base16-dark";
 @font-face {
   font-family: Cluster;
   src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
 }
-
 </style>
   </head>
   
