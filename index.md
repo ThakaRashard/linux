@@ -13,11 +13,11 @@
 </style>
   </head>
   
-  <div id="wrapper"><div id="heading"><div>./HoleToAnotherUniverse/linux</div></div>
-  <body markdown="1">
+ 
+<body markdown="1">
 
   
- 
+ <div id="wrapper"><div id="heading"><div>./HoleToAnotherUniverse/linux</div></div> 
   
  <div id="main">
  
@@ -235,8 +235,20 @@ i wrote u a not on <a href="ricothaka.github.io">my page</a></p>
 
 
 </div>
-    <div id="footer"> <div>./HoleToAnotherUniverse</div></div>
-    </div>
+<FOOTER id="footer">
+
+  <div class="css3badge"><a href="https://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:43px;height:15px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /></a>
+  </div>
+
+  <div class="css3badge"><a href="https://github.com/ricothaka"><img style="border:0;width:57.5px;height:15px" src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" alt="ricothaka" /></a>
+  </div>
+
+  <div class="logo"><a href="https://ricothaka.github.io/">./HoleToAnotherUniverse</a>
+ <IMG src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/default/public/2023-04/Tri_Color_Ribbon_6000x75_v2.png.webp" alt="Los ANgeles Flag" />
+</div>
+ 
+
+</FOOTER>
     <script type="text/javascript" src="/js/lightbox.js"></script>
     <link rel="stylesheet" href="/css/lightbox.css">
 </body>
