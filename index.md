@@ -17,8 +17,7 @@
 <body markdown="1">
 
   
- <div id="wrapper"><div id="heading"><div>./HoleToAnotherUniverse/linux</div></div> 
-  
+
  <div id="main">
  
 
