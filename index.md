@@ -84,8 +84,6 @@ q                          $                          ^_^]The character counts f
 
 [xScreensaver on Android](https://x.com/BubbleGumPop626/status/1743038270815236483)
 
-{% include tar.md %}
-{% include bash.md %}
 
 [<img src="https://ia800208.us.archive.org/33/items/mondaycmd/mondaycmd2.png" width=auto height=auto alt="Rashard commandline horizontal screenshot merge using imagemagick"/>](hhttps://ia800208.us.archive.org/33/items/mondaycmd/mondaycmd2.png)
 [<img src="https://archive.org/download/mondaycmd/mondaycmd.png" alt="Rashard commandline horizontal screenshot merge using imagemagick"/>](https://archive.org/download/mondaycmd/mondaycmd.png)
