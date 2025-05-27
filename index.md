@@ -17,6 +17,20 @@
 
 
 
+# CALiFORNiA_LiNUX
+<iframe src="https://archive.org/embed/NO_SOUND_TED_ROSS_AND_I_CANT_SEE_THE_PATCHLEVEL_TO_TROUBLESHOOT" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# [RedHat](https://www.redhat.com/en/red-hat-original-series) 
+@blackgirlscode @nasa-jpl i have to bookmark this they even have rss feeds @redhatofficial i am so uncomfortable with the radio messages in my headphones. I would guess the @jekyllrb install is like an extension.. It works well for me taking notes and [collecting pdfs](https://archive.org/details/image_20250428_2325/1/) [[RSS]](https://feeds.simplecast.com/Ynq4lw9w)
+<div class="tupperware">
+
+![compiler](https://www.redhat.com/rhdc/managed-files/compiler-image.png)
+![cli_heroes](https://www.redhat.com/rhdc/managed-files/Command-Line-network.jpg)
+
+
+
+</div>
+[[RSS]](https://feeds.simplecast.com/Ynq4lw9w)
 
 @blackgirlscode im not ashamed of you [Kash DoLL](https://youtu.be/6s4slL3_jtI?si=SZIHENsj4GxbdyDP) We just [GenderDividedPlatonic](https://www.resiliencelab.us/thought-lab/platonic-relationships#:~:text=A%20platonic%20relationship%20is%20defined,%E2%80%8D)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1922992082&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/klarity" title="Klarity" target="_blank" style="color: #cccccc; text-decoration: none;">Klarity</a></div>
