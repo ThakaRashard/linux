@@ -15,6 +15,11 @@
  
 <body markdown="1">
 
+
+
+
+@blackgirlscode im not ashamed of you [Kash DoLL](https://youtu.be/6s4slL3_jtI?si=SZIHENsj4GxbdyDP) We just [GenderDividedPlatonic](https://www.resiliencelab.us/thought-lab/platonic-relationships#:~:text=A%20platonic%20relationship%20is%20defined,%E2%80%8D)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1922992082&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/klarity" title="Klarity" target="_blank" style="color: #cccccc; text-decoration: none;">Klarity</a></div>
 # RealLinux [LosAngeles](https://www.jpl.jobs/) 
 # ./linux @stateofcalifornia @cityoflosangeles 
 ![RHEL10 @redhatofficial](https://raw.githubusercontent.com/ricothakarashard/linux/refs/heads/master/Documentation/rhel10annoucnement.jpg) notes  [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
