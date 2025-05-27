@@ -16,6 +16,13 @@
 <body markdown="1">
 
 
+ ![DEFCON](https://media.defcon.org/fancyindex/dc-logo.webp)
+ [defcon](https://defcon.org/) - [/DEF CON 16/](https://media.defcon.org/DEF%20CON%2016/)
+DEF CON 16 - Fyodor: Nmap: Scanning the Internet [download](https://media.defcon.org/DEF%20CON%2016/DEF%20CON%2016%20video%20and%20slides/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jgGPI1kHXFs?si=9uv0cRl5i99EEAi-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/995692936&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/deltron-3030" title="Deltron 3030" target="_blank" style="color: #cccccc; text-decoration: none;">Deltron 3030</a> · <a href="https://soundcloud.com/deltron-3030/positive-contact-feat-dan-1" title="Positive Contact (feat. Dan The Automator, Del The Funky Homosapien &amp; Kid Koala)" target="_blank" style="color: #cccccc; text-decoration: none;">Positive Contact (feat. Dan The Automator, Del The Funky Homosapien &amp; Kid Koala)</a></div>	
+![NMAP](https://pbs.twimg.com/media/Gr-PKVRWIAAZiRL?format=jpg&name=large)
+[RELATED_TWEET](https://x.com/BubbleGumPop510/status/1927416608450068894) [relationships](https://www.resiliencelab.us/thought-lab/platonic-relationships#:~:text=A%20platonic%20relationship%20is%20defined,%E2%80%8D)
 
 # CALiFORNiA_LiNUX
 <iframe src="https://archive.org/embed/NO_SOUND_TED_ROSS_AND_I_CANT_SEE_THE_PATCHLEVEL_TO_TROUBLESHOOT" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -34,6 +41,7 @@
 
 @blackgirlscode im not ashamed of you [Kash DoLL](https://youtu.be/6s4slL3_jtI?si=SZIHENsj4GxbdyDP) We just [GenderDividedPlatonic](https://www.resiliencelab.us/thought-lab/platonic-relationships#:~:text=A%20platonic%20relationship%20is%20defined,%E2%80%8D)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1922992082&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/klarity" title="Klarity" target="_blank" style="color: #cccccc; text-decoration: none;">Klarity</a></div>
+
 # RealLinux [LosAngeles](https://www.jpl.jobs/) 
 # ./linux @stateofcalifornia @cityoflosangeles 
 ![RHEL10 @redhatofficial](https://raw.githubusercontent.com/ricothakarashard/linux/refs/heads/master/Documentation/rhel10annoucnement.jpg) notes  [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
