@@ -4,6 +4,16 @@ font: normal 10px/18px "Red Hat Mono","Lucida Grande", "Lucida Sans Unicode", ve
 
 }
 
+.twitter-tweet { margin:0;
+                  padding:0;}
+
+blockquote[src*="platform.twitter.com"] {
+  font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;  
+  padding: 0px;
+  color:white;
+  text-shadow: 1px 1px 2px white;
+  margin:0px;
+}
 
 body {
   
