@@ -17,6 +17,7 @@
   
  
 <body markdown="1">
+{% include nav.html %}
 
 [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
  ![DEFCON](https://media.defcon.org/fancyindex/dc-logo.webp)
