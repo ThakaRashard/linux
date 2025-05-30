@@ -18,12 +18,13 @@
  
 <body markdown="1">
 
-
+[California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
  ![DEFCON](https://media.defcon.org/fancyindex/dc-logo.webp)
  [defcon](https://defcon.org/) - [/DEF CON 16/](https://media.defcon.org/DEF%20CON%2016/)
 DEF CON 16 - Fyodor: Nmap: Scanning the Internet [download](https://media.defcon.org/DEF%20CON%2016/DEF%20CON%2016%20video%20and%20slides/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jgGPI1kHXFs?si=9uv0cRl5i99EEAi-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/995692936&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/deltron-3030" title="Deltron 3030" target="_blank" style="color: #cccccc; text-decoration: none;">Deltron 3030</a> · <a href="https://soundcloud.com/deltron-3030/positive-contact-feat-dan-1" title="Positive Contact (feat. Dan The Automator, Del The Funky Homosapien &amp; Kid Koala)" target="_blank" style="color: #cccccc; text-decoration: none;">Positive Contact (feat. Dan The Automator, Del The Funky Homosapien &amp; Kid Koala)</a></div>	
+
 ![NMAP](https://pbs.twimg.com/media/Gr-PKVRWIAAZiRL?format=jpg&name=large)
 [RELATED_TWEET](https://x.com/BubbleGumPop510/status/1927416608450068894) [relationships](https://www.resiliencelab.us/thought-lab/platonic-relationships#:~:text=A%20platonic%20relationship%20is%20defined,%E2%80%8D)
 
@@ -32,14 +33,14 @@ DEF CON 16 - Fyodor: Nmap: Scanning the Internet [download](https://media.defcon
 
 # [RedHat](https://www.redhat.com/en/red-hat-original-series) 
 @blackgirlscode @nasa-jpl i have to bookmark this they even have rss feeds @redhatofficial i am so uncomfortable with the radio messages in my headphones. I would guess the @jekyllrb install is like an extension.. It works well for me taking notes and [collecting pdfs](https://archive.org/details/image_20250428_2325/1/) [[RSS]](https://feeds.simplecast.com/Ynq4lw9w)
-<div class="tupperware">
+<div class="tupperware" markdown="1">
 
 ![compiler](https://www.redhat.com/rhdc/managed-files/compiler-image.png)
 ![cli_heroes](https://www.redhat.com/rhdc/managed-files/Command-Line-network.jpg)
 
 
-
 </div>
+
 [[RSS]](https://feeds.simplecast.com/Ynq4lw9w)
 
 @blackgirlscode im not ashamed of you [Kash DoLL](https://youtu.be/6s4slL3_jtI?si=SZIHENsj4GxbdyDP) We just [GenderDividedPlatonic](https://www.resiliencelab.us/thought-lab/platonic-relationships#:~:text=A%20platonic%20relationship%20is%20defined,%E2%80%8D)
@@ -297,6 +298,15 @@ q                          $                          ^_^]The character counts f
    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fposts%2Fpfbid02RZEEidy2v57yZEmYauJAoGeED3LQyrboPghJNHW6sC67VrBNYG12frAQJzhVHnFGl&show_text=true&width=500" width="500" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
+
+
+# UnixinG_Android 
+Hi MRO, want you to have an update on what my computing situation has been since Jose took my laptop back. Im in the library system but they wont let me have free access to a computer. Its connected to my spouse's prostitution and porno. In [Santa Monica Porn is filmed at the library at times](https://www.couriermail.com.au/lifestyle/pornhub-movie-filmed-at-public-library-angers-neighbours/news-story/8f4387f7d47490bba31bd28ac27994d8). The security gaurds told me I need an ID to come in! This is the [Santa Monica Public Library](https://smpl.org/)! and the resulting gossip among security gaurds about me having #Normani_aka_SartuAdem nudes on my cellphone! It was a gift! Im grown and i did not do it on library wifi! There is a law on it i found online. Its filtered now, but i want to know where i stand bc I was attending a dance studio with girls my age and i have been in datacenters most of my life, porn is the channel most ppl in my demographic communicate via to talk to people in the physical world. It causes a lot of hormonal problems and i am a really healthy male. Coral is strong even after the NiCU. Anyway the computers i had accquired got stolen in various ways so there is a big chunck of time i am not building on a Desktop. I promised I would grow as a Sun Admin and while i was without a computer i got turned on to [TErmux](https://termux.dev/en/) and leared a lot of cool configurations to do common programming tasks and it even effected my webdesign, i started building on github and what is now my homepage was a fullpage scrolling design like i was seeing life differently. Check out the screenshots below the Termux demo and see my #PocketPC thats what i call [Android](https://www.android.com/) now... @nasaold checkin
+
+### Its just a Personal Computer
+There is such an abstraction when running the manufacure bundeld android. But its normal PC architechture in a small ass package! The Following video is a screenshare of me using [Android](https://www.android.com/) for abt a half hour on a severley disabled cellphone. No root just [termux](https://termux.dev/en/) + [fdroid](https://github.com/termux/termux-app#f-droid)
+
+[![Fdroid](https://termux.dev/assets/globals/hosts/get-it-on-fdroid.png)](https://f-droid.org/)
 
 
 ```css
