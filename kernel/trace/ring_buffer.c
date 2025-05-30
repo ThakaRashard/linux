@@ -1887,10 +1887,12 @@ static void rb_meta_validate_events(struct ring_buffer_per_cpu *cpu_buffer)
 
 	head_page = cpu_buffer->head_page;
 
-	/* If both the head and commit are on the reader_page then we are done. */
-	if (head_page == cpu_buffer->reader_page &&
-	    head_page == cpu_buffer->commit_page)
+	/* If the commit_buffer is the reader page, update the commit page */
+	if (meta->commit_buffer == (unsigned long)cpu_buffer->reader_page->page) {
+		cpu_buffer->commit_page = cpu_buffer->reader_page;
+		/* Nothing more to do, the only page is the reader page */
 		goto done;
+	}
 
 	/* Iterate until finding the commit page */
 	for (i = 0; i < meta->nr_subbufs + 1; i++, rb_inc_page(&head_page)) {
@@ -4880,6 +4882,24 @@ bool ring_buffer_record_is_on(struct trace_buffer *buffer)
 bool ring_buffer_record_is_set_on(struct trace_buffer *buffer)
 {
 	return !(atomic_read(&buffer->record_disabled) & RB_BUFFER_OFF);
+}
+
+/**
+ * ring_buffer_record_is_on_cpu - return true if the ring buffer can write
+ * @buffer: The ring buffer to see if write is enabled
+ * @cpu: The CPU to test if the ring buffer can write too
+ *
+ * Returns true if the ring buffer is in a state that it accepts writes
+ *   for a particular CPU.
+ */
+bool ring_buffer_record_is_on_cpu(struct trace_buffer *buffer, int cpu)
+{
+	struct ring_buffer_per_cpu *cpu_buffer;
+
+	cpu_buffer = buffer->buffers[cpu];
+
+	return ring_buffer_record_is_set_on(buffer) &&
+		!atomic_read(&cpu_buffer->record_disabled);
 }
 
 /**
