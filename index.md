@@ -18,6 +18,16 @@
  
 <body markdown="1">
 {% include nav.html %}
+
+
+ [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA)  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)  Mayor Bass, [Devops](https://github.com/ricothakarashard/linux/tree/master/reader) is a school of thought i was taught during my california break 16-21, 5 years. It really help me get into a more forward thinking frame of mind, but the values may conflict in @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode and im trying to be the best i can be... -[rashard](https://rashardlanasa.github.io/)
+
+
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="400" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+ ---
+
 [Experience with Linux servers in physical and virtualized environments.](#ExperiencewithLinux) 
 @libretro is my hypervisor on [@android @elonmusk @nasa-jpl](https://ricothakarashard.github.io/Computing) im responding to an [@r-spacex Job Listing](https://job-boards.greenhouse.io/spacex/jobs/7982110002?gh_jid=7982110002) I dont know what [Top Secret Clearance](https://www.intelligencecareers.gov/dia/security-clearance-process) is, but im steady growing - [Rashard](https://rashardmro.tumblr.com/) @nasa @whitehouse @blackgirlscode
 
@@ -66,7 +76,7 @@ DEF CON 16 - Fyodor: Nmap: Scanning the Internet [download](https://media.defcon
 
 # RealLinux [LosAngeles](https://www.jpl.jobs/) 
 # ./linux @stateofcalifornia @cityoflosangeles 
-![RHEL10 @redhatofficial](https://raw.githubusercontent.com/ricothakarashard/linux/refs/heads/master/Documentation/rhel10annoucnement.jpg) notes  [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+![RHEL10 @redhatofficial](https://raw.githubusercontent.com/ricothakarashard/linux/refs/heads/master/Documentation/rhel10annoucnement.jpg) notes  [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA)  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom)
 <iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <h2>What's next? Red Hat Enterprise Linux 10 and beyond</h2>
