@@ -18,6 +18,23 @@
  
 <body markdown="1">
 {% include nav.html %}
+[Experience with Linux servers in physical and virtualized environments.](#ExperiencewithLinux) 
+@libretro is my hypervisor on [@android @elonmusk @nasa-jpl](https://ricothakarashard.github.io/Computing) im responding to an [@r-spacex Job Listing](https://job-boards.greenhouse.io/spacex/jobs/7982110002?gh_jid=7982110002) I dont know what [Top Secret Clearance](https://www.intelligencecareers.gov/dia/security-clearance-process) is, but im steady growing - [Rashard](https://rashardmro.tumblr.com/) @nasa @whitehouse @blackgirlscode
+
+[DataMAnagement](https://daac.ornl.gov/datamanagement/)
+<div class="tupperware">
+<video width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
+</video> 
+
+<video width="auto" height="400px" controls> 
+	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-092102.mp4" type="video/mp4">	 
+</video> 
+
+<video width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-094856.mp4" type="video/mp4">	 
+</video> 
+</div>
 
 [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
  ![DEFCON](https://media.defcon.org/fancyindex/dc-logo.webp)
@@ -205,23 +222,7 @@ q                          $                          ^_^]The character counts f
 
 </div>
 
-[Experience with Linux servers in physical and virtualized environments.](#ExperiencewithLinux) 
-@libretro is my hypervisor on [@android @elonmusk @nasa-jpl](https://ricothakarashard.github.io/Computing) im responding to an [@r-spacex Job Listing](https://job-boards.greenhouse.io/spacex/jobs/7982110002?gh_jid=7982110002) I dont know what [Top Secret Clearance](https://www.intelligencecareers.gov/dia/security-clearance-process) is, but im steady growing - [Rashard](https://rashardmro.tumblr.com/) @nasa @whitehouse @blackgirlscode
 
-[DataMAnagement](https://daac.ornl.gov/datamanagement/)
-<div class="tupperware">
-<video width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
-</video> 
-
-<video width="auto" height="400px" controls> 
-	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-092102.mp4" type="video/mp4">	 
-</video> 
-
-<video width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-094856.mp4" type="video/mp4">	 
-</video> 
-</div>
 
 
 <div class="tupperware">
