@@ -200,8 +200,8 @@ q                          $                          ^_^]The character counts f
 
 </div>
 
-
-
+[Experience with Linux servers in physical and virtualized environments.](#ExperiencewithLinux) 
+@libretro is my hypervisor on [@android @elonmusk @nasa-jpl](https://ricothakarashard.github.io/Computing) im responding to an [@r-spacex Job Listing](https://job-boards.greenhouse.io/spacex/jobs/7982110002?gh_jid=7982110002) I dont know what [Top Secret Clearance](https://www.intelligencecareers.gov/dia/security-clearance-process) is, but im steady growing - [Rashard](https://rashardmro.tumblr.com/) @nasa @whitehouse @blackgirlscode
 
 [DataMAnagement](https://daac.ornl.gov/datamanagement/)
 <div class="tupperware">
