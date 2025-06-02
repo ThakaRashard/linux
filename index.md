@@ -22,7 +22,7 @@
 
 
 ![GiT LOGO](https://git-scm.com/images/logo@2x.png)
-[--distributed-is-the-new-centralized](https://git-scm.com/book/en/v2) [EPUB](https://github.com/progit/progit2/releases/download/2.1.447/progit.epub) [PDF](https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf)
+[--distributed-is-the-new-centralized](https://git-scm.com/book/en/v2) [EPUB](https://github.com/progit/progit2/releases/download/2.1.447/progit.epub) [PDF](https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf) [HTML](https://git-scm.com/book/en/v2) [ViDEOS](https://git-scm.com/videos)
 
 ![branching](https://git-scm.com/images/branching-illustration@2x.png)
 
