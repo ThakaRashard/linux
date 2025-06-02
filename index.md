@@ -20,6 +20,12 @@
 {% include nav.html %}
 
 
+
+![GiT LOGO](https://git-scm.com/images/logo@2x.png)
+[--distributed-is-the-new-centralized](https://git-scm.com/book/en/v2) [EPUB](https://github.com/progit/progit2/releases/download/2.1.447/progit.epub) [PDF](https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf)
+
+![branching](https://git-scm.com/images/branching-illustration@2x.png)
+
  [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA)  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)  Mayor Bass, [Devops](https://github.com/ricothakarashard/linux/tree/master/reader) is a school of thought i was taught during my california break 16-21, 5 years. It really help me get into a more forward thinking frame of mind, but the values may conflict in @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode and im trying to be the best i can be... -[rashard](https://rashardlanasa.github.io/)
 
 
