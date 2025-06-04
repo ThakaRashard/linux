@@ -19,8 +19,28 @@
 <body markdown="1">
 {% include nav.html %}
 
+# Termux / Nova Launcher
+<div class="tupperware" markdown="1">
 
+[<video width="auto" height="400px" controls src="https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_rv31e6opuG1zhx4f1.mp4" />](https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_rv31e6opuG1zhx4f1.mp4)
 
+[<video width="auto" height="400px" controls src="https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_ruv49p1aDF1zhx4f1.mp4" />](https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_ruv49p1aDF1zhx4f1.mp4)
+</div>
+
+# TUMBLRs
+[animatedBackground](https://bubblegumpop01.tumblr.com/) / [RashardMRO](https://rashardmro.tumblr.com/)
+
+# [MIME types?](https://docs.oracle.com/en/cloud/saas/field-service/faqaa/r-supportedmimetypes.html)
+# FailedToSend @x
+You guys gotta see how hard they went on me [DTLA](https://downtownla.com/) 
+
+<div class="tupperware">
+<video width="auto" height="400px" controls> 
+	<source src="https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_ruukmuLuFt1zhx4f1.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+[Red Hat OpenShift Virtualization - getstarted doc @redhatofficial](https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/getstarted_REDHAT_OPENSHiFT.pdf)
 ![GiT LOGO](https://git-scm.com/images/logo@2x.png)
 [--distributed-is-the-new-centralized](https://git-scm.com/book/en/v2) [EPUB](https://github.com/progit/progit2/releases/download/2.1.447/progit.epub) [PDF](https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf) [HTML](https://git-scm.com/book/en/v2) [ViDEOS](https://git-scm.com/videos)
 
