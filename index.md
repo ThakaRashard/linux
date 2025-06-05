@@ -18,7 +18,9 @@
  
 <body markdown="1">
 {% include nav.html %}
-	
+
+[RashardThakA Kelly:DOCKERHUB](https://hub.docker.com/repositories/rashardthakakelly)
+[Introducing Docker Hardened Images: Secure, Minimal, and Ready for Production](https://www.docker.com/blog/introducing-docker-hardened-images/?_gl=1*1cdki2q*_ga*MTgzNDAzODcxOC4xNzQ5MTQ0MDkx*_ga_XJWPQMJYHQ*czE3NDkxNDQwOTEkbzEkZzEkdDE3NDkxNDQxMDEkajUwJGwwJGgw)
 [REddit /r/NASAJobs response to /u/ReviewBest8540 : Still no jobs? Should i take a contractor job? Or will I be laid off after 2 weeks?](https://www.reddit.com/r/NASAJobs/comments/1l4175u/comment/mw66byj/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) @nasa @nasa-jpl @whitehouse #KarenBass @stateofcalifornia @cityoflosangeles
 [MORi Associates: Advancing the Technologies that Advance the World](https://moriassociates.com/)	[@nasa-jpl : JOBS](https://www.jpl.jobs/) [NOAA GEAR WE SUPPORT](https://rashardlanasa.github.io/2025/04/18/NOAA.html)
 
