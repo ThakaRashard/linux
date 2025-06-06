@@ -19,6 +19,12 @@
 <body markdown="1">
 {% include nav.html %}
 
+
+[Linux From Scratch (LFS)](https://www.linuxfromscratch.org/) is a project that provides you with step-by-step [instructions](https://github.com/ccceye/computer-book/tree/master) for building your own custom Linux system, entirely from source code. [PDf_VERSiON_12_1](https://www.linuxfromscratch.org/lfs/downloads/12.1/LFS-BOOK-12.1.pdf) [LFS_RELEASE_DiR](https://www.linuxfromscratch.org/lfs/downloads/) [The Design of the UNIX Operating System](https://ia801802.us.archive.org/31/items/DesignUNIXOperatingSystem/DesignUnixOs.pdf) [The UNIX Programming Environment](https://ia601809.us.archive.org/24/items/UNIXProgrammingEnvironment/UnixProgrammingEnvironment.pdf) [Brian W. Kernighan, Rob Pike:the-practice-of-programming](https://github.com/Heatwave/the-practice-of-programming)
+
+
+[mono](https://youtu.be/uABHh5OGQHs?si=r4RYvtFiL8henPrM)
+
 [RashardThakA Kelly:DOCKERHUB](https://hub.docker.com/repositories/rashardthakakelly)
 [Introducing Docker Hardened Images: Secure, Minimal, and Ready for Production](https://www.docker.com/blog/introducing-docker-hardened-images/?_gl=1*1cdki2q*_ga*MTgzNDAzODcxOC4xNzQ5MTQ0MDkx*_ga_XJWPQMJYHQ*czE3NDkxNDQwOTEkbzEkZzEkdDE3NDkxNDQxMDEkajUwJGwwJGgw)
 [REddit /r/NASAJobs response to /u/ReviewBest8540 : Still no jobs? Should i take a contractor job? Or will I be laid off after 2 weeks?](https://www.reddit.com/r/NASAJobs/comments/1l4175u/comment/mw66byj/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) @nasa @nasa-jpl @whitehouse #KarenBass @stateofcalifornia @cityoflosangeles
