@@ -20,7 +20,7 @@
 {% include nav.html %}
 
 
-[Linux From Scratch (LFS)](https://www.linuxfromscratch.org/) is a project that provides you with step-by-step [instructions](https://github.com/ccceye/computer-book/tree/master) for building your own custom Linux system, entirely from source code. [PDf_VERSiON_12_1](https://www.linuxfromscratch.org/lfs/downloads/12.1/LFS-BOOK-12.1.pdf) [LFS_RELEASE_DiR](https://www.linuxfromscratch.org/lfs/downloads/) [The Design of the UNIX Operating System](https://ia801802.us.archive.org/31/items/DesignUNIXOperatingSystem/DesignUnixOs.pdf) [The UNIX Programming Environment](https://ia601809.us.archive.org/24/items/UNIXProgrammingEnvironment/UnixProgrammingEnvironment.pdf) [Brian W. Kernighan, Rob Pike:the-practice-of-programming](https://github.com/Heatwave/the-practice-of-programming)
+[Linux From Scratch (LFS)](https://www.linuxfromscratch.org/) is a project that provides you with step-by-step [instructions](https://github.com/ccceye/computer-book/tree/master) for building your own custom Linux system, entirely from source code. [PDf_VERSiON_12_1](https://www.linuxfromscratch.org/lfs/downloads/12.1/LFS-BOOK-12.1.pdf) [LFS_RELEASE_DiR](https://www.linuxfromscratch.org/lfs/downloads/) [The Design of the UNIX Operating System](https://ia801802.us.archive.org/31/items/DesignUNIXOperatingSystem/DesignUnixOs.pdf) [The UNIX Programming Environment](https://ia601809.us.archive.org/24/items/UNIXProgrammingEnvironment/UnixProgrammingEnvironment.pdf) [Brian W. Kernighan, Rob Pike:the-practice-of-programming](https://github.com/Heatwave/the-practice-of-programming) [current](https://youtu.be/0qpn1S4ex8I?si=NORDMsFjZkokBxTy)
 
 
 [mono](https://youtu.be/uABHh5OGQHs?si=r4RYvtFiL8henPrM)
