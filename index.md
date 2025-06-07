@@ -1,3 +1,8 @@
+---
+layout: default
+title: ./HoleToAnotherUniverse/linux
+mermaid: true
+---
 
 {% include nav.html %}
 
