@@ -7,25 +7,10 @@ mermaid: true
  {{ jekyll.version }}
 {% include nav.html %}
 
-# TraceRoute / vomit / Emulators
-
-<div class="tupperware">
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia802301.us.archive.org/15/items/screen-20250110-091254/screen-20250110-095407.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://archive.org/download/vid-20250111-185225/VID_20250111_185225.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600602.us.archive.org/34/items/screenshot-20240728-051602/screen-20240727-125057.ia.mp4" type="video/mp4">	 
-</video> 
-</div>
 
 
 # Android Radio [How to Activate an FM Chip on Android](https://www.wikihow.com/Activate-an-FM-Chip-on-Android)
-<div class="tupperware">
+<div itemprop="about" class="tupperware">
 <video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
 </video> 
@@ -43,7 +28,9 @@ mermaid: true
 </video> 
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif" alt="By Berserkerus - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=5071748"/> [Broadcast radio HAL](https://source.android.com/docs/automotive/radio/broadcast-radio-hal) The following sections describe how to work with the hardware abstraction layer (HAL) to implement broadcast radio. `IBroadcastRadio` is the primary interface for the broadcast radio HAL. In the HIDL 2.0 HAL, use the ITunerSession interface to the tuner to call operations. However, at most one tuner is active at one time (provided each broadcast radio HAL instance only has one tuner chip). ITunerSession was removed from the AIDL interfaces and its interfaces moved to IBroadcastRadio.
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif" alt="By Berserkerus - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=5071748"/> 
+
+[Broadcast radio HAL](https://source.android.com/docs/automotive/radio/broadcast-radio-hal) The following sections describe how to work with the hardware abstraction layer (HAL) to implement broadcast radio. `IBroadcastRadio` is the primary interface for the broadcast radio HAL. In the HIDL 2.0 HAL, use the ITunerSession interface to the tuner to call operations. However, at most one tuner is active at one time (provided each broadcast radio HAL instance only has one tuner chip). ITunerSession was removed from the AIDL interfaces and its interfaces moved to IBroadcastRadio.
 
 # X-Men:Children Of The Atom 
 i [got shocked](https://www.yelp.com/biz/cahuenga-branch-library-los-angeles) for searching [google for capcom on github](https://www.google.com/search?q=capcom+github&rlz=1CASLJZ_enUS1165&oq=capcom+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCwgCEAAYFhgeGMcDMgoIAxAAGIAEGKIEMgcIBBAAGO8FMgoIBRAAGIAEGKIE0gEIMTk5M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8)  . . . [TheGame](https://archive.org/details/arcade_xmcota) is that good! However i wanted to [demonstrate](https://www.youtube.com/channel/UCzuoYhoXgnT8hQv8CMj-hBQ) the androids capabilities. Radio is a essenntial personal item during a disaster in Los Angeles County: The [EmergenceyGuide](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/) explains it on page [33](https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf#page=33) and [39](https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf#page=39)
@@ -58,11 +45,31 @@ While [the price on Ebay](https://www.ebay.com/b/Android-FM-Radio-Cell-Phones-Sm
 
 [![FairPhone](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)
 
-<video preload="none" controls>
+<video preload="auto" controls>
 	<source src="https://ia600809.us.archive.org/16/items/lprm-amsr-2-d-soilm-3-001-soil-moisture-c-1-animation-video-download/screen-20250310-064725.mp4" type="video/mp4">	 
 </video> 
 
 [FM Radio in Smartphones: A Look Under the Hood](https://nabpilot.org/wp-content/uploads/2016/06/2015-BEC-Paper-FM-Radio-in-Smartphones-FINALr4.pdf) [NAB.org](https://www.nab.org/) @FCC @nasa-jpl @blackgirlscode @whitehouse @fema @cityoflosangeles @stateofcalifornia
+
+# TraceRoute / vomit / Emulators
+[Rashard_MRO/on:RashardLearned](https://thakarashard.github.io/rashardlearned/2024/11/03/RashardMRO-mars-reconnaissance-orbiter.html)
+<div itemprop="learningResourceType" class="tupperware">
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia802301.us.archive.org/15/items/screen-20250110-091254/screen-20250110-095407.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://archive.org/download/vid-20250111-185225/VID_20250111_185225.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600602.us.archive.org/34/items/screenshot-20240728-051602/screen-20240727-125057.ia.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+_educationalAlignment_
+[A Schema.org Property](https://schema.org/educationalAlignment)
+
 # County Of Los Angeles:Emergency Survival Guide
 [DOWNLOAD_PDF](http://publichealth.lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf)
 <object data="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf" type="application/pdf" width="350" height="400">
@@ -91,15 +98,15 @@ For example, this HTML tag opens page 4 of a PDF file named myfile.pdf:
 </video> 
 
 <div class="tupperware">
-<video preload="none" width="auto" height="400px" controls> 
+<video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia601503.us.archive.org/14/items/screen-20250308-102510/screen-20250307-201813.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" width="auto" height="400px" controls> 
+<video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia601503.us.archive.org/14/items/screen-20250308-102510/screen-20250307-192757.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" width="auto" height="400px" controls> 
+<video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	 
 </video> 
 </div>
@@ -196,9 +203,9 @@ Working with The Object tag
 # Termux / Nova Launcher
 <div class="tupperware" markdown="1">
 
-[<video preload="none" width="auto" height="400px" controls src="https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_rv31e6opuG1zhx4f1.mp4" />](https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_rv31e6opuG1zhx4f1.mp4)
+[<video preload="auto" width="auto" height="400px" controls src="https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_rv31e6opuG1zhx4f1.mp4" />](https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_rv31e6opuG1zhx4f1.mp4)
 
-[<video preload="none" width="auto" height="400px" controls src="https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_ruv49p1aDF1zhx4f1.mp4" />](https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_ruv49p1aDF1zhx4f1.mp4)
+[<video preload="auto" width="auto" height="400px" controls src="https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_ruv49p1aDF1zhx4f1.mp4" />](https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_ruv49p1aDF1zhx4f1.mp4)
 </div>
 
 # TUMBLRs
@@ -209,7 +216,7 @@ Working with The Object tag
 You guys gotta see how hard they went on me [DTLA](https://downtownla.com/) 
 
 <div class="tupperware">
-<video preload="none" width="auto" height="400px" controls> 
+<video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/tumblr_ruukmuLuFt1zhx4f1.mp4" type="video/mp4">	 
 </video> 
 </div>
@@ -233,15 +240,15 @@ You guys gotta see how hard they went on me [DTLA](https://downtownla.com/)
 
 [DataMAnagement](https://daac.ornl.gov/datamanagement/)
 <div class="tupperware">
-<video preload="none" width="auto" height="400px" controls> 
+<video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" width="auto" height="400px" controls> 
+<video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-092102.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" width="auto" height="400px" controls> 
+<video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-094856.mp4" type="video/mp4">	 
 </video> 
 </div>
@@ -328,15 +335,15 @@ q                          $                          ^_^]The character counts f
 ```
 [DataMAnagement](https://daac.ornl.gov/datamanagement/)
 <div class="tupperware">
-<video preload="none" width="auto" height="400px" controls> 
+<video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" width="auto" height="400px" controls> 
+<video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-092102.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" width="auto" height="400px" controls> 
+<video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-094856.mp4" type="video/mp4">	 
 </video> 
 </div>
@@ -391,11 +398,11 @@ q                          $                          ^_^]The character counts f
 <div class="tupperware">
 
   
-<video preload="none"  controls> 
+<video preload="auto"  controls> 
 	<source src="https://ia600105.us.archive.org/17/items/vid-20241224-142326/screen-20241225-130931.mp4" alt="Rashard Reading Android Forensics" type="video/mp4">	 
 </video> 
 
-<video preload="none" controls>
+<video preload="auto" controls>
 	<source src="https://ia600105.us.archive.org/17/items/vid-20241224-142326/screen-20241225-204603.mp4" alt="Rashard Using image magicK" type="video/mp4">	 
 </video> 
 
@@ -407,26 +414,26 @@ q                          $                          ^_^]The character counts f
 <div class="tupperware">
   
   
-<video preload="none"  controls> 
+<video preload="auto"  controls> 
 	<source src="https://ia800404.us.archive.org/23/items/vid-20250217-120844/VID_20250216_223735.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" controls>
+<video preload="auto" controls>
 	<source src="https://ia802301.us.archive.org/15/items/screen-20250110-091254/screen-20250110-091254.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" controls>
+<video preload="auto" controls>
 	<source src="https://ia800604.us.archive.org/25/items/screen-20250109-185120/screen-20250109-185120.mp4" type="video/mp4">	 
 </video> 
-<video preload="none"  controls> 
+<video preload="auto"  controls> 
 	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250220-093458.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" controls> 
+<video preload="auto" controls> 
 	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250220-131433.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" controls> 
+<video preload="auto" controls> 
 	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250220-193317.mp4" type="video/mp4">	 
 </video> 
 
@@ -436,40 +443,40 @@ q                          $                          ^_^]The character counts f
 
 
 <div class="tupperware">
-<video preload="none" controls> 
+<video preload="auto" controls> 
 	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-060247.mp4" type="video/mp4">	 
 </video> 
-<video preload="none" controls> 
+<video preload="auto" controls> 
 	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-084039.mp4" type="video/mp4">	 
 </video> 
-<video preload="none" controls> 
+<video preload="auto" controls> 
 	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-062038.mp4" type="video/mp4">	 
 </video>
  </div>
 # Emulation on Android using [RetroArch](https://web.libretro.com/)
 
 <div class="tupperware">
-<video preload="none"  controls> 
+<video preload="auto"  controls> 
 	<source src="https://archive.org/download/screen-20250308-102510/screen-20250308-102815.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" controls> 
+<video preload="auto" controls> 
 	<source src="https://archive.org/download/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" controls> 
+<video preload="auto" controls> 
 	<source src="https://archive.org/download/vid-20250304-092210_202503/screen-20250304-135442.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none"  controls> 
+<video preload="auto"  controls> 
 	<source src="https://ia803207.us.archive.org/31/items/speed-buggy-01-speed-buggy-went-that-a-way/screen-20250301-135907.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" controls>
+<video preload="auto" controls>
 	<source src="https://ia903207.us.archive.org/31/items/speed-buggy-01-speed-buggy-went-that-a-way/screen-20250301-080536.mp4" type="video/mp4">	 
 </video> 
 
-<video preload="none" controls>
+<video preload="auto" controls>
 	<source src="https://ia600809.us.archive.org/16/items/lprm-amsr-2-d-soilm-3-001-soil-moisture-c-1-animation-video-download/screen-20250310-064725.mp4" type="video/mp4">	 
 </video> 
 </div>

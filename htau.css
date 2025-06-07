@@ -314,6 +314,13 @@ img:hover {
     transform: scale(1.05);
   }
   
+.floatright img:nth-child(odd) {
+  float: right;
+}
+.floatleft img:nth-child(even) {
+  float: left;
+  border-bottom: solid 10px #ffffff50;
+}  
 /*img {  max-height: 100%;
   max-width: 100%;
 display:block;} */
