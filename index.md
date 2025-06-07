@@ -1,22 +1,4 @@
-<html lang="en-US">
-<head>
-<link rel="stylesheet" href="htau.css"> 
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
-@import "rouge-base16-dark";
-@font-face {
-  font-family: Cluster;
-  src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
-}
 
-
-
-</style>
-  </head>
-  
- 
-<body markdown="1">
 {% include nav.html %}
 
 
@@ -510,8 +492,3 @@ i wrote u a not on <a href="{{ site.url }}{{ site.baseurl }}">my page</a></p>
 
 <script type="text/javascript" src="/js/lightbox.js"></script>
 <link rel="stylesheet" href="/css/lightbox.css">
-</body>
-
-
-  
-</html>
