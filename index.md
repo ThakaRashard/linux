@@ -3,7 +3,8 @@ layout: default
 title: ./HoleToAnotherUniverse/linux
 mermaid: true
 ---
-
+### jekyll.version
+ {{ jekyll.version }}
 {% include nav.html %}
 
 
