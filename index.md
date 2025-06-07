@@ -479,7 +479,7 @@ i wrote u a not on <a href="{{ site.url }}{{ site.baseurl }}">my page</a></p>
 <iframe width="960" height="540" src="https://www.youtube.com/embed/F6wnB3Aa8TI" title="Count Basie - Have A Nice Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 <h3 id="learning-linux">learning Linux</h3>
 <p><a href="https://linuxjourney.com/">Linux Journey</a> <a href="https://distrosea.com/">DistroSea: Test Linux distros online</a></p>
-<a href="https://www.youtube.com/watch?v=Cg1j3kMD2a4">Must Be dues - Melba Moore - song</a></p>
+<a href="https://www.youtube.com/watch?v=Cg1j3kMD2a4">Must Be dues - Melba Moore - song</a>
 
 <p>JAY-Z - The Story of O.J. <a href="https://www.billboard.com/music/rb-hip-hop/jay-z-goes-thanks-influences-songwriters-hall-twitter-7833773/">Jay Z Goes on Twitter Spree Thanking Influences After Songwriters Hall of Fame Induction</a> 
 <a href="https://youtu.be/nUa32C6LuDE?si=E23brWEiJBr4xfuk">Sevyn Streeter On 76ers Stopping Her From Wearing “We Matter” Shirt</a> <a href="https://www.youtube.com/watch?v=Y2TbLohPKI0">The Breakfast Club Classic - Jay Z Interview 2013</a> <a href="https://www.youtube.com/watch?v=SM9oFokxCKw">Sevyn Streeter Perfoms in We Matter Jersey</a>  <a href="https://x.com/thakasartu/media">Media Upload ThakaSartu</a> <a href="https://thakasartu.github.io/">Thakasartu bulliten board of sorts on github [css archive]</a> <a href="https://youtu.be/yS_GWY6B_y8?si=OgN1CE7OerTzRYUZ">Kevin Hart Exposes Disturbing Party Footage Of Diddy.. (Exclusive)</a> <a href="https://www.youtube.com/watch?v=XRxItoK6wKc">Jay-Z - Things That U Do (Feat. Mariah Carey)</a> <a href="https://youtu.be/pPoFtP-65sM?si=A2jrbVpkfGIrovgy">Tru Playaz</a> 
@@ -505,7 +505,8 @@ i wrote u a not on <a href="{{ site.url }}{{ site.baseurl }}">my page</a></p>
    <iframe src="https://archive.org/embed/image-2-07" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-</div>
+
+
 <FOOTER id="footer">
 
   <div class="css3badge"><a href="https://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:43px;height:15px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /></a>
@@ -514,7 +515,7 @@ i wrote u a not on <a href="{{ site.url }}{{ site.baseurl }}">my page</a></p>
   <div class="css3badge"><a href="https://github.com/ricothakarashard"><img style="border:0;width:57.5px;height:15px" src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" alt="ricothaka" /></a>
   </div>
 
-  <div class="logo"><a href="{{ site.url }}{{ site.baseurl }}">./HoleToAnotherUniverse</a>
+<div class="logo"><a href="{{ site.url }}{{ site.baseurl }}">./HoleToAnotherUniverse</a>
  <IMG src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/default/public/2023-04/Tri_Color_Ribbon_6000x75_v2.png.webp" alt="Los ANgeles Flag" />
 </div>
  
@@ -524,5 +525,9 @@ i wrote u a not on <a href="{{ site.url }}{{ site.baseurl }}">my page</a></p>
     <link rel="stylesheet" href="/css/lightbox.css">
 </body>
 
-  
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>  
 </html>
