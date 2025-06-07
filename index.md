@@ -504,30 +504,14 @@ i wrote u a not on <a href="{{ site.url }}{{ site.baseurl }}">my page</a></p>
    
    <iframe src="https://archive.org/embed/image-2-07" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+{% include footer.html %}
 
 
 
-<FOOTER id="footer">
-
-  <div class="css3badge"><a href="https://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:43px;height:15px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /></a>
-  </div>
-
-  <div class="css3badge"><a href="https://github.com/ricothakarashard"><img style="border:0;width:57.5px;height:15px" src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" alt="ricothaka" /></a>
-  </div>
-
-<div class="logo"><a href="{{ site.url }}{{ site.baseurl }}">./HoleToAnotherUniverse</a>
- <IMG src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/default/public/2023-04/Tri_Color_Ribbon_6000x75_v2.png.webp" alt="Los ANgeles Flag" />
-</div>
- 
-
-</FOOTER>
-    <script type="text/javascript" src="/js/lightbox.js"></script>
-    <link rel="stylesheet" href="/css/lightbox.css">
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
 </body>
 
 
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>  
+  
 </html>
