@@ -19,12 +19,72 @@
 <body markdown="1">
 {% include nav.html %}
 
+
+
+# Android Radio
+
+
+[Listen to the radio using wired headphones as antenna in android phones r/NoStupidQuestions • 3 yr. ago DasherPack](https://www.reddit.com/r/NoStupidQuestions/comments/xkc1gd/listen_to_the_radio_using_wired_headphones_as/)
+<div class="tupperware">
+<video width="auto" height="400px" controls> 
+	<source src="https://ia601503.us.archive.org/14/items/screen-20250308-102510/screen-20250307-201813.mp4" type="video/mp4">	 
+</video> 
+
+<video width="auto" height="400px" controls> 
+	<source src="https://ia601503.us.archive.org/14/items/screen-20250308-102510/screen-20250307-192757.mp4" type="video/mp4">	 
+</video> 
+
+<video width="auto" height="400px" controls> 
+	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+![ANDROiD_RADiO](https://source.android.com/static/docs/automotive/images/broadcast_radio_01.svg)
+---
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/732602704&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-585176683" title="Josh Calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">Josh Calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-585176683/nas-illmatic-full-album" title="Nas - Illmatic (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Nas - Illmatic (Full Album)</a></div>
+[MIME Types](https://docs.oracle.com/cd/E19857-01/817-1834-10/crmimes.html)
+This chapter discusses the MIME types file.
+The MIME types file in the config directory contains mappings between MIME (Multipurpose Internet Mail Extensions) types and file extensions. For example, the MIME types file maps the extensions .html and .htm to the type text/html:
+`type=text/html exts=htm,html`
+
+Syntax of the MIME Types File
+The first line in the MIME types file identifies the file format and must read:
+
+```shell
+#--Sun Microsystems MIME Information
+type=application/pdf exts=pdf
+type=audio/x-wav exts=wav
+type=image/gif exts=gif
+type=image/jpeg exts=jpeg,jpg,jpe
+type=text/html exts=htm,html
+type=text/plain exts=txt
+type=text/richtext exts=rtx
+type=text/tab-separated-values exts=tsv
+type=text/x-setext exts=etx
+type=video/mpeg exts=mpeg,mpg,mpe
+type=video/quicktime exts=qt,mov
+type=video/x-msvideo exts=avi
+
+# Other non-comment lines have the following format:
+
+type=type/subtype exts=[file extensions]
+
+type/subtype is the type and subtype.
+exts are the file extensions associated with this type.
+```
+What are the supported MIME types?
+Working with The Object tag 
+
+
 # @dhs-gov @nasa-jpl @stateofcalifornia @cityoflosangeles
 ### [SMARTLA](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf) rec
 [NewMetroStation](https://www.reddit.com/r/LAMetro/comments/1l5852h/second_arrival_into_laxmetro_transit_center_being/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) GoodMorning its Rashard Iman KElly [Mars Reconnaissance Orbiter (MRO)](https://photojournal.jpl.nasa.gov/spacecraft/MRO) [La Cañada Flintridge](https://www.jpl.nasa.gov/virtual-tour/) I dont know if theres anyone that can give me the updated air pollution sensor cool people team! [AirSar](https://airsar.jpl.nasa.gov/cgi-bin/map.pl) stops at 2004 [I see JPL work but the connections](https://www.jpl.nasa.gov/news/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/) for my inventory are kind of challenging to make to travel safely, y cant the metro just be on our network with the library ? [OracleSolaris](https://github.com/oracle/oraclesolaris-contrib) is easy to accquire an they would be on our config management system. All ppl use there is webbrowsers and apps anyway. We could make the region way more secure digitally, the libray on [ChromiumReskinned](https://github.com/chromium/chromium) and we could manage it from the [RHel_Cluster](https://www.nas.nasa.gov/) -[#Rashard](https://rashardlanasa.github.io/) - [NasaJUNO](https://www.jpl.nasa.gov/missions/juno/) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass)
 
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1l5qdk2/nasajpl_commutenasaaerola_metro_helpdesk_access/">#NASAJPL_COMMUTE:?NASAAERO+#LA_METRO helpdesk access etc</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script> @nasa-jpl @cityoflosangeles my scabs are burning and my legs are searing after logging into github 
+
 ![image](https://github.com/user-attachments/assets/8fce2609-4e64-425a-9f28-a68c6cf8639e)
+
 ![image](https://github.com/user-attachments/assets/1b0466d4-997b-4610-853e-b01821213f25)
 
 ![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
