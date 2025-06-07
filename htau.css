@@ -237,10 +237,10 @@ margin-top: 15px;
 
 
   p {
-    display: inline-block;
-    padding: 5px;
-    font-size: 1.2rem;
     display: block;
+    width:100%;
+    padding: 5px;
+    font-size: 1rem;
     color: white;
     text-shadow: 0 0 5px rgba(242, 242, 242, 0.5);
     background: transparent
@@ -260,12 +260,12 @@ background: #595302;
 }
 
 p::first-letter {
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: bold;
-  color: cyan;
+  color: rgb(255, 255, 255);
 }
 p:first-of-type {
-  animation-duration: 4s;
+  animation-duration: 2s;
   animation-name: slidein;
 }
 h1,
@@ -293,27 +293,28 @@ h2 {
   word-break: break-all; 
   width: 100%;
 }
-/*
-#content {
 
-  border-radius:12px;
-  padding: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 20em;
-  margin-left: 20em;  
-  /* opera does not like 'margin:20px auto' astrxneeded/
-  border: 0px solid #ccc;
-  text-align:left; 
-  voice-family: "\"}\"";
-  voice-family:inherit;
+.mermaid svg { 
+  display: block;  
+  margin: 0; 
+  padding: 0; 
+  width: 100%;
+} 
+
+main img {
+  height: auto;
   
   }
-*/
-  
-img {  max-height: 100%;
+
+img {
   max-width: 100%;
-display:block;}
+  display: block;
+} 
+
+/*img {  max-height: 100%;
+  max-width: 100%;
+display:block;} */
+
 img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
 
 img[alt^="L"] {
