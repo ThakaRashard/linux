@@ -19,6 +19,13 @@
 <body markdown="1">
 {% include nav.html %}
 
+# @dhs-gov @nasa-jpl @stateofcalifornia @cityoflosangeles
+### [SMARTLA](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf) rec
+[NewMetroStation](https://www.reddit.com/r/LAMetro/comments/1l5852h/second_arrival_into_laxmetro_transit_center_being/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) GoodMorning its Rashard Iman KElly [Mars Reconnaissance Orbiter (MRO)](https://photojournal.jpl.nasa.gov/spacecraft/MRO) [La Cañada Flintridge](https://www.jpl.nasa.gov/virtual-tour/) I dont know if theres anyone that can give me the updated air pollution sensor cool people team! [AirSar](https://airsar.jpl.nasa.gov/cgi-bin/map.pl) stops at 2004 [I see JPL work but the connections](https://www.jpl.nasa.gov/news/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/) for my inventory are kind of challenging to make to travel safely, y cant the metro just be on our network with the library ? [OracleSolaris](https://github.com/oracle/oraclesolaris-contrib) is easy to accquire an they would be on our config management system. All ppl use there is webbrowsers and apps anyway. We could make the region way more secure digitally, the libray on [ChromiumReskinned](https://github.com/chromium/chromium) and we could manage it from the [RHel_Cluster](https://www.nas.nasa.gov/) -[#Rashard](https://rashardlanasa.github.io/) - [NasaJUNO](https://www.jpl.nasa.gov/missions/juno/) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass)
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1l5qdk2/nasajpl_commutenasaaerola_metro_helpdesk_access/">#NASAJPL_COMMUTE:?NASAAERO+#LA_METRO helpdesk access etc</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script> @nasa-jpl @cityoflosangeles my scabs are burning and my legs are searing after logging into github 
+![image](https://github.com/user-attachments/assets/8fce2609-4e64-425a-9f28-a68c6cf8639e)
+![image](https://github.com/user-attachments/assets/1b0466d4-997b-4610-853e-b01821213f25)
 
 ![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
 
