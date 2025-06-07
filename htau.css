@@ -1,7 +1,13 @@
 html {
 font: normal 10px/18px "Red Hat Mono","Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
  font-size: 1rem;
+  background: linear-gradient(45deg, 
+              #fb3 25%, #262624 0, #262624 50%,
+              #fb3 0, #fb3 75%, #262624 0);
+background-size: 80.4px 80.4px;
 
+  background-attachment: fixed;
+  font-optical-sizing: auto;
 }
 
 .twitter-tweet { margin:0;
@@ -15,28 +21,6 @@ blockquote[src*="platform.twitter.com"] {
   margin:0px;
 }
 
-body {
-  
-  background: linear-gradient(45deg, 
-              #fb3 25%, #262624 0, #262624 50%,
-              #fb3 0, #fb3 75%, #262624 0);
-background-size: 80.4px 80.4px;
-
-  background-attachment: fixed;
-  font-optical-sizing: auto;
-}
-/*
-body {
-  
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 70.4px 70.4px;
-   font-family: "VT323", monospace;
-  background-attachment: fixed;
-  
-}
-  */
 
 #wrapper
 {
@@ -105,22 +89,6 @@ background-size: 70.4px 70.4px;
 }
 
 
-/*
-#heading {
-
-  flex-wrap:nowrap;
-    width:50vw;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-   position:fixed;
-    display: grid;
-grid-template-rows: auto auto auto;
-    background-color: black;
-  color:white;
-  padding:5px;
-  position:fixed;
-
-} */
 
 .logo {
   float: left;
@@ -343,7 +311,7 @@ h2 {
   }
 */
   
- img {  max-height: 100%;
+img {  max-height: 100%;
   max-width: 100%;
 display:block;}
 img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
