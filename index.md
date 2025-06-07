@@ -23,6 +23,11 @@ mermaid: true
 </video> 
 </div>
 
+# Windows 
+<video width="auto" height="400px" controls> 
+	<source src="https://ia800806.us.archive.org/26/items/screen-20250211-091244/screen-20250211-082708.mp4" type="video/mp4">	 
+</video> 
+
 # Android Radio [How to Activate an FM Chip on Android](https://www.wikihow.com/Activate-an-FM-Chip-on-Android)
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif" alt="By Berserkerus - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=5071748"/>
 
