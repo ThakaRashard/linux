@@ -23,6 +23,9 @@ mermaid: true
 </video> 
 </div>
 
+# California Linux Hosting RHEL 9via BROWSER [BUilding](https://hub.docker.com/repositories/rashardthakakelly) APACHE
+<iframe src="https://archive.org/embed/CaliforniaLinuxHostingRHEL9viaBROWSER_BUildingAPACHE" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # Windows 
 <video width="auto" controls> 
 	<source src="https://ia800806.us.archive.org/26/items/screen-20250211-091244/screen-20250211-082708.mp4" type="video/mp4">	 
@@ -30,6 +33,40 @@ mermaid: true
 
 # Android Radio [How to Activate an FM Chip on Android](https://www.wikihow.com/Activate-an-FM-Chip-on-Android)
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif" alt="By Berserkerus - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=5071748"/> [Broadcast radio HAL](https://source.android.com/docs/automotive/radio/broadcast-radio-hal) The following sections describe how to work with the hardware abstraction layer (HAL) to implement broadcast radio. `IBroadcastRadio` is the primary interface for the broadcast radio HAL. In the HIDL 2.0 HAL, use the ITunerSession interface to the tuner to call operations. However, at most one tuner is active at one time (provided each broadcast radio HAL instance only has one tuner chip). ITunerSession was removed from the AIDL interfaces and its interfaces moved to IBroadcastRadio.
+
+# X-Men:Children Of The Atom 
+i [got shocked](https://www.yelp.com/biz/cahuenga-branch-library-los-angeles) for searching [google for capcom on github](https://www.google.com/search?q=capcom+github&rlz=1CASLJZ_enUS1165&oq=capcom+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCwgCEAAYFhgeGMcDMgoIAxAAGIAEGKIEMgcIBBAAGO8FMgoIBRAAGIAEGKIE0gEIMTk5M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8)  . . . [TheGame](https://archive.org/details/arcade_xmcota) is that good! However i wanted to [demonstrate](https://www.youtube.com/channel/UCzuoYhoXgnT8hQv8CMj-hBQ) the androids capabilities. Radio is a essenntial personal item during a disaster in Los Angeles County: The [EmergenceyGuide](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/) explains it on page [33](https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf#page=33) and [39](https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf#page=39)
+
+- If you MUST shelter in place:
+- • Portable AM/FM radio with spare batteries
+- • Hand-held FRS radios (walkie-talkies) and
+hand held scanner with spare batteries
+
+
+While [the price on Ebay](https://www.ebay.com/b/Android-FM-Radio-Cell-Phones-Smartphones/9355/bn_7117081908) for a hand set is upwards of $125, there are routes via @nasa that could be much more economical @nasa-jpl. [its a need](https://www.fema.gov/grants/tools/authorized-equipment-list/06cp-03-prac) they should be easy to accquire no matter your class or financial ranking. If people are afraid of Kids being [Raised on Porn](https://www.youtube.com/watch?v=hzPylqS01qU&pp=0gcJCdgAo7VqN5tD) Thats an administrative task that could have a filtering process like you get a note, then an appointment with the local [Sherrif](https://github.com/najtompkins/crime-exploration-dashboard)! Or some private process thats public, maybe a ... I gotta think @blackgirlscode but internet should be free and the individual is fairly trained and redirected 
+
+[![FairPhone](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)
+
+<video controls>
+	<source src="https://ia600809.us.archive.org/16/items/lprm-amsr-2-d-soilm-3-001-soil-moisture-c-1-animation-video-download/screen-20250310-064725.mp4" type="video/mp4">	 
+</video> 
+
+[FM Radio in Smartphones: A Look Under the Hood](https://nabpilot.org/wp-content/uploads/2016/06/2015-BEC-Paper-FM-Radio-in-Smartphones-FINALr4.pdf) [NAB.org](https://www.nab.org/) @FCC @nasa-jpl @blackgirlscode @whitehouse @fema @cityoflosangeles @stateofcalifornia
+# County Of Los Angeles:Emergency Survival Guide
+[DOWNLOAD_PDF](http://publichealth.lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf)
+<object data="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf" type="application/pdf" width="350" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf">download the PDF file.</a></p></object>
+
+[duringthispost`Create a URL to open a PDF file at a specific page` @adobe](https://helpx.adobe.com/acrobat/kb/link-html-pdf-page-acrobat.html)
+Open a PDF file to a specific page
+To target an HTML link to a specific page in a PDF file, add #page=[page number] to the end of the link URL.
+
+For example, this HTML tag opens page 4 of a PDF file named myfile.pdf:
+
+```html
+<A HREF="http://www.example.com/myfile.pdf#page=4">
+```
+
 [Listen to the radio using wired headphones as antenna in android phones r/NoStupidQuestions • 3 yr. ago DasherPack](https://www.reddit.com/r/NoStupidQuestions/comments/xkc1gd/listen_to_the_radio_using_wired_headphones_as/) [FM](https://en.wikipedia.org/wiki/FM_broadcasting) [rfm-radio](https://github.com/vladislav805/RFM-Radio) [android FM receiver -chipset info stackoverflow](https://www.google.com/search?q=android+fm+chipset&sca_esv=dbc67cf40f2de29f&rlz=1CASLJZ_enUS1165&sxsrf=AE3TifPbmV2hl1m7xBQa6huK8gdP2A9I3g%3A1749320062934&ei=foFEaMvqOJW6kPIP7NnJ2AU&ved=0ahUKEwjLocyH9d-NAxUVHUQIHexsElsQ4dUDCBA&uact=5&oq=android+fm+chipset&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmFuZHJvaWQgZm0gY2hpcHNldDIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSMU3UP4HWP01cAN4AJABAJgBUqABywmqAQIyMbgBA8gBAPgBAZgCF6ACmAvCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR8ICDRAAGLADGNYEGEcYyQPCAg4QABiABBiwAxiSAxiKBcICChAjGIAEGCcYigXCAgsQABiABBiRAhiKBcICBRAAGIAEwgIEECMYJ8ICDhAAGIAEGJECGLEDGIoFwgIKEAAYgAQYFBiHAsICCBAAGIAEGLEDwgIQEAAYgAQYsQMYgwEYFBiHAsICDRAAGIAEGLEDGBQYhwLCAgYQABgWGB7CAgsQABiABBiGAxiKBcICCBAAGIAEGKIEwgIFECEYnwXCAgcQIRigARgKmAMAiAYBkAYKkgcCMjOgB7SVAbIHAjIwuAf1CsIHBjItNi4xN8gH4QE&sclient=gws-wiz-serp)
 
 
