@@ -301,16 +301,19 @@ h2 {
   width: 100%;
 } 
 
-main img {
-  height: auto;
-  
-  }
 
 img {
-  max-width: 100%;
-  display: block;
-} 
-
+    display: block;
+    border-radius: 10px 10px 0px 0px;
+    max-width: 100%;
+    max-height: auto;
+    transition: all 0.5s linear;
+  }
+  
+img:hover {
+    transform: scale(1.05);
+  }
+  
 /*img {  max-height: 100%;
   max-width: 100%;
 display:block;} */
@@ -646,20 +649,9 @@ figure {
     border-radius: 0px;
     transform: scale(1.05);
   }
-  figure {
-  }
+
   
-  img {
-    border-radius: 10px 10px 0px 0px;
-    max-width: 220px;
-    max-height: auto;
-    transition: all 0.5s linear;
-  }
-  
-  img:hover {
-    transform: scale(1.05);
-  }
-  
+
   figcaption {
     background-color: #222;
     color: #fff;
