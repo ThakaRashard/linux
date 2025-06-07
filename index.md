@@ -7,13 +7,30 @@ mermaid: true
  {{ jekyll.version }}
 {% include nav.html %}
 
+# TraceRoute / vomit / Emulators
 
+<div class="tupperware">
+<video width="auto" height="400px" controls> 
+	<source src="https://ia802301.us.archive.org/15/items/screen-20250110-091254/screen-20250110-095407.mp4" type="video/mp4">	 
+</video> 
+
+<video width="auto" height="400px" controls> 
+	<source src="https://archive.org/download/vid-20250111-185225/VID_20250111_185225.mp4" type="video/mp4">	 
+</video> 
+
+<video width="auto" height="400px" controls> 
+	<source src="https://ia600602.us.archive.org/34/items/screenshot-20240728-051602/screen-20240727-125057.ia.mp4" type="video/mp4">	 
+</video> 
+</div>
 
 # Android Radio [How to Activate an FM Chip on Android](https://www.wikihow.com/Activate-an-FM-Chip-on-Android)
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif" alt="By Berserkerus - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=5071748"/>
 
 [Broadcast radio HAL](https://source.android.com/docs/automotive/radio/broadcast-radio-hal) The following sections describe how to work with the hardware abstraction layer (HAL) to implement broadcast radio. `IBroadcastRadio` is the primary interface for the broadcast radio HAL. In the HIDL 2.0 HAL, use the ITunerSession interface to the tuner to call operations. However, at most one tuner is active at one time (provided each broadcast radio HAL instance only has one tuner chip). ITunerSession was removed from the AIDL interfaces and its interfaces moved to IBroadcastRadio.
 [Listen to the radio using wired headphones as antenna in android phones r/NoStupidQuestions • 3 yr. ago DasherPack](https://www.reddit.com/r/NoStupidQuestions/comments/xkc1gd/listen_to_the_radio_using_wired_headphones_as/) [FM](https://en.wikipedia.org/wiki/FM_broadcasting) [rfm-radio](https://github.com/vladislav805/RFM-Radio) [android FM receiver -chipset info stackoverflow](https://www.google.com/search?q=android+fm+chipset&sca_esv=dbc67cf40f2de29f&rlz=1CASLJZ_enUS1165&sxsrf=AE3TifPbmV2hl1m7xBQa6huK8gdP2A9I3g%3A1749320062934&ei=foFEaMvqOJW6kPIP7NnJ2AU&ved=0ahUKEwjLocyH9d-NAxUVHUQIHexsElsQ4dUDCBA&uact=5&oq=android+fm+chipset&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmFuZHJvaWQgZm0gY2hpcHNldDIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSMU3UP4HWP01cAN4AJABAJgBUqABywmqAQIyMbgBA8gBAPgBAZgCF6ACmAvCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR8ICDRAAGLADGNYEGEcYyQPCAg4QABiABBiwAxiSAxiKBcICChAjGIAEGCcYigXCAgsQABiABBiRAhiKBcICBRAAGIAEwgIEECMYJ8ICDhAAGIAEGJECGLEDGIoFwgIKEAAYgAQYFBiHAsICCBAAGIAEGLEDwgIQEAAYgAQYsQMYgwEYFBiHAsICDRAAGIAEGLEDGBQYhwLCAgYQABgWGB7CAgsQABiABBiGAxiKBcICCBAAGIAEGKIEwgIFECEYnwXCAgcQIRigARgKmAMAiAYBkAYKkgcCMjOgB7SVAbIHAjIwuAf1CsIHBjItNi4xN8gH4QE&sclient=gws-wiz-serp)
+
+<iframe src="https://archive.org/embed/gov.dod.dimoc.28398" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <div class="tupperware">
 <video width="auto" height="400px" controls> 
 	<source src="https://ia601503.us.archive.org/14/items/screen-20250308-102510/screen-20250307-201813.mp4" type="video/mp4">	 
