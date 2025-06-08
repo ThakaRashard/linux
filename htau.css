@@ -28,6 +28,7 @@ blockquote[src*="platform.twitter.com"] {
   width: 50vw;
   height: 100vh;
   margin: auto;
+  padding-top: 5px;
 }
 
 
@@ -213,7 +214,7 @@ width: 55vw;
 
 
 #main {
-margin-top: 15px;
+
 }
 
 #footer {
