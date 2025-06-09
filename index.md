@@ -6,6 +6,27 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
+# `filter`:
+The filter CSS property applies graphical effects like blur or color shift to an element. `contrast()` is a predefined [function](https://developer.mozilla.org/en-US/docs/Web/CSS/filter#functions) and its the most common adjustment i make to raw images even when using [OpenCam](https://opencamera.org.uk/). [Mars2020:Perseverance Rover](https://mars.nasa.gov/mars2020/multimedia/raw-images/) & [M_S_L:CURiOSiTY](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl) have raw images availiable  
+
+```css
+.ic {
+  filter: contrast(200%); }
+```
+
+<article class="section_2col">
+  <a href="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390092302287C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390092302287C00_DXXX.jpg" /></a>  
+  
+  <a href="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390082302286C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390082302286C00_DXXX.jpg" /></a>   
+  
+  
+   <a href="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390102302288C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390102302288C00_DXXX.jpg" />
+  
+  </a>    <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04564/opgs/edr/fcam/FLB_802658613EDR_S1161944FHAZ00214M_.JPG"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04564/opgs/edr/fcam/FLB_802658613EDR_S1161944FHAZ00214M_.JPG" /></a>  
+</article>
+
+[FOiA](https://foia.state.gov/) [Nixon and the People’s Republic of China: CIA’s Support of the Historic 1972 Presidential Trip](https://www.cia.gov/readingroom/collection/nixon-collection)
+
 # Android Radio [How to Activate an FM Chip on Android](https://www.wikihow.com/Activate-an-FM-Chip-on-Android)
 <div itemprop="about" class="tupperware">
 <video preload="auto" width="auto" height="400px" controls> 

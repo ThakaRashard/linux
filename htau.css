@@ -234,7 +234,19 @@ width: 55vw;
   }
   
 
+/* css class-declarations cannot start with a number */
+.section_2col {
+  display: grid;
+  width: auto;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 10px;
+  row-gap: 1em;
+}
 
+.section_2col img {width:100%;}
+
+.ic {
+  filter: contrast(200%); }
 
 
   p {
