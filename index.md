@@ -6,6 +6,17 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
+
+
+[ATCQ:The LowEndTheory](https://www.discogs.com/master/45922-A-Tribe-Called-Quest-The-Low-End-Theory?srsltid=AfmBOorJqf8E6YHeopaOz-V7MDpzF3vkcWV3BmWiQed71orn3mA8k2Pq)
+
+<iframe src="https://archive.org/embed/atcqthelowendtheory" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<figure>
+  <figcaption>ATCQ:SOCiALiSSUERAP</figcaption>
+  <audio controls src="https://dn721606.ca.archive.org/0/items/atcqthelowendtheory/The%20Low%20End%20Theory/08-The%20Infamous%20Date%20Rape.mp3"></audio>
+  <a href="https://dn721606.ca.archive.org/0/items/atcqthelowendtheory/The%20Low%20End%20Theory/08-The%20Infamous%20Date%20Rape.mp3"> Download audio </a>
+</figure>
+
 # `filter`:
 The filter CSS property applies graphical effects like blur or color shift to an element. `contrast()` is a predefined [function](https://developer.mozilla.org/en-US/docs/Web/CSS/filter#functions) and its the most common adjustment i make to raw images even when using [OpenCam](https://opencamera.org.uk/). [Mars2020:Perseverance Rover](https://mars.nasa.gov/mars2020/multimedia/raw-images/) & [M_S_L:CURiOSiTY](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl) have raw images availiable  
 
