@@ -5,9 +5,6 @@ mermaid: true
 ---
 ### jekyll.version
  {{ jekyll.version }}
-{% include nav.html %}
-
-
 
 # Android Radio [How to Activate an FM Chip on Android](https://www.wikihow.com/Activate-an-FM-Chip-on-Android)
 <div itemprop="about" class="tupperware">
