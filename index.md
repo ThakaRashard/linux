@@ -7,8 +7,23 @@ mermaid: true
  {{ jekyll.version }}
 
 ![RASHARD_IMAN_KELLY @Nasa @nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia](https://github.com/user-attachments/assets/2aed0b38-6af9-430b-b214-5490fe1c8b47)
+# [KNOW_YOUR_MEME:LiNUX](https://knowyourmeme.com/memes/subcultures/linux)
+`"Linux is a family of freely available, open-source computer operating systems based around the Linux kernel."` written kinda crazy but super informative @nasa @nasa-jpl @blackgirlscode [LinuxMemes for later](https://knowyourmeme.com/memes/subcultures/linux/photos?sort=favorites) [ICE detention analysis](https://uwchr.github.io/ice-detain/) <~ @stateofcalifornia @cityoflosangeles 
 
+# Colin Mcrae : [RETROARCH](https://www.retroarch.com/?page=platforms) + [PCSX_REARMED:LiBRETRO_DOCS](https://docs.libretro.com/library/pcsx_rearmed/)
+The Gameplay on my handset was amazing. 
 
+[PlayStationColin McRae Rally retroGAMES](https://www.retrogames.cc/psx-games/colin-mcrae-rally.html) [ELI5: Phone hall sensor : r/explainlikeimfive /u/rubesom](https://www.reddit.com/r/explainlikeimfive/comments/1fxg7yd/eli5_phone_hall_sensor/) [What is a "Hall" sensor, and what is it used for? android.stackexchange](https://android.stackexchange.com/questions/56538/what-is-a-hall-sensor-and-what-is-it-used-for)
+[Bonobo - Essential Mix 1481 (Live at Glastonbury) - 02 July 2022  BBC Radio 1](https://www.youtube.com/watch?v=PwbYUFY6Q3A)
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600404.us.archive.org/23/items/vid-20250217-120844/screen-20250218-053815.mp4" type="video/mp4">	 
+	<source src="https://ia800404.us.archive.org/23/items/vid-20250217-120844/screen-20250218-053815.mp4" type="video/mp4">	 
+</video> 
+
+[The HAll Sensor](https://www.ti.com/document-viewer/lit/html/SSZT164) is a type of magnetic sensor which can be used for detecting the strength and direction of a magnetic field produced from a permanent magnet or an electromagnet with its output varying in proportion to the strength of the magnetic field being detected. The Hall effect is the production of a potential difference ([the Hall voltage](https://en.wikipedia.org/wiki/Hall_effect)) More and more keyboards and video game controllers employ Hall effect sensors, [@wired trys to break it down](https://www.wired.com/story/what-is-hall-effect/)
+
+[@google @android Sensor Overview](https://developer.android.com/develop/sensors-and-location/sensors/sensors_overview)
 [ATCQ:The LowEndTheory](https://www.discogs.com/master/45922-A-Tribe-Called-Quest-The-Low-End-Theory?srsltid=AfmBOorJqf8E6YHeopaOz-V7MDpzF3vkcWV3BmWiQed71orn3mA8k2Pq)
 
 <iframe src="https://archive.org/embed/atcqthelowendtheory" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
