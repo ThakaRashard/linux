@@ -12,6 +12,12 @@ mermaid: true
  [facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02y568bZxV2eeFPRfF5K9JHZHF8kXUrp5PLCojwBcKoeVn7FtKKQj1hL4LSp4SPzgul&id=100084464911565) @internetarchive @stateofcalifornia @nasa-jpl @blackgirlscode @nasa @whitehouse [@dhs-gov](https://github.com/UWCHR/ice-enforce/blob/main/README.md) [Morning Commute Notes for NAsajpl](https://archive.org/details/lariotgrafffworknotesandimpersonationnotes-06)
 <iframe src="https://archive.org/embed/california_linuxarchive.org_upload_troubles" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+[503 Service Unavailable](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/503)
+@mozilla 
+The HTTP 503 Service Unavailable server error response status code indicates that the server is not ready to handle the request.
+
+Common causes are that a server is down for maintenance or overloaded. During maintenance, server administrators may temporarily route all traffic to a 503 page, or this may happen automatically during software updates. In overload cases, some server-side applications will reject requests with a 503 status when resource thresholds like memory, CPU, or connection pool limits are met
+[HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status#server_error_responses)
 [Saturdaylinux CHROMEi UM](https://archive.org/details/saturdaylinux-chromei-um)
 
 # [KNOW_YOUR_MEME:LiNUX](https://knowyourmeme.com/memes/subcultures/linux)
