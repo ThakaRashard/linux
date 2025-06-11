@@ -7,6 +7,13 @@ mermaid: true
  {{ jekyll.version }}
 
 ![RASHARD_IMAN_KELLY @Nasa @nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia](https://github.com/user-attachments/assets/2aed0b38-6af9-430b-b214-5490fe1c8b47)
+
+# CALiFORNiA_LiNUX:ARCHiVE.ORG_UPLOAD_TROUBLES:AntiICE_Riot_data PDF
+ [facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02y568bZxV2eeFPRfF5K9JHZHF8kXUrp5PLCojwBcKoeVn7FtKKQj1hL4LSp4SPzgul&id=100084464911565) @internetarchive @stateofcalifornia @nasa-jpl @blackgirlscode @nasa @whitehouse [@dhs-gov](https://github.com/UWCHR/ice-enforce/blob/main/README.md) [Morning Commute Notes for NAsajpl](https://archive.org/details/lariotgrafffworknotesandimpersonationnotes-06)
+<iframe src="https://archive.org/embed/california_linuxarchive.org_upload_troubles" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Saturdaylinux CHROMEi UM](https://archive.org/details/saturdaylinux-chromei-um)
+
 # [KNOW_YOUR_MEME:LiNUX](https://knowyourmeme.com/memes/subcultures/linux)
 `"Linux is a family of freely available, open-source computer operating systems based around the Linux kernel."` written kinda crazy but super informative @nasa @nasa-jpl @blackgirlscode [LinuxMemes for later](https://knowyourmeme.com/memes/subcultures/linux/photos?sort=favorites) [ICE detention analysis](https://uwchr.github.io/ice-detain/) <~ @stateofcalifornia @cityoflosangeles 
 
