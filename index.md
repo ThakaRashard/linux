@@ -6,9 +6,13 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
+[@nasa-jpl](https://ricothakarashard.github.io/mybinder/var_log) is this laurie ? @caltech @nasa @cityoflosangeles @stateofcalifornia /
+![image](https://github.com/user-attachments/assets/e821056b-a6b1-4d34-aed0-df34b3048014)
+
 ![RASHARD_IMAN_KELLY @Nasa @nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia](https://github.com/user-attachments/assets/2aed0b38-6af9-430b-b214-5490fe1c8b47)
 
-# CALiFORNiA_LiNUX:ARCHiVE.ORG_UPLOAD_TROUBLES:AntiICE_Riot_data PDF
+# CALiFORNiA_LiNUX:ARCHiVE.ORG_ UPLOAD_TROUBLES:
+### AntiICE_Riot_data PDF
  [facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02y568bZxV2eeFPRfF5K9JHZHF8kXUrp5PLCojwBcKoeVn7FtKKQj1hL4LSp4SPzgul&id=100084464911565) @internetarchive @stateofcalifornia @nasa-jpl @blackgirlscode @nasa @whitehouse [@dhs-gov](https://github.com/UWCHR/ice-enforce/blob/main/README.md) [Morning Commute Notes for NAsajpl](https://archive.org/details/lariotgrafffworknotesandimpersonationnotes-06)
 <iframe src="https://archive.org/embed/california_linuxarchive.org_upload_troubles" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
