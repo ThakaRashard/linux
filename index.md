@@ -21,7 +21,8 @@ mermaid: true
 	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250221-203820.mp4" type="video/mp4">	 
 	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250221-203820.mp4" type="video/mp4">	 
 </video> 
-![DKc]()
+
+[vlog Eaton canyon + weekend archiveVID 20250221 224142](https://archive.org/details/vid-20250221-224142_202502/screen-20250222-195042.mp4)
 
 [@nasa-jpl](https://ricothakarashard.github.io/mybinder/var_log) is this laurie ? @caltech @nasa @cityoflosangeles @stateofcalifornia /
 ![image](https://github.com/user-attachments/assets/e821056b-a6b1-4d34-aed0-df34b3048014) [iNtuitiveMachines](https://ia801803.us.archive.org/4/items/0001_20250227/Screenshot_20250226-162641.png)
