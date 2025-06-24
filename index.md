@@ -9,10 +9,22 @@ mermaid: true
 
 
 ![HotPepper](https://cdn.prod.website-files.com/6236b8ae9462e284efe9ba90/6238d37985f09e2b92c168c9_logo.svg)
-[Chilaca](https://www.hotpepperusa.com/chilaca) + [NovaLauncher](https://novalauncher.com/beta)
+[Chilaca](https://www.hotpepperusa.com/chilaca) + [NovaLauncher](https://novalauncher.com/beta) [APK_DOWNLOAD](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public) @TBog i dont know where you at, but this launcher is pure fye on [LaStreetAndroids]()
+[LEarning_Ed](https://archive.org/details/vid-20250221-224142_202502/VID_20250221_082346.mp4)
+
+
+
+@nintendo @libretro 
+### DonkeyKongCountry [Cloud_Mobile_C7](https://support.truconnect.com/s/article/Stratus-C7-User-Manual) [DONKEYKONGCOUNTRY:WiKi](https://en.wikipedia.org/wiki/Donkey_Kong_Country)
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250221-203820.mp4" type="video/mp4">	 
+	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250221-203820.mp4" type="video/mp4">	 
+</video> 
+![DKc]()
 
 [@nasa-jpl](https://ricothakarashard.github.io/mybinder/var_log) is this laurie ? @caltech @nasa @cityoflosangeles @stateofcalifornia /
-![image](https://github.com/user-attachments/assets/e821056b-a6b1-4d34-aed0-df34b3048014)
+![image](https://github.com/user-attachments/assets/e821056b-a6b1-4d34-aed0-df34b3048014) [iNtuitiveMachines](https://ia801803.us.archive.org/4/items/0001_20250227/Screenshot_20250226-162641.png)
 
 ![RASHARD_IMAN_KELLY @Nasa @nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia](https://github.com/user-attachments/assets/2aed0b38-6af9-430b-b214-5490fe1c8b47)
 
