@@ -15,7 +15,8 @@ mermaid: true
 
 
 @nintendo @libretro 
-### DonkeyKongCountry [Cloud_Mobile_C7](https://support.truconnect.com/s/article/Stratus-C7-User-Manual) [DONKEYKONGCOUNTRY:WiKi](https://en.wikipedia.org/wiki/Donkey_Kong_Country)
+### DonkeyKongCountry [Cloud_Mobile_C7](https://support.truconnect.com/s/article/Stratus-C7-User-Manual) [DONKEYKONGCOUNTRY:WiKi](https://en.wikipedia.org/wiki/Donkey_Kong_Country) 
+[Nintendo Training 1991](https://youtu.be/WYjgHLFZMa0) im going to make a [post](https://www.w3schools.com/tags/ref_httpmethods.asp) for [coral](https://ricothakarashard.github.io/coral)
 
 <video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250221-203820.mp4" type="video/mp4">	 
