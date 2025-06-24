@@ -6,6 +6,11 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
+
+
+![HotPepper](https://cdn.prod.website-files.com/6236b8ae9462e284efe9ba90/6238d37985f09e2b92c168c9_logo.svg)
+[Chilaca](https://www.hotpepperusa.com/chilaca) + [NovaLauncher](https://novalauncher.com/beta)
+
 [@nasa-jpl](https://ricothakarashard.github.io/mybinder/var_log) is this laurie ? @caltech @nasa @cityoflosangeles @stateofcalifornia /
 ![image](https://github.com/user-attachments/assets/e821056b-a6b1-4d34-aed0-df34b3048014)
 
