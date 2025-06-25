@@ -8,7 +8,7 @@ mermaid: true
 
 
 # CellularTestamonials
-[GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [BIA - FALLBACK _covidHospitalityIndustry_era](https://youtu.be/Tpj93Kv7exY?si=xiSx-r2VYTrzVKiI) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [WorldStar - CHiLDiSHGAMBiNO @nasa thats decatur for real and its a reality show market in @stateofcalifornia @cityoflosangles lacounty](https://youtu.be/ZQfWCazNH-c)
+[GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [BIA - FALLBACK _covidHospitalityIndustry_era](https://youtu.be/Tpj93Kv7exY?si=xiSx-r2VYTrzVKiI) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [WorldStar - CHiLDiSHGAMBiNO @nasa thats decatur for real and its a reality show market in @stateofcalifornia @cityoflosangles lacounty](https://youtu.be/ZQfWCazNH-c) [Hollywood](https://ia800105.us.archive.org/32/items/vid-20241231-094914/VID_20241231_094914.ia.mp4)
 
 # #CAliFORNiALiNUX:South Pasadena Public library FirstVisit @nasa-jpl @cityoflosangeles @stateofcalifornia 
 [Windows11](https://www.microsoft.com/en-us/software-download) supporting a variety of [Linux](https://www.sciencedirect.com/topics/computer-science/virtualization-host) based platforms
