@@ -14,6 +14,9 @@ mermaid: true
 [Windows11](https://www.microsoft.com/en-us/software-download) supporting [a](https://bubblegumpop01.tumblr.com/) variety of [Linux](https://www.sciencedirect.com/topics/computer-science/virtualization-host) based platforms
 <iframe src="https://archive.org/embed/SouthPasadenaPubliclibrary" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+[traceroute](https://archive.org/details/screen-20250109-185120) screen-20250109-185120
+<iframe src="https://archive.org/embed/screen-20250109-185120" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ![HotPepper](https://cdn.prod.website-files.com/6236b8ae9462e284efe9ba90/6238d37985f09e2b92c168c9_logo.svg)
 [Chilaca](https://www.hotpepperusa.com/chilaca) + [NovaLauncher](https://novalauncher.com/beta) [APK_DOWNLOAD](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public) @TBog i dont know where you at, but this launcher is pure fye on [LaStreetAndroids](https://www.google.com/search?q=+los+angeles+android&sca_esv=ccb8066356fd07b7&rlz=1C1GCEJ_enUS1168US1168&biw=1019&bih=952&tbm=nws&sxsrf=AE3TifNRiN6F7_MU3bUv4sGT97vVIit2yg%3A1750804177383&ei=0SZbaICRF-nYkPIP9aSHuAY&ved=0ahUKEwjAvcHojYuOAxVpLEQIHXXSAWcQ4dUDCA4&uact=5&oq=+los+angeles+android&gs_lp=Egxnd3Mtd2l6LW5ld3MiFCBsb3MgYW5nZWxlcyBhbmRyb2lkMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yChAAGIAEGEMYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB5IkwJQAFgAcAB4AJABAJgBPqABPqoBATG4AQPIAQD4AQGYAgGgAkSYAwCSBwExoAf6BbIHATG4B0TCBwMyLTHIBwU&sclient=gws-wiz-news)
 [LEarning_Ed](https://archive.org/details/vid-20250221-224142_202502/VID_20250221_082346.mp4)
