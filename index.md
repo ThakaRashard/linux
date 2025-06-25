@@ -11,7 +11,7 @@ mermaid: true
 [GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [BIA - FALLBACK _covidHospitalityIndustry_era](https://youtu.be/Tpj93Kv7exY?si=xiSx-r2VYTrzVKiI) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [WorldStar - CHiLDiSHGAMBiNO @nasa thats decatur for real and its a reality show market in @stateofcalifornia @cityoflosangles lacounty](https://youtu.be/ZQfWCazNH-c) [Hollywood](https://ia800105.us.archive.org/32/items/vid-20241231-094914/VID_20241231_094914.ia.mp4)
 
 # #CAliFORNiALiNUX:South Pasadena Public library FirstVisit @nasa-jpl @cityoflosangeles @stateofcalifornia 
-[Windows11](https://www.microsoft.com/en-us/software-download) supporting a variety of [Linux](https://www.sciencedirect.com/topics/computer-science/virtualization-host) based platforms
+[Windows11](https://www.microsoft.com/en-us/software-download) supporting [a](https://bubblegumpop01.tumblr.com/) variety of [Linux](https://www.sciencedirect.com/topics/computer-science/virtualization-host) based platforms
 <iframe src="https://archive.org/embed/SouthPasadenaPubliclibrary" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![HotPepper](https://cdn.prod.website-files.com/6236b8ae9462e284efe9ba90/6238d37985f09e2b92c168c9_logo.svg)
