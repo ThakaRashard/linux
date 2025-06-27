@@ -10,6 +10,12 @@ mermaid: true
 
 @nasa-jpl [Here is a video of me using @google earth for my @nasaEARTHDATA research](https://ia800809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4) 
 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
+	<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
+</video> 
+
 ![image](https://github.com/user-attachments/assets/b4318270-4cad-417e-aaa0-470525fcdcac)
 [ALF](https://archive.org/details/ALF-The-Complete-Series) [WATCHLiST](https://ricothakarashard.github.io/MovingPhotos) 
 
