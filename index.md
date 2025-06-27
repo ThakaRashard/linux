@@ -7,6 +7,23 @@ mermaid: true
  {{ jekyll.version }}
 
 
+
+
+
+# _Helvetica_ [Trailer @blackgirlscode](https://www.youtube.com/watch?v=wkoX0pEwSCw)
+<iframe src="https://archive.org/embed/helvetica-2007" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+[Why is Virtualization Useful? - virtualbox.org](https://www.virtualbox.org/manual/ch01.html#virt-why-useful)
+![image](https://github.com/user-attachments/assets/fa80f596-c116-462d-9e1e-3f30db146c1e)
+
+[#Typography](https://mksd.jp/mksd_font_list.html)
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090348.mp4" type="video/mp4">	 
+	<source src="https://ia800808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090348.mp4" type="video/mp4">	 
+</video> 
+
 [Android Swap Space ?](https://docs.libretro.com/) 
 [Swap Space in Linux: What It Is & How It Works](https://phoenixnap.com/kb/swap-space)
 Swap space in Linux is used when the amount of physical memory (RAM) is full. If the system needs more memory resources and the RAM is full, inactive pages in memory are moved to the swap space. While swap space can help machines with a small amount of RAM, it should not be considered a replacement for more RAM. Swap space is located on hard drives, which have a slower access time than physical memory. Swap space can be a dedicated swap partition (recommended), a swap file, or a combination of swap partitions and swap files. Note that Btrfs does not support swap space.
@@ -14,7 +31,7 @@ In years past, the recommended amount of swap space increased linearly with the 
 
 <video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
-	<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
+	<source src="https://ia800808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
 </video> 
 
 ![redhat](https://docs.redhat.com/Logo-Red_Hat-Documentation-A-Reverse-RGB.svg)
@@ -23,7 +40,7 @@ In years past, the recommended amount of swap space increased linearly with the 
 [DiskControl @microsoft @libretro](https://docs.libretro.com/) 
 <video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia601404.us.archive.org/14/items/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
-	<source src="https://ia601404.us.archive.org/14/items/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
+	<source src="https://ia801404.us.archive.org/14/items/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
 </video> 
 
 
@@ -54,6 +71,10 @@ In years past, the recommended amount of swap space increased linearly with the 
 
 ![image](https://github.com/user-attachments/assets/b4318270-4cad-417e-aaa0-470525fcdcac)
 [ALF](https://archive.org/details/ALF-The-Complete-Series) [WATCHLiST](https://ricothakarashard.github.io/MovingPhotos) 
+
+[font](https://www.typedifferent.com/fonts/bd-elmax)
+![image](https://github.com/user-attachments/assets/90c059d8-4e21-4202-a698-b96e0718a249)
+
 
 ```html
 [/linux](https://ricothakarashard.github.io/linux)
