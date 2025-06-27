@@ -8,6 +8,9 @@ mermaid: true
 
 
 
+[DOWNLOAD_PDF](http://publichealth.lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf)
+<object data="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf" type="application/pdf" width="350" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf">download the PDF file.</a></p></object>
 
 [Linux-Journal_Archive](https://github.com/rm-hull/linux-journal-archive)
 
