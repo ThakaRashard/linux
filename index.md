@@ -6,11 +6,43 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
+
+[Android Swap Space ?](https://docs.libretro.com/) 
+[Swap Space in Linux: What It Is & How It Works](https://phoenixnap.com/kb/swap-space)
+Swap space in Linux is used when the amount of physical memory (RAM) is full. If the system needs more memory resources and the RAM is full, inactive pages in memory are moved to the swap space. While swap space can help machines with a small amount of RAM, it should not be considered a replacement for more RAM. Swap space is located on hard drives, which have a slower access time than physical memory. Swap space can be a dedicated swap partition (recommended), a swap file, or a combination of swap partitions and swap files. Note that Btrfs does not support swap space.
+In years past, the recommended amount of swap space increased linearly with the amount of RAM in the system. However, modern systems often include hundreds of gigabytes of RAM. As a consequence, recommended swap space is considered a function of system memory workload, not system memory. [RedHatDocs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
+	<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
+</video> 
+
+![redhat](https://docs.redhat.com/Logo-Red_Hat-Documentation-A-Reverse-RGB.svg)
+
+
 [DiskControl @microsoft @libretro](https://docs.libretro.com/) 
 <video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia601404.us.archive.org/14/items/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
 	<source src="https://ia601404.us.archive.org/14/items/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
 </video> 
+
+
+<div class="tupperware">
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://archive.org/download/mondaycmd/screen-20250303-161528.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-182220.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	 
+</video> 
+</div>
+
+
+
 
 @nasa-jpl [Here is a video of me using @google earth for my @nasaEARTHDATA research](https://ia800809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4) 
 
