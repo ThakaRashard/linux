@@ -6,6 +6,20 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
+![image](https://github.com/user-attachments/assets/b4318270-4cad-417e-aaa0-470525fcdcac)
+[ALF](https://archive.org/details/ALF-The-Complete-Series) [WATCHLiST](https://ricothakarashard.github.io/MovingPhotos) 
+
+```html
+[/linux](https://ricothakarashard.github.io/linux)
+<a href="https://ricothakarashard.github.io/linux">linux</a>
+```
+{% raw %}
+[/linux]({{ site.url }}/linux)
+<a href="{{ site.url }}/linux">linux</a>
+{% endraw %}
+
+Worked on using @git instantly so i can be more independant [/myBinder]({{ site.url }}/myBinder)
+<a href="{{ site.url }}/myBinder">myBinder</a>
 
 [Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
 [2](https://archive.org/details/screen-20250211-091244/screen-20250211-091244.mp4#)
