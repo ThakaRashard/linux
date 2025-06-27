@@ -7,6 +7,7 @@ mermaid: true
  {{ jekyll.version }}
 
 
+![c8Cracked](https://github.com/user-attachments/assets/74e67acf-d018-423e-b5eb-051c05775649)
 
 ![image @nasa-jpl media services @stateofcalifornia @cityoflosangeles @newshour @ajc](https://github.com/user-attachments/assets/59aafb69-d01c-4bc5-a10a-27aa87a05ecf)
 
@@ -67,6 +68,14 @@ In years past, the recommended amount of swap space increased linearly with the 
 	<source src="https://ia801404.us.archive.org/14/items/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
 </video> 
 
+
+<a href="https://www.cloudmobileusa.com/" alt="Hi, we’re Cloud Mobile. We believe that the sky's the limit when it comes to technology. That's why we're dedicated to designing high-quality smartphones, tablets, and hotspots to keep you connected to what matters most. Founded by tech enthusiasts, our team continues to innovate and leverage technology to ensure we don’t skimp on features or performance. With sleek designs, high-resolution displays, and fast processors there’s so much to love!"> <img src="https://images.squarespace-cdn.com/content/v1/603d5307619ec655aab8c728/62fbe2ed-43df-454c-9c64-b42e466a2b07/LogoTitleWhiteColor.png?format=1000w" alt="We offer a diverse portfolio of cutting-edge devices that provide a wealth of features and capabilities, and accessible price points for everyone." /></a>
+
+![cloudmobile](https://github.com/user-attachments/assets/3e764fd1-dae9-46f6-b429-1f878c53fb40)
+
+![CloudMobile_c8](https://images.squarespace-cdn.com/content/v1/603d5307619ec655aab8c728/65eb7e12-a2c0-4719-b871-77edbe359675/C8RenderHeader_03.png?format=1000w)
+
+---
 
 <div class="tupperware">
 <video preload="auto" width="auto" height="400px" controls> 
