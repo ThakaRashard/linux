@@ -6,6 +6,10 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
+
+
+@nasa-jpl [Here is a video of me using @google earth for my @nasaEARTHDATA research](https://ia800809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4) 
+
 ![image](https://github.com/user-attachments/assets/b4318270-4cad-417e-aaa0-470525fcdcac)
 [ALF](https://archive.org/details/ALF-The-Complete-Series) [WATCHLiST](https://ricothakarashard.github.io/MovingPhotos) 
 
