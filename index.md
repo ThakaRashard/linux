@@ -6,7 +6,7 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
-
+[Subscribe to Patch Mailing Lists @redhatofficial](https://docs.redhat.com/en/documentation/red_hat_jboss_data_virtualization/6.2/html/security_guide/subscribe_to_patch_mailing_lists)
 ![c8Cracked](https://github.com/user-attachments/assets/74e67acf-d018-423e-b5eb-051c05775649)
 
 ![image @nasa-jpl media services @stateofcalifornia @cityoflosangeles @newshour @ajc](https://github.com/user-attachments/assets/59aafb69-d01c-4bc5-a10a-27aa87a05ecf)
