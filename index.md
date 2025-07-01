@@ -6,8 +6,69 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
+[CodeBaseHQ](https://github.com/BKWLD/codebasehq) 
+Git Instructions to import and work quickly
 
-# CALiFORNiA_LiNUX:My Git Hub Journey To The Web Interface RASHARD IMAN KELLY @NASA M R O I S S ECOSTRESS SWOT @nasa-jpl @cityoflosangeles @stateofcalifornia
+_Tell Git your name and e-mail address — this ensures all commits you make are owned by you._
+```shell
+$ git config --global user.name "UserNAme"
+$ git config --global user.email username@gmail.com
+```
+### Create and push a new repository
+Enter the directory which you wish to import
+```shell
+$ cd path/to/local/folder
+```
+
+Initialise the folder as a Git repository
+```shell
+$ git init
+Initialized empty Git repository in path/to/local/folder
+```
+
+Add all files and commit for the first time
+```shell
+$ git add .
+$ git commit -m "initial commit"
+[master (root-commit) 5cc0002] initial commit
+0 files changed, 0 insertions(+), 0 deletions(-)
+create mode 100644 README
+```
+Add a remote reference for your new Codebase repository and push all changes to the new reference ('origin').
+```shell
+$ git remote add origin git@svn Provider.com:project_account_name/account/repo.git
+$ git push -u origin master
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 205 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@svn Provider.com:project_account_name/account/repo.git
+* [new branch]      master -> master
+```
+### Push an existing local repository
+If you already have a repository and simply wish to push this to Codebase, you can follow the steps below after entering the directory for the existing repository.
+
+Setup the remote reference for the new Codebase repository and push all branches to the remote
+```shell
+$ git remote add origin git@svn Provider.com:project_account_name/account/repo.git
+$ git push origin --mirror
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 205 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@svn Provider.com:project_account_name/account/repo.git
+* [new branch]      master -> master
+* [new branch]      devel -> devel
+```
+
+[CommandLineGit git started codebaseHQ instructions]
+[generating ssh keys](https://support.codebasehq.com/articles/getting-started/getting-started)
+[Regular City Council - 7/1/25](https://www.youtube.com/watch?v=l-m9wvbe0rM&ab_channel=LACityClerk)
+
+[DOWNLOAD_PDF](https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf)
+<object data="https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf" type="application/pdf" width="650" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf">download the PDF file.</a></p></object>
+
+
+### CALiFORNiA_LiNUX:My Git Hub Journey To The Web Interface RASHARD IMAN KELLY @NASA M R O I S S ECOSTRESS SWOT @nasa-jpl @cityoflosangeles @stateofcalifornia
 view on [Archive.ORG](https://archive.org/details/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot)
 
 <iframe src="https://archive.org/embed/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
