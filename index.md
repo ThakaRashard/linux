@@ -63,8 +63,10 @@ To git@svn Provider.com:project_account_name/account/repo.git
 [generating ssh keys](https://support.codebasehq.com/articles/getting-started/getting-started)
 [Regular City Council - 7/1/25](https://www.youtube.com/watch?v=l-m9wvbe0rM&ab_channel=LACityClerk)
 
+
+
 [DOWNLOAD_PDF](https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf)
-<object data="https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf" type="application/pdf" width="650" height="400">
+<object data="https://ia800909.us.archive.org/12/items/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot/progit.pdf" type="application/pdf" width="650" height="400">
 <p>You don't have a PDF plugin, but you can <a href="https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf">download the PDF file.</a></p></object>
 
 
