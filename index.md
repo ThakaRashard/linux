@@ -7,6 +7,10 @@ mermaid: true
  {{ jekyll.version }}
 
 
+# CALiFORNiA_LiNUX:My Git Hub Journey To The Web Interface RASHARD IMAN KELLY @NASA M R O I S S ECOSTRESS SWOT @nasa-jpl @cityoflosangeles @stateofcalifornia
+view on [Archive.ORG](https://archive.org/details/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot)
+
+<iframe src="https://archive.org/embed/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Subscribe to Patch Mailing Lists @redhatofficial](https://docs.redhat.com/en/documentation/red_hat_jboss_data_virtualization/6.2/html/security_guide/subscribe_to_patch_mailing_lists)
 ![c8Cracked](https://github.com/user-attachments/assets/74e67acf-d018-423e-b5eb-051c05775649)
