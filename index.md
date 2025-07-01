@@ -11,8 +11,8 @@ Git Instructions to import and work quickly
 
 _Tell Git your name and e-mail address — this ensures all commits you make are owned by you._
 ```shell
-$ git config --global user.name "Rashard Kelly"
-$ git config --global user.email holetoanotheruniverse40@gmail.com
+$ git config --global user.name "UserNAme"
+$ git config --global user.email username@gmail.com
 ```
 ### Create and push a new repository
 Enter the directory which you wish to import
@@ -36,12 +36,12 @@ create mode 100644 README
 ```
 Add a remote reference for your new Codebase repository and push all changes to the new reference ('origin').
 ```shell
-$ git remote add origin git@codebasehq.com:nasajpl-b_g_c_contractingservice/rashardmro/ricothaka.git
+$ git remote add origin git@svn Provider.com:project_account_name/account/repo.git
 $ git push -u origin master
 Counting objects: 3, done.
 Writing objects: 100% (3/3), 205 bytes, done.
 Total 3 (delta 0), reused 0 (delta 0)
-To git@codebasehq.com:nasajpl-b_g_c_contractingservice/rashardmro/ricothaka.git
+To git@svn Provider.com:project_account_name/account/repo.git
 * [new branch]      master -> master
 ```
 ### Push an existing local repository
@@ -49,12 +49,12 @@ If you already have a repository and simply wish to push this to Codebase, you c
 
 Setup the remote reference for the new Codebase repository and push all branches to the remote
 ```shell
-$ git remote add origin git@codebasehq.com:nasajpl-b_g_c_contractingservice/rashardmro/ricothaka.git
+$ git remote add origin git@svn Provider.com:project_account_name/account/repo.git
 $ git push origin --mirror
 Counting objects: 3, done.
 Writing objects: 100% (3/3), 205 bytes, done.
 Total 3 (delta 0), reused 0 (delta 0)
-To git@codebasehq.com:nasajpl-b_g_c_contractingservice/rashardmro/ricothaka.git
+To git@svn Provider.com:project_account_name/account/repo.git
 * [new branch]      master -> master
 * [new branch]      devel -> devel
 ```
