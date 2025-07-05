@@ -7,9 +7,11 @@ mermaid: true
  {{ jekyll.version }}
 
 # California Linux: first real day [hotpepper](https://www.hotpepperusa.com/) [🌶️](mailto:support@hotpepperusa.com)
+<iframe src="https://archive.org/embed/Julyhotpepper" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<object data="https://ia800909.us.archive.org/12/items/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot/progit.pdf" type="application/pdf" width="650" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf">download the PDF file.</a></p></object>
+<object data="https://ia803101.us.archive.org/22/items/Julyhotpepper/1_july4postgriffithSimpleScanStation20250705100835.pdf" type="application/pdf" width="650" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://ia803101.us.archive.org/22/items/Julyhotpepper/1_july4postgriffithSimpleScanStation20250705100835.pdf">download the PDF file.</a></p></object>
+[DOWNLOAD:PDF](https://github.com/rashardgds/linux/blob/master/Documentation/1_july4postgriffithSimpleScanStation20250705100835.pdf)
 
 [CodeBaseHQ](https://github.com/BKWLD/codebasehq) 
 Git Instructions to import and work quickly
