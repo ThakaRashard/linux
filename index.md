@@ -11,6 +11,7 @@ mermaid: true
 
 <object data="https://ia803101.us.archive.org/22/items/Julyhotpepper/1_july4postgriffithSimpleScanStation20250705100835.pdf" type="application/pdf" width="650" height="400">
 <p>You don't have a PDF plugin, but you can <a href="https://ia803101.us.archive.org/22/items/Julyhotpepper/1_july4postgriffithSimpleScanStation20250705100835.pdf">download the PDF file.</a></p></object>
+
 [DOWNLOAD:PDF](https://github.com/rashardgds/linux/blob/master/Documentation/1_july4postgriffithSimpleScanStation20250705100835.pdf)
 
 [CodeBaseHQ](https://github.com/BKWLD/codebasehq) 
