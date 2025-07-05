@@ -6,6 +6,11 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
+# California Linux: first real day [hotpepper](https://www.hotpepperusa.com/) [🌶️](mailto:support@hotpepperusa.com)
+
+<object data="https://ia800909.us.archive.org/12/items/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot/progit.pdf" type="application/pdf" width="650" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf">download the PDF file.</a></p></object>
+
 [CodeBaseHQ](https://github.com/BKWLD/codebasehq) 
 Git Instructions to import and work quickly
 
