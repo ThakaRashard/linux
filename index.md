@@ -5,8 +5,12 @@ mermaid: true
 ---
 ### jekyll.version
 {{ jekyll.version }}
+.,
 
+https://novalauncher.com/
+D[ownload the latest Beta APK](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public)
 
+Download the Stable APK
 ## AnduinOS – a Linux distro for Windows users, developed by a Microsoft engineer
 [Link -https://www.thurrott.com/forums](https://www.thurrott.com/forums/general-discussion/linux/thread/anduinos-a-linux-distro-for-windows-users-developed-by-a-microsoft-engineer) [DistroWatch](https://distrowatch.com/table.php?distribution=anduin)
 ![AnduinOS](https://distrowatch.com/images/yvzhuwbpy/anduin.png)
