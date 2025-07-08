@@ -38,6 +38,11 @@ mermaid: true
 </video> 
 </div>
 
+
+# @mozilla Firefox session
+<iframe src="https://archive.org/embed/screen-recording-2025-07-06-152559" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 ![july5](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png)
 
 
