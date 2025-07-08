@@ -6,6 +6,16 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
+[Subscribe to Patch Mailing Lists @redhatofficial](https://docs.redhat.com/en/documentation/red_hat_jboss_data_virtualization/6.2/html/security_guide/subscribe_to_patch_mailing_lists)
+![c8Cracked](https://github.com/user-attachments/assets/74e67acf-d018-423e-b5eb-051c05775649)
+
+![image @nasa-jpl media services @stateofcalifornia @cityoflosangeles @newshour @ajc](https://github.com/user-attachments/assets/59aafb69-d01c-4bc5-a10a-27aa87a05ecf)
+
+![image](https://github.com/user-attachments/assets/98381b96-45c1-4d1d-9e7f-808ca4bd2c93)
+
+[DOWNLOAD_PDF](https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf)
+<object data="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf">download the PDF file.</a></p></object>
 
 
 # California Linux :  [OutLook](https://youtu.be/xJLCSOBOEMI)/[Android](https://support.microsoft.com/en-us/topic/using-microsoft-launcher-on-android-c59f2824-0218-ae6d-3666-d93a7fc537e0) + the vortex of [traceroute](https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05525v.jpg) 
@@ -123,6 +133,20 @@ view on [Archive.ORG](https://archive.org/details/my-git-hub-journey-to-the-web-
 
 
 
+![@blackgirlscode hi](https://github.com/user-attachments/assets/cc045d4b-c1de-443c-84ad-294e741b6268)
+
+
+[DOWNLOAD_PDF](https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf)
+<object data="https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf" type="application/pdf" width="350" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf">download the PDF file.</a></p></object>
+
+
+[DOWNLOAD_PDF](http://publichealth.lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf)
+<object data="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf" type="application/pdf" width="350" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf">download the PDF file.</a></p></object>
+
+[Linux-Journal_Archive](https://github.com/rm-hull/linux-journal-archive)
+
 # _Helvetica_ [Trailer @blackgirlscode](https://www.youtube.com/watch?v=wkoX0pEwSCw)
 <iframe src="https://archive.org/embed/helvetica-2007" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -158,6 +182,14 @@ In years past, the recommended amount of swap space increased linearly with the 
 </video> 
 
 
+<a href="https://www.cloudmobileusa.com/" alt="Hi, we’re Cloud Mobile. We believe that the sky's the limit when it comes to technology. That's why we're dedicated to designing high-quality smartphones, tablets, and hotspots to keep you connected to what matters most. Founded by tech enthusiasts, our team continues to innovate and leverage technology to ensure we don’t skimp on features or performance. With sleek designs, high-resolution displays, and fast processors there’s so much to love!"> <img src="https://images.squarespace-cdn.com/content/v1/603d5307619ec655aab8c728/62fbe2ed-43df-454c-9c64-b42e466a2b07/LogoTitleWhiteColor.png?format=1000w" alt="We offer a diverse portfolio of cutting-edge devices that provide a wealth of features and capabilities, and accessible price points for everyone." /></a>
+
+![cloudmobile](https://github.com/user-attachments/assets/3e764fd1-dae9-46f6-b429-1f878c53fb40)
+
+![CloudMobile_c8](https://images.squarespace-cdn.com/content/v1/603d5307619ec655aab8c728/65eb7e12-a2c0-4719-b871-77edbe359675/C8RenderHeader_03.png?format=1000w)
+
+---
+
 <div class="tupperware">
 <video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://archive.org/download/mondaycmd/screen-20250303-161528.mp4" type="video/mp4">	 
@@ -173,9 +205,14 @@ In years past, the recommended amount of swap space increased linearly with the 
 </div>
 
 
+# @nasa-jpl [Here is a video of me using @google earth for my @nasaEARTHDATA research]
+
+<video preload="auto" width="auto" height="500px" controls> 
+	<source src="https://ia600809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
+	<source src="https://ia800809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
+</video> 
 
 
-@nasa-jpl [Here is a video of me using @google earth for my @nasaEARTHDATA research](https://ia800809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4) 
 
 
 <video preload="auto" width="auto" height="400px" controls> 
@@ -212,7 +249,7 @@ Worked on using @git instantly so i can be more independant [/myBinder]({{ site.
 <iframe src="https://archive.org/embed/SouthPasadenaPubliclibrary" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [traceroute](https://archive.org/details/screen-20250109-185120) screen-20250109-185120
-<iframe src="https://archive.org/embed/screen-20250109-185120" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/screen-20250109-185120" width="300" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![HotPepper](https://cdn.prod.website-files.com/6236b8ae9462e284efe9ba90/6238d37985f09e2b92c168c9_logo.svg)
 [Chilaca](https://www.hotpepperusa.com/chilaca) + [NovaLauncher](https://novalauncher.com/beta) [APK_DOWNLOAD](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public) @TBog i dont know where you at, but this launcher is pure fye on [LaStreetAndroids](https://www.google.com/search?q=+los+angeles+android&sca_esv=ccb8066356fd07b7&rlz=1C1GCEJ_enUS1168US1168&biw=1019&bih=952&tbm=nws&sxsrf=AE3TifNRiN6F7_MU3bUv4sGT97vVIit2yg%3A1750804177383&ei=0SZbaICRF-nYkPIP9aSHuAY&ved=0ahUKEwjAvcHojYuOAxVpLEQIHXXSAWcQ4dUDCA4&uact=5&oq=+los+angeles+android&gs_lp=Egxnd3Mtd2l6LW5ld3MiFCBsb3MgYW5nZWxlcyBhbmRyb2lkMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yChAAGIAEGEMYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB5IkwJQAFgAcAB4AJABAJgBPqABPqoBATG4AQPIAQD4AQGYAgGgAkSYAwCSBwExoAf6BbIHATG4B0TCBwMyLTHIBwU&sclient=gws-wiz-news)
