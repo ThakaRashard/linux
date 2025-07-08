@@ -5,7 +5,9 @@ mermaid: true
 ---
 ### jekyll.version
 {{ jekyll.version }}
- 
+
+
+[Janet Jackson - Escapade](https://youtu.be/UFX3gQHIroU)
 [I tried loads of unconventional Android launchers, and these are my favorites - by Andy Walker androidauthority.com](https://www.androidauthority.com/unique-android-launcher-3477698/) : From minimalist launchers to straight-up terminal screens.
 [All My Love · Mary J. Blige](https://youtu.be/6ArSfXnm2c0)
 [Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK](https://archive.org/details/Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK/contactingMROpt1SimpleScanStation20250625111945/) [NasaJUNO](https://www.jpl.nasa.gov/missions/juno/) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [NasaJUNO](https://www.jpl.nasa.gov/missions/juno/) 
