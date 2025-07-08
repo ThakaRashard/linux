@@ -12,7 +12,11 @@ mermaid: true
 ![AnduinOS](https://distrowatch.com/images/yvzhuwbpy/anduin.png)
 
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/androidapps/comments/1ggbjvl/best_launcher_for_android/">Best Launcher for Android</a><br> by<a href="https://www.reddit.com/user/Cyrus_S6/">u/Cyrus_S6</a> in<a href="https://www.reddit.com/r/androidapps/">androidapps</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
 im trying to figure out where the launcher starts and ends at the end of the day its just a [desktop environment @google](https://en.wikipedia.org/wiki/Desktop_environment) [Best Android launchers in 2025 - tomsguide.com](https://www.tomsguide.com/round-up/best-android-launchers)
+
+
+>Think of a window manager as the frame of a picture, where an application runs. For example, the very top of an application where you can minimize, maximize, or close is your window manager. Features vary from one window manager to another. - ["Window managers and desktop environments – Linux 101". clemsonlinux.org](https://web.archive.org/web/20080704182940/http://learn.clemsonlinux.org/wiki/Window_managers_and_desktop_environments)
 
 “Microsoft makes what is arguably the best Android launcher.”
 – [Paul Thurrott](AnduinOS – a Linux distro for Windows users, developed by a Microsoft engineer)
