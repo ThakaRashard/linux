@@ -6,18 +6,7 @@ mermaid: true
 ### jekyll.version
  {{ jekyll.version }}
 
-[Subscribe to Patch Mailing Lists @redhatofficial](https://docs.redhat.com/en/documentation/red_hat_jboss_data_virtualization/6.2/html/security_guide/subscribe_to_patch_mailing_lists)
-![c8Cracked](https://github.com/user-attachments/assets/74e67acf-d018-423e-b5eb-051c05775649)
-
-![image @nasa-jpl media services @stateofcalifornia @cityoflosangeles @newshour @ajc](https://github.com/user-attachments/assets/59aafb69-d01c-4bc5-a10a-27aa87a05ecf)
-
-![image](https://github.com/user-attachments/assets/98381b96-45c1-4d1d-9e7f-808ca4bd2c93)
-
-[DOWNLOAD_PDF](https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf)
-<object data="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf" type="application/pdf" width="550" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf">download the PDF file.</a></p></object>
-
-
+[All My Love · Mary J. Blige](https://youtu.be/6ArSfXnm2c0)
 # California Linux :  [OutLook](https://youtu.be/xJLCSOBOEMI)/[Android](https://support.microsoft.com/en-us/topic/using-microsoft-launcher-on-android-c59f2824-0218-ae6d-3666-d93a7fc537e0) + the vortex of [traceroute](https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05525v.jpg) 
 [on topic](https://thakarashard.github.io/rashardmro/)
 
@@ -37,6 +26,19 @@ mermaid: true
 	<source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_223711.mp4" type="video/mp4">	 
 </video> 
 </div>
+
+[Subscribe to Patch Mailing Lists @redhatofficial](https://docs.redhat.com/en/documentation/red_hat_jboss_data_virtualization/6.2/html/security_guide/subscribe_to_patch_mailing_lists)
+![c8Cracked](https://github.com/user-attachments/assets/74e67acf-d018-423e-b5eb-051c05775649)
+
+![image @nasa-jpl media services @stateofcalifornia @cityoflosangeles @newshour @ajc](https://github.com/user-attachments/assets/59aafb69-d01c-4bc5-a10a-27aa87a05ecf)
+
+![image](https://github.com/user-attachments/assets/98381b96-45c1-4d1d-9e7f-808ca4bd2c93)
+
+[DOWNLOAD_PDF](https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf)
+<object data="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf">download the PDF file.</a></p></object>
+
+
 
 
 # @mozilla Firefox session
