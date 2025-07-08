@@ -18,9 +18,9 @@ mermaid: true
 <object data="https://archive.org/embed/screen-recording-2025-07-07-123028" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 [@Microsoft AndroidLAuncheriNACTiON @blackgirlscode @deptofdefense @whitehouse @cityoflosangeles @stateofcalifornia @LACMTA](https://ia800904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4)
 
-<video preload="auto" width="auto" height="600px" controls> 
+<video preload="auto" width="350px" height="auto" controls> 
 	<source src="https://ia800906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250707-185656.mp4" type="video/mp4">
-	<source src="https://ia600906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250707-185656.mp4" type="video/mp4">
+
 </video> 
 
 ```html
