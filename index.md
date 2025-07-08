@@ -7,6 +7,15 @@ mermaid: true
 {{ jekyll.version }}
 
 
+## AnduinOS – a Linux distro for Windows users, developed by a Microsoft engineer
+[Link -https://www.thurrott.com/forums](https://www.thurrott.com/forums/general-discussion/linux/thread/anduinos-a-linux-distro-for-windows-users-developed-by-a-microsoft-engineer)
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/androidapps/comments/1ggbjvl/best_launcher_for_android/">Best Launcher for Android</a><br> by<a href="https://www.reddit.com/user/Cyrus_S6/">u/Cyrus_S6</a> in<a href="https://www.reddit.com/r/androidapps/">androidapps</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+im trying to figure out where the launcher starts and ends at the end of the day its just a [desktop environment @google]()
+
+“Microsoft makes what is arguably the best Android launcher.”
+– [Paul Thurrott](AnduinOS – a Linux distro for Windows users, developed by a Microsoft engineer)
+![ArrowandMSLauncherTeams](https://www.microsoft.com/en-us/garage/wp-content/uploads/2018/05/ArrowandMSLauncherTeams.jpg)
 [Janet Jackson - Escapade](https://youtu.be/UFX3gQHIroU)
 [I tried loads of unconventional Android launchers, and these are my favorites - by Andy Walker androidauthority.com](https://www.androidauthority.com/unique-android-launcher-3477698/) : From minimalist launchers to straight-up terminal screens.
 [All My Love · Mary J. Blige](https://youtu.be/6ArSfXnm2c0)
