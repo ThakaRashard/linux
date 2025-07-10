@@ -6,7 +6,7 @@ mermaid: true
 ### jekyll.version
 {{ jekyll.version }}
 
-Transforming Defense operations: [The DOD needs automation](https://www.redhat.com/en/blog/transforming-defense-operations) [Red Hat solutions support DoD](https://redhat.com/en/solutions/public-sector/dod)
+Transforming Defense operations: [The DOD needs automation](https://www.redhat.com/en/blog/transforming-defense-operations) [Red Hat solutions support DoD](https://redhat.com/en/solutions/public-sector/dod) [Red Hat helps DoD standardized, automate workﬂows with DevSecOps](https://federalnewsnetwork.com/open-first/2021/02/trusted-software-supply-chain-helps-dod-standardized-automate-workflows-with-devsecops/)
 [DOWNLOAD_PDF](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf)
 <object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
 <p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
