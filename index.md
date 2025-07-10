@@ -6,7 +6,14 @@ mermaid: true
 ### jekyll.version
 {{ jekyll.version }}
 
-Transforming Defense operations: [The DOD needs automation](https://www.redhat.com/en/blog/transforming-defense-operations)
+Transforming Defense operations: [The DOD needs automation](https://www.redhat.com/en/blog/transforming-defense-operations) [Red Hat solutions support DoD](https://redhat.com/en/solutions/public-sector/dod)
+[DOWNLOAD_PDF](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf)
+<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
+
+<img width="555" height="370" alt="image" src="https://github.com/user-attachments/assets/d6958959-732d-4f11-9b41-27630d1ed8ef" />
+
+
 [Android OS Documentation](https://source.android.com/docs)
 
 # About the International Space Station
