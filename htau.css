@@ -94,7 +94,7 @@ blockquote[src*="platform.twitter.com"] {
   
 }
 
-
+object { display: block;}
 
 .logo {
   float: left;

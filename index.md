@@ -59,10 +59,72 @@ Structure (WBS)
 Handbook](https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf)
 
 
+[DOWNLOAD:PDF](https://github.com/rashardgds/linux/blob/master/Documentation/1_july4postgriffithSimpleScanStation20250705100835.pdf)
+
+[CodeBaseHQ](https://github.com/BKWLD/codebasehq) 
+Git Instructions to import and work quickly
+
+_Tell Git your name and e-mail address — this ensures all commits you make are owned by you._
+```shell
+$ git config --global user.name "UserNAme"
+$ git config --global user.email username@gmail.com
+```
+### Create and push a new repository
+Enter the directory which you wish to import
+```shell
+$ cd path/to/local/folder
+```
+
+Initialise the folder as a Git repository
+```shell
+$ git init
+Initialized empty Git repository in path/to/local/folder
+```
+
+Add all files and commit for the first time
+```shell
+$ git add .
+$ git commit -m "initial commit"
+[master (root-commit) 5cc0002] initial commit
+0 files changed, 0 insertions(+), 0 deletions(-)
+create mode 100644 README
+```
+Add a remote reference for your new Codebase repository and push all changes to the new reference ('origin').
+```shell
+$ git remote add origin git@svn Provider.com:project_account_name/account/repo.git
+$ git push -u origin master
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 205 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@svn Provider.com:project_account_name/account/repo.git
+* [new branch]      master -> master
+```
+### Push an existing local repository
+If you already have a repository and simply wish to push this to Codebase, you can follow the steps below after entering the directory for the existing repository.
+
+Setup the remote reference for the new Codebase repository and push all branches to the remote
+```shell
+$ git remote add origin git@svn Provider.com:project_account_name/account/repo.git
+$ git push origin --mirror
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 205 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@svn Provider.com:project_account_name/account/repo.git
+* [new branch]      master -> master
+* [new branch]      devel -> devel
+```
+
+[CommandLineGit git started codebaseHQ instructions]
+[generating ssh keys](https://support.codebasehq.com/articles/getting-started/getting-started)
+[Regular City Council - 7/1/25](https://www.youtube.com/watch?v=l-m9wvbe0rM&ab_channel=LACityClerk)
 
 
 
-https://novalauncher.com/
+
+
+
+
+### novalauncher.com
 D[ownload the latest Beta APK](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public)
 
 Download the Stable APK
@@ -146,76 +208,64 @@ im trying to figure out where the launcher starts and ends at the end of the day
 <object data="https://ia803101.us.archive.org/22/items/Julyhotpepper/1_july4postgriffithSimpleScanStation20250705100835.pdf" type="application/pdf" width="650" height="400">
 <p>You don't have a PDF plugin, but you can <a href="https://ia803101.us.archive.org/22/items/Julyhotpepper/1_july4postgriffithSimpleScanStation20250705100835.pdf">download the PDF file.</a></p></object>
 
-[DOWNLOAD:PDF](https://github.com/rashardgds/linux/blob/master/Documentation/1_july4postgriffithSimpleScanStation20250705100835.pdf)
 
-[CodeBaseHQ](https://github.com/BKWLD/codebasehq) 
-Git Instructions to import and work quickly
 
-_Tell Git your name and e-mail address — this ensures all commits you make are owned by you._
-```shell
-$ git config --global user.name "UserNAme"
-$ git config --global user.email username@gmail.com
-```
-### Create and push a new repository
-Enter the directory which you wish to import
-```shell
-$ cd path/to/local/folder
-```
+# Likeable ? 
+[`Eric Garcetti's voice`](https://en.wikipedia.org/wiki/File:Opening_Statement_of_former_Los_Angeles_Mayor_Eric_M._Garcetti_at_his_Confirmation_Hearing_to_be_Ambassador_to_India.ogg)
+Garcetti's opening statement at his confirmation hearing to be United States ambassador to India
+Recorded December 14, 2021
 
-Initialise the folder as a Git repository
-```shell
-$ git init
-Initialized empty Git repository in path/to/local/folder
-```
+<audio controls>
+  <source src="https://en.wikipedia.org/wiki/File:Opening_Statement_of_former_Los_Angeles_Mayor_Eric_M._Garcetti_at_his_Confirmation_Hearing_to_be_Ambassador_to_India.ogg" type="audio/ogg">
+  
+  Your browser does not support the audio tag.
+</audio>
 
-Add all files and commit for the first time
-```shell
-$ git add .
-$ git commit -m "initial commit"
-[master (root-commit) 5cc0002] initial commit
-0 files changed, 0 insertions(+), 0 deletions(-)
-create mode 100644 README
-```
-Add a remote reference for your new Codebase repository and push all changes to the new reference ('origin').
-```shell
-$ git remote add origin git@svn Provider.com:project_account_name/account/repo.git
-$ git push -u origin master
-Counting objects: 3, done.
-Writing objects: 100% (3/3), 205 bytes, done.
-Total 3 (delta 0), reused 0 (delta 0)
-To git@svn Provider.com:project_account_name/account/repo.git
-* [new branch]      master -> master
-```
-### Push an existing local repository
-If you already have a repository and simply wish to push this to Codebase, you can follow the steps below after entering the directory for the existing repository.
+![image](https://github.com/user-attachments/assets/90fd2340-8be9-4b71-ab91-f862703fd105)
 
-Setup the remote reference for the new Codebase repository and push all branches to the remote
-```shell
-$ git remote add origin git@svn Provider.com:project_account_name/account/repo.git
-$ git push origin --mirror
-Counting objects: 3, done.
-Writing objects: 100% (3/3), 205 bytes, done.
-Total 3 (delta 0), reused 0 (delta 0)
-To git@svn Provider.com:project_account_name/account/repo.git
-* [new branch]      master -> master
-* [new branch]      devel -> devel
+
+@cityoflosangeles im at [FrancisGoldwyn](https://maps.app.goo.gl/k5bwaf96Sk5NkAjEA) but @github thinks im in [TheBayArea](https://earth.google.com/web/@37.42564993,-122.13534436,7.24363611a,14781.28147402d,35y,360h,0t,0r/data=CgRCAggBMikKJwolCiExVFdRaElyTFd1dUg5UzNuX3dwOWFIWGxZOFllOHRzV28gAToDCgEwQgIIAEoICM2g6_wFEAE) @stateofcalifornia [Karen Bass](https://en.wikipedia.org/wiki/Eric_Garcetti) .. .@stanford can you guys look ? [RashardKelly](https://rashardiman.github.io/Rashard-GDS)
+```
+ IP: 155.190.2.33
+ COUNTRY: United States of America
+ COUNTRY ISO: US
+ STATE: California
+ CITY: Palo Alto
+ POSTAL CODE: 94301
+ LATITUDE: 37.4440
+ LONGITUDE: -122.1602
+ ORGANIZATION: Cisco OpenDNS LLC
+ ISP: Cisco OpenDNS LLC
+```
+![image](https://github.com/user-attachments/assets/0e1a0073-2099-4920-bb2a-b66ba0399b02)
+
+
+# Fat Joe - Don Cartagena (Feat. Puff Daddy)
+[link](https://youtu.be/KsUCWtxvBis?list=RDKsUCWtxvBis)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KsUCWtxvBis?si=AWtqd-vZK2UIYWbB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![ABOUT MARQUEECE HARRIS-DAWSON https://cd8.lacity.gov/about/marqueece-harris-dawson](https://cd8.lacity.gov/sites/g/files/wph2111/files/new_logo4.png) [wiki](https://en.wikipedia.org/wiki/Marqueece_Harris-Dawson):[Talk](https://en.wikipedia.org/wiki/Talk:Marqueece_Harris-Dawson)
+![image](https://github.com/user-attachments/assets/0ca10286-0881-4f6e-a48e-eeec79ac6964)
+its always low cost bc yall scared to openly work on [pornography](https://www.youtube.com/watch?v=hzPylqS01qU) ... Councilmember Marqueece Harris-[Dawson](https://www.linkedin.com/in/marqueece-harris-dawson-21901635) without getting in ppl pants [Congress](https://www.google.com/search?sca_esv=51537aeedf813448&rlz=1CASLJZ_enUS1170&sxsrf=AE3TifNmqXpcgIq2nS7xuXQStk8UqY7wBg:1751998226759&q=congresswoman+kamlager-dove&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZrjP_Cx0LI1Ytb_FGcOviEiTm5uW1q0uNfK7KsnoL8hUyUYUJLZ_b-p0lT09DIkR7bwzZ58goNnPFwCobO9Lr1FJy27_ddIL61O5aDZqsFHcHHuRFHQk7kxoaLdgj0KZZIU_JDUonyMsHdJdQkliK1bPwqcc0Qm1U_K-UcOsxPbe_46Hc9znarUsxAr9dQ4t5M01Vcw&sa=X&ved=2ahUKEwjz5c__7a2OAxWqHkQIHaLMCkoQ0pQJKAF6BAgbEAE&biw=960&bih=945&dpr=1)member [Karen Bass](https://en.wikipedia.org/wiki/Eric_Garcetti) [![Twitter Follow](https://img.shields.io/badge/Social-@kdeleoncd14__-blue?style=social&logo=X)](https://twitter.com/kdeleoncd14) [![Twitter Follow](https://img.shields.io/badge/Social-@mhdcd8__-blue?style=social&logo=X)](https://twitter.com/mhdcd8) [@cityoflosangeles CD8](https://cd8.lacity.gov/) :: [CD8 EMAiL @nasa-jpl @nasa @atfweb @dhs-gov https://cd8.lacity.gov/connect/contact](https://cd8.lacity.gov/connect/contact) [ARTiCLE:LiZCOOPER-Where to Get Affordable Internet in Los Angeles - human-i-t.org](https://www.human-i-t.org/affordable-internet-los-angeles/?srsltid=AfmBOor9heYrGvS5D512GHMJQNZwNVyOIbPspkEGeAJUtXEjFJVgadM3) 
+<object data="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLACity%2Fposts%2Fpfbid02ALHrHQxKGBsYTvZY8CCtt1onfXuCfDZSScGXa697UbQfD5HTzx9PDtnCUPKHgxmil&show_text=true&width=500" width="500" height="456" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></object>
+
+
+![https://mitchell.lacounty.gov/](https://p6y530.p3cdn1.secureserver.net/wp-content/uploads/2025/01/FrontPage_Orange-1-1024x427.png)
+
+i remember you from bull st... [Veronica McGregor](https://www.webbyawards.com/5-things-know-veronica-mcgregor/) she rememberes when i first started painting walls and basic'd the [12ozProphet](https://forum.12ozprophet.com/) greats for me she was like Kash Doll but that was not obvious im talking #Manessa Georgia Division of Family & Children Services like a person who knew a lot of p[eople in many different worlld an was teaching at SCAD Office - German University in Cairo [#savanna WTOC-TV](https://www.wtoc.com/) [Tats](https://bx200.com/portfolio/tats-cru-the-mural-kings/) [Cru](https://www.youtube.com/watch?v=Tda2zyvImVI) she know you guys well and If i remember correctly she was the grounding point that helped me not get hurt feelings by #WhiteBoyProstitutionGraff! and i k3ept making art Kimberly Bryant, Founder Black Girls CODE Congressmember Karen Bass NASA Earthdata Veronica McGregor NASA Space Communications and Navigation . . . #Thanks_MsMitchell i need help with some girls that grew fond of me in atlanta... I dont know what to do, polygamy is legal, but only with hustler hollywood ties in this area Los Angeles County Sheriff's Department Councilmember Marqueece Harris-Dawson [MyRepost](https://www.facebook.com/permalink.php?story_fbid=pfbid08ysxu7xJ85ZiguQKDoG6CdFBp4SPuYyE5FeMpuBFniLNwHPX4VZanSkRrvginQkxl&id=100084464911565) [OP](https://www.facebook.com/Holly4LACounty)
+@nasa-jpl @nasa #Kennedy [The Free Agents (FA) Crew was Established in 1985](https://freeagentscrew.com/crew-history/)
+[Dekae FA, Inkheads - Miami, March 2023](https://www.youtube.com/watch?v=Zg9H7urB3kk)
+![image](https://github.com/user-attachments/assets/7d10645a-7c8a-416b-aba5-36c93521c62e)
+```
+He started writing in Miami, 1983. We chat about his personal history, his traveling and photo trading in the days before the internet and his mixed feelings and responsibility around being part of the early wave of graffiti on the internet as part of the crew that borough us 12ozProphet.com
 ```
 
-[CommandLineGit git started codebaseHQ instructions]
-[generating ssh keys](https://support.codebasehq.com/articles/getting-started/getting-started)
-[Regular City Council - 7/1/25](https://www.youtube.com/watch?v=l-m9wvbe0rM&ab_channel=LACityClerk)
 
+### [CALiFORNiA_LiNUX:My Git Hub Journey](https://archive.org/details/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot) To The Web Interface RASHARD IMAN KELLY @NASA M R O I S S ECOSTRESS SWOT @nasa-jpl @cityoflosangeles @stateofcalifornia
+view on [Archive.ORG](https://archive.org/details/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot) [DOWNLOAD_PDF](https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf)
 
-
-[DOWNLOAD_PDF](https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf)
 <object data="https://ia800909.us.archive.org/12/items/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot/progit.pdf" type="application/pdf" width="650" height="400">
 <p>You don't have a PDF plugin, but you can <a href="https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf">download the PDF file.</a></p></object>
-
-
-### CALiFORNiA_LiNUX:My Git Hub Journey To The Web Interface RASHARD IMAN KELLY @NASA M R O I S S ECOSTRESS SWOT @nasa-jpl @cityoflosangeles @stateofcalifornia
-view on [Archive.ORG](https://archive.org/details/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot)
-
-<iframe src="https://archive.org/embed/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Subscribe to Patch Mailing Lists @redhatofficial](https://docs.redhat.com/en/documentation/red_hat_jboss_data_virtualization/6.2/html/security_guide/subscribe_to_patch_mailing_lists)
 ![c8Cracked](https://github.com/user-attachments/assets/74e67acf-d018-423e-b5eb-051c05775649)
