@@ -6,7 +6,7 @@ mermaid: true
 ### jekyll.version
 {{ jekyll.version }}
 
-
+Transforming Defense operations: [The DOD needs automation](https://www.redhat.com/en/blog/transforming-defense-operations)
 [Android OS Documentation](https://source.android.com/docs)
 
 # About the International Space Station
