@@ -7,6 +7,20 @@ mermaid: true
 {{ jekyll.version }}
 
 
+# # California_LiNUX:#La_River
+[files @nasa @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode `of age` @whitehouse @atfweb @dhs-gov](https://archive.org/download/Delalmoriverearthdatabiomass)
+<iframe src="https://archive.org/embed/Delalmoriverearthdatabiomass" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+related : [a-river-runs-through-los-angeles - 99percentinvisible.org](https://99percentinvisible.org/episode/a-river-runs-through-los-angeles/) [The LA River: From Concrete Ditch to an Oasis in the City](https://www.pbs.org/video/studio-socal-la-river-concrete-ditch-oasis-city/) [chapman.edu archives tags `LA_RiVER`](https://blogs.chapman.edu/huell-howser-archives/tag/l-a-river/) [The Natural and Un-natural History of the LA River](https://youtu.be/7kk-KKa7hf8)
+Transforming Defense operations: [The DOD needs automation](https://www.redhat.com/en/blog/transforming-defense-operations) [Red Hat solutions support DoD](https://redhat.com/en/solutions/public-sector/dod) [Red Hat helps DoD standardized, automate workﬂows with DevSecOps](https://federalnewsnetwork.com/open-first/2021/02/trusted-software-supply-chain-helps-dod-standardized-automate-workflows-with-devsecops/)
+[DOWNLOAD_PDF](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf)
+
+<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
+
+<img width="555" height="370" alt="image" src="https://github.com/user-attachments/assets/d6958959-732d-4f11-9b41-27630d1ed8ef" />
+
+
 [Android OS Documentation](https://source.android.com/docs)
 
 # About the International Space Station
