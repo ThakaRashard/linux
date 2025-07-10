@@ -76,10 +76,12 @@ The station was designed between 1984 and 1993. Elements of the station were in 
 # What is Load Average in Linux?
 - [DigitalOcean](https://www.digitalocean.com/community/tutorials/load-average-in-linux) @digitalocean issa wordcloud, so i hope i find some goodies so i can comprehend how to make my [frameratessmoother](https://www.reddit.com/r/RetroArch/comments/ql83sr/how_can_i_tell_if_i_am_getting_full_speed/) [What Is Linux Average Load?](https://phoenixnap.com/kb/linux-average-load)
 
-<video preload="auto" width="auto" height="500px" controls> 
+<video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://ia801206.us.archive.org/17/items/screen-recording-2025-07-09-122807/screen-20250709-090622.mp4" type="video/mp4">	 
 	<source src="https://ia601206.us.archive.org/17/items/screen-recording-2025-07-09-122807/screen-20250709-090622.mp4" type="video/mp4">	
 </video> 
+
+[https://en.wikipedia.org/wiki/Talk:La_Ca%C3%B1ada_Flintridge,_California](https://en.wikipedia.org/wiki/Talk:La_Ca%C3%B1ada_Flintridge,_California)
 
 ![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
 
