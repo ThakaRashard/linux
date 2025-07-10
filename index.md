@@ -22,11 +22,43 @@ The station was designed between 1984 and 1993. Elements of the station were in 
 ![SpaceWalk](https://www.nasa.gov/wp-content/uploads/2022/12/51476067951-e10dfb6875-o-1.jpg)
 
 
+
+--- 
+
+# Discovering [`FindHub`](https://www.google.com/android/find/people)
+
+<video preload="auto" width="auto" height="500px" controls> 
+	<source src="https://ia601400.us.archive.org/24/items/GIOVANNIFindhub/findhub.ia.mp4" type="video/mp4">	 
+	<source src="https://ia801400.us.archive.org/24/items/GIOVANNIFindhub/findhub.ia.mp4" type="video/mp4">	 
+</video> 
+
+# TraceRoute
+
+@redhatofficial @nasa @nasa-jpl @podaac @cityoflosangeles @stateofcalifornia its the last part of the vid ~ 27min ~>
+<iframe src="https://archive.org/embed/screen-recording-2025-07-08-7.01.20-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+<div class="tupperware">
+<video preload="auto" width="auto" height="500px" controls> 
+	<source src="https://ia600904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_071024.ia.mp4" type="video/mp4">	 
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+	<source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_223711.mp4" type="video/mp4">	 
+</video> 
+</div>
+
 @redhatofficial @nasa @nasa-jpl @podaac @cityoflosangeles @stateofcalifornia 
+
 <iframe src="https://archive.org/embed/screen-recording-2025-07-08-7.01.20-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
 
 
-[https://phoenixnap.com/kb/linux-mail-command](https://phoenixnap.com/kb/linux-mail-command)
+[https://phoenixnap.com/kb/linux-mail-command](https://phoenixnap.com/kb/linux-mail-command) 
+[https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a](https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a)
+
 ![image](https://github.com/user-attachments/assets/71fc200c-ff1d-4c73-9d18-7e026217aefb)
 
 ###  [LACiTY.gov or org](https://lacity.org/)
@@ -37,13 +69,12 @@ The station was designed between 1984 and 1993. Elements of the station were in 
 
 ![image](https://github.com/user-attachments/assets/e9756d0e-e3cf-4166-8720-592414d2d4a2)
 
-[https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a](https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a)
 
 # What is Load Average in Linux?
 - [DigitalOcean](https://www.digitalocean.com/community/tutorials/load-average-in-linux) @digitalocean issa wordcloud, so i hope i find some goodies so i can comprehend how to make my [frameratessmoother](https://www.reddit.com/r/RetroArch/comments/ql83sr/how_can_i_tell_if_i_am_getting_full_speed/) [What Is Linux Average Load?](https://phoenixnap.com/kb/linux-average-load)
-  ![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
-@redhatofficial @nasa @nasa-jpl @podaac @cityoflosangeles @stateofcalifornia its the last part of the vid ~ 27min ~>
-<iframe src="https://archive.org/embed/screen-recording-2025-07-08-7.01.20-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
+
 @nasa-jpl @podaac
 last night's flyover
 
