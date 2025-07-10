@@ -7,6 +7,47 @@ mermaid: true
 {{ jekyll.version }}
 
 
+[Android OS Documentation](https://source.android.com/docs)
+
+# About the International Space Station
+The station was designed between 1984 and 1993. Elements of the station were in construction throughout the US, Canada, Japan, and Europe beginning in the late 1980s. [ReadMore](https://www.nasa.gov/international-space-station/)
+
+
+<img src="https://raw.githubusercontent.com/rashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg" alt="image" />      
+<img src="https://raw.githubusercontent.com/rashardgds/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62981u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/rashard-ecostress-jpl-iss/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63400-63497u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/rashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
+<img src="https://raw.githubusercontent.com/kellyrashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
+
+![SpaceWalk](https://www.nasa.gov/wp-content/uploads/2022/12/51476067951-e10dfb6875-o-1.jpg)
+
+
+@redhatofficial @nasa @nasa-jpl @podaac @cityoflosangeles @stateofcalifornia 
+<iframe src="https://archive.org/embed/screen-recording-2025-07-08-7.01.20-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+
+[https://phoenixnap.com/kb/linux-mail-command](https://phoenixnap.com/kb/linux-mail-command)
+![image](https://github.com/user-attachments/assets/71fc200c-ff1d-4c73-9d18-7e026217aefb)
+
+###  [LACiTY.gov or org](https://lacity.org/)
+![image](https://github.com/user-attachments/assets/c20d44eb-27df-4039-97e9-2876ed98beb5)
+[![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/repkarenbass)  [![Twitter Follow](https://img.shields.io/badge/Social-@blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode) [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-@iamcardib__-blue?style=social&logo=X)](https://twitter.com/iamcardib)
+![image](https://github.com/user-attachments/assets/b12d5ac3-882b-4f59-8d9f-7fe7cf1e8677)
+@nasa @nasa-jpl @stateofcalifornia : @blackgirlscode  @cityoflosangeles [RiotCoverage @cityoflosangeles](https://ricothakarashard.github.io/GraffShit) [JANET_PETRO trello card from rashard](https://trello.com/c/ebEEhaFo/26-janet-petroacting-nasa-administrator) [@trello for @cityoflosangeles MAyorKarenBass @nasa-jpl](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) @whitehouse @deptofdefense
+
+![image](https://github.com/user-attachments/assets/e9756d0e-e3cf-4166-8720-592414d2d4a2)
+
+[https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a](https://medium.com/@brysongracias/how-to-send-email-from-terminal-in-rhel9-40a900ad506a)
+
+# What is Load Average in Linux?
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/load-average-in-linux) @digitalocean issa wordcloud, so i hope i find some goodies so i can comprehend how to make my [frameratessmoother](https://www.reddit.com/r/RetroArch/comments/ql83sr/how_can_i_tell_if_i_am_getting_full_speed/) [What Is Linux Average Load?](https://phoenixnap.com/kb/linux-average-load)
+  ![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
+@redhatofficial @nasa @nasa-jpl @podaac @cityoflosangeles @stateofcalifornia its the last part of the vid ~ 27min ~>
+<iframe src="https://archive.org/embed/screen-recording-2025-07-08-7.01.20-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+@nasa-jpl @podaac
+last night's flyover
+
+<iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # California Linux: DeepSpaceNet,uptime, LEarning About Northrop
 [Documenting system uptime in Linux](https://www.redhat.com/en/blog/system-uptime-linux) @nasa-jpl @redhatofficial @cityoflosangeles @ajc [CourseWork](https://www.jpl.nasa.gov/go/parts-engineering-school/programs/curriculum/)
@@ -18,13 +59,6 @@ Structure (WBS)
 Handbook](https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf)
 
 
-# What is Load Average in Linux?
-- [DigitalOcean](https://www.digitalocean.com/community/tutorials/load-average-in-linux) @digitalocean issa wordcloud, so i hope i find some goodies so i can comprehend how to make my [frameratessmoother](https://www.reddit.com/r/RetroArch/comments/ql83sr/how_can_i_tell_if_i_am_getting_full_speed/) [What Is Linux Average Load?](https://phoenixnap.com/kb/linux-average-load)
-  ![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
-
-@nasa-jpl @podaac
-last night's flyover
-<iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 
