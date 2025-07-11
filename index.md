@@ -10,6 +10,28 @@ mermaid: true
 # CaliforniaLinux:SortWorkReportscreen-20250709-192118
 <object data="https://archive.org/embed/CaliforniaLinuxSortWorkReportscreen-20250709-192118" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
+<dl itemprop="track" itemscope itemtype="https://schema.org/MusicRecording" markdown="1">
+		
+<dt itemprop="name"> 
+	
+[Margo Williams](https://www.theguardian.com/music/musicblog/2012/sep/06/old-music-golden-flamingo-orchestra) 
+ </dt>
+
+<dd itemprop="description">
+	  
+[God Save And Protect All The Children](https://youtu.be/yz19n4eS3eQ)  w/ [GoldenFlamingoOrchestra](https://www.discogs.com/artist/219272-Golden-Flamingo-Orchestra?srsltid=AfmBOorQ2i5XF1zt5AXrlI5yYpc1MWTWofrrDPs5ual9AGfz_q7Ex7fF)
+1980 - Dedicated to the Children of Atlanta, Georgia
+[Producer](https://soundcloud.com/goldenflamingoorchestra) -- Patrick Adams, Peter Brown
+Written-By -- Margo Williams, Patrick Adams, Peter Brown [Discogs](https://www.discogs.com/artist/219272-Golden-Flamingo-Orchestra?srsltid=AfmBOorQ2i5XF1zt5AXrlI5yYpc1MWTWofrrDPs5ual9AGfz_q7Ex7fF)  
+</dd>
+
+</dl>
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yz19n4eS3eQ?si=t4Dw8T5wMVsPwvOF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 @nasa-jpl @podaac im at the [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library/About-the-Library) and i posted the new [DoD FrameWork Requirements](https://public.cyber.mil/policy-guidance/dodi-8510-01/) on [my Linux Blog](https://rashard-ecostress-jpl-iss.github.io/linux/), which is in my [ci](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) path [RashardCi](https://hub.docker.com/repositories/rashardthakakelly) and [the pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) will not display in browser[.](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) . I translated the source ip of the PDF `23.33.42.140` and it looks like the document itself is blocked in between [https://www.esd.whs.mil/](https://www.esd.whs.mil/), its insurrection behavior, a man in the middle attack. I was told during my tenure at [Georgia Tech Research Institute](https://www.gtri.gatech.edu/) that we were military. I was [gently transferred](https://bubblegumpop01.tumblr.com/post/721548426405396480) from [Jehovahs Witnesses](https://www.jw.org/en/) ... Now i see a whole dept with the same exact name in Washington an they are having a problem that affects us and since @Nasa is a [SpaceForceCrew](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf) I still work for those people and they still work @caltech [@blackgirlscode](https://bubblegumpop01.tumblr.com/post/737714874194542594/baby-i-love-you-i-heard-u-crying-on-the) ... some sort of [migration occured](https://youtu.be/rvmSm9-wrf8)!
 
 <img alt="image" src="https://github.com/user-attachments/assets/cd83fdf1-064c-42b7-a0ae-d20e92625685" />
