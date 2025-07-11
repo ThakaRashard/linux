@@ -7,6 +7,96 @@ mermaid: true
 {{ jekyll.version }}
 
 
+@nasa-jpl @podaac im at the [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library/About-the-Library) and i posted the new [DoD FrameWork Requirements](https://public.cyber.mil/policy-guidance/dodi-8510-01/) on [my Linux Blog](https://rashard-ecostress-jpl-iss.github.io/linux/), which is in my [ci](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) path [RashardCi](https://hub.docker.com/repositories/rashardthakakelly) and [the pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) will not display in browser[.](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/b804350b-9f01-403e-86b1-86c383227e1b" />
+
+
+```
+<h1>D OD I NSTRUCTION 8510.01
+RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
+<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
+
+<h1>Los Angeles Emergency Operations Plan </h1>
+<object data="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
+```
+
+[Software Acquisition Pathway Integration with Risk ... - DoD CIO](https://dodcio.defense.gov/Portals/0/Documents/Library/SWAPathwayIntegration-RMF.PDF)
+The Software Acquisition Pathway (SWP) enables organizations to execute rapid and iterative
+delivery of software capabilities by using modern software development practices and active
+  [user engagement](https://rashard-ecostress-jpl-iss.github.io/) [DoD Instruction 5000.82, "Requirements for the Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500082p.pdf) [DoDI 5000.87, "Operation of the Software Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF) [Cybersecurity for DoD Acquisition Program Execution](https://www.acq.osd.mil/asda/pwpm/docs/dau/Cybersecurity_Best_Practice_Guidebook_Version_1-24Nov2021.pdf)
+
+```shell
+
+Microsoft Windows [Version 10.0.22621.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\terminal16>tracert 23.33.42.140
+
+Tracing route to a23-33-42-140.deploy.static.akamaitechnologies.com [23.33.42.140]
+over a maximum of 30 hops:
+
+  1     2 ms    <1 ms     1 ms  my.meraki.net [192.168.168.1]
+  2     2 ms     1 ms     1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     4 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4     5 ms     4 ms     4 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5     4 ms     4 ms     4 ms  lax-agg10--losa4-agg-01--400g--01.cenic.net [137.164.11.110]
+  6     4 ms     4 ms     4 ms  lag-105-90.ear2.LosAngeles1.Level3.net [4.35.156.65]
+  7     *        *        *     Request timed out.
+  8     4 ms     4 ms     4 ms  4.59.55.2
+  9     4 ms     4 ms     4 ms  ae11.r21.lax01.icn.netarch.akamai.com [23.207.234.38]
+ 10    54 ms    54 ms    54 ms  ae29.r01.ord01.icn.netarch.akamai.com [23.32.62.121]
+ 11    72 ms    72 ms    72 ms  ae21.r02.lga01.icn.netarch.akamai.com [23.193.112.245]
+ 12    72 ms    73 ms    72 ms  ae2.r01.lga01.ien.netarch.akamai.com [23.203.156.39]
+ 13    73 ms    73 ms    73 ms  ae38.r03.border101.ewr03.fab.netarch.akamai.com [23.203.156.29]
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17    75 ms    75 ms    75 ms  a23-33-42-140.deploy.static.akamaitechnologies.com [23.33.42.140]
+
+Trace complete.
+
+C:\Users\terminal16>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : SPASPUBLIC004
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (17) I219-LM
+   Physical Address. . . . . . . . . : 20-88-10-60-8D-6A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::20fe:4049:b2c4:97c0%14(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.168.103(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Friday, July 11, 2025 1:27:56 PM
+   Lease Expires . . . . . . . . . . : Saturday, July 12, 2025 1:27:56 PM
+   Default Gateway . . . . . . . . . : 192.168.168.1
+   DHCP Server . . . . . . . . . . . : 192.168.168.1
+   DHCPv6 IAID . . . . . . . . . . . : 102795280
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-BA-59-E5-20-88-10-60-8D-6A
+   DNS Servers . . . . . . . . . . . : 192.168.168.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+C:\Users\terminal16>
+
+
+```
+
+
+
+
+
+
 # # California_LiNUX:#La_River
 [files @nasa @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode `of age` @whitehouse @atfweb @dhs-gov](https://archive.org/download/Delalmoriverearthdatabiomass)
 <iframe src="https://archive.org/embed/Delalmoriverearthdatabiomass" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
