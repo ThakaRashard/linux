@@ -30,6 +30,14 @@ delivery of software capabilities by using modern software development practices
   <dd itemprop="description">Chief Information Officer </dd>
 </dl>
 
+
+
+[Software Acquisition Pathway Integration with Risk ... - DoD CIO](https://dodcio.defense.gov/Portals/0/Documents/Library/SWAPathwayIntegration-RMF.PDF)
+The Software Acquisition Pathway (SWP) enables organizations to execute rapid and iterative
+delivery of software capabilities by using modern software development practices and active
+  [user engagement](https://rashard-ecostress-jpl-iss.github.io/) [DoD Instruction 5000.82, "Requirements for the Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500082p.pdf) [DoDI 5000.87, "Operation of the Software Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF) [Cybersecurity for DoD Acquisition Program Execution](https://www.acq.osd.mil/asda/pwpm/docs/dau/Cybersecurity_Best_Practice_Guidebook_Version_1-24Nov2021.pdf)
+
+
 <img alt="image" src="https://github.com/user-attachments/assets/b804350b-9f01-403e-86b1-86c383227e1b" />
 
 
@@ -44,11 +52,6 @@ RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
 <object data="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
 <p>You don't have a PDF plugin, but you can <a href="https://emergency.lacity.gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
 ```
-
-[Software Acquisition Pathway Integration with Risk ... - DoD CIO](https://dodcio.defense.gov/Portals/0/Documents/Library/SWAPathwayIntegration-RMF.PDF)
-The Software Acquisition Pathway (SWP) enables organizations to execute rapid and iterative
-delivery of software capabilities by using modern software development practices and active
-  [user engagement](https://rashard-ecostress-jpl-iss.github.io/) [DoD Instruction 5000.82, "Requirements for the Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500082p.pdf) [DoDI 5000.87, "Operation of the Software Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF) [Cybersecurity for DoD Acquisition Program Execution](https://www.acq.osd.mil/asda/pwpm/docs/dau/Cybersecurity_Best_Practice_Guidebook_Version_1-24Nov2021.pdf)
 
 ```shell
 
