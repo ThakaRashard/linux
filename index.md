@@ -27,7 +27,14 @@ I have to clean up my css, i dont know how to do the `&:hover` rule and pass cle
 
 @nasa-jpl @podaac im at the [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library/About-the-Library) and i posted the new [DoD FrameWork Requirements](https://public.cyber.mil/policy-guidance/dodi-8510-01/) on [my Linux Blog](https://rashard-ecostress-jpl-iss.github.io/linux/), which is in my [ci](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) path [RashardCi](https://hub.docker.com/repositories/rashardthakakelly) and [the pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) will not display in browser[.](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) 
 
+![2024_R_Vuchatu1](https://github.com/user-attachments/assets/ad747502-1a2a-46c7-8e8f-6f032ed34a43)
+
+
 <img alt="image" src="https://github.com/user-attachments/assets/b804350b-9f01-403e-86b1-86c383227e1b" />
+<dl itemscope itemtype="https://schema.org/EducationalOccupationalCredential">
+  <dt itemprop="name">Raj Vuchatu</dt>
+  <dd itemprop="description">Chief Information Officer </dd>
+</dl>
 
 
 ```
