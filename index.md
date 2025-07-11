@@ -6,6 +6,24 @@ mermaid: true
 ### jekyll.version
 {{ jekyll.version }}
 
+```
+W3C CSS Validator results for https://rashardci.github.io/ (CSS level 3 + SVG)
+Sorry! We found the following errors (9)
+URI : https://rashardci.github.io/htau.css
+10 	html 	Property font-optical-sizing doesn't exist : auto
+60 	.tupperware > * 	Parse Error &:hover { flex-grow: 9.3; }
+227 	#footer 	right is not a align-self value : right
+237 	#footer 	break-all is not a overflow-wrap value : break-all
+327 	img 	Value Error : max-height auto is not a max-height value : auto
+709 	.track figure figcaption 	Too many values or values are not recognized : 0 0 0 1px hsl(0 9% 1% / 0.3) outset 0 0.5em 1em rgb(0, 0, 0, 0.1)
+URI : https://rashardci.github.io/
+2 		File not found: https://rashardci.github.io/rouge-base16-dark: Not Found
+16 	.navbar a 	Value Error : padding 10x is not a padding value : 10x 10px
+2 		Parse Error [ [images to fill container](https://www.w3schools.com/css/css_rwd_images.asp) ]
+```
+
+I have to clean up my css, i dont know how to do the `&:hover` rule and pass clean, ill get to it later, im debugging [DoD_Censorship @nasa-jpl @deptofdefense](https://en.wikipedia.org/wiki/Talk:U.S._Department_of_Defense_censorship_of_DEI-connected_material)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e5a38093-5bbd-4eea-b23b-4c36fa87ec6f" />
 
 @nasa-jpl @podaac im at the [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library/About-the-Library) and i posted the new [DoD FrameWork Requirements](https://public.cyber.mil/policy-guidance/dodi-8510-01/) on [my Linux Blog](https://rashard-ecostress-jpl-iss.github.io/linux/), which is in my [ci](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) path [RashardCi](https://hub.docker.com/repositories/rashardthakakelly) and [the pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) will not display in browser[.](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) 
 
