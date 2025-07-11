@@ -7,66 +7,12 @@ mermaid: true
 {{ jekyll.version }}
 
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bd3b4955-f1a9-420c-8885-4dcd981cf8f0" />
-@nasa-jpl @ajc
 
 
-# Dear_M_R_O,
-
-I have been researching SpaceForce and  [![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/@realDonaldTrump) in this speech said SpaceForce is the 6th branch of the US_GOVERNMENT [![Twitter Follow](https://img.shields.io/badge/Social-@KamalaHarris__-blue?style=social&logo=X)](https://twitter.com/@KamalaHarris) So i found this flickr stream with [The insight Landing](https://www.flickr.com/photos/nasahqphoto/with/45152099075) an [![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/@realDonaldTrump)  talking about money, an [![Twitter Follow](https://img.shields.io/badge/Social-@SenBillNelson__-blue?style=social&logo=X)](https://twitter.com/@SenBillNelson) is jumping for exotic levels of JOY on NASDAQ an i wanna know if we a scary company like [SKYNET](https://terminator.fandom.com/wiki/Skynet)... And not the defense dept... ill keep reaserching bc in the old days we reported to [![Twitter Follow](https://img.shields.io/badge/Social-@Secdef__-blue?style=social&logo=X)](https://twitter.com/@Secdef). President Trump signed [S.1215 - National Defense Authorization Act for Fiscal Year 2020 ](https://www.congress.gov/bill/116th-congress/senate-bill/1215/text) in 2019. That was the year [Muna Died](https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed/obituary). So I am a Widower. but her sister was at this church in Hollywood, im scared man , i got set up for some shit and all them girls from the dance classes started vanishing around the [landing of insight](https://www.jpl.nasa.gov/missions/insight/), [i need to play a game to cool off](https://www.smbgames.be/mario-world-2-yoshis-island.php) 
-
-
-<video controls preload="none" width="100%" height="auto" poster="https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG">
-
-<source src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />    
-<source src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />
-      
-        Download the
-        or
-  <a href="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4">MP4</a>
-        video.
-</video>
-
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/2OYrMFlw46">https://t.co/2OYrMFlw46</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1936603680805097741?ref_src=twsrc%5Etfw">June 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
-# Sunday Oct. 13 2024
-## Dear_*,
-I forgot what other lil girl at Dance411 was helpinmg me with this. But I have to track how im computing the news. A lot of ppl that Left [Cults](https://youtu.be/eAM9diyVRiM) get mislead politically and sometimes endup in crime. NASAJPL human man, and this new SpaceforcE awareness makes me apt to share my views openly an that can help keep shit stable when them ppl lying. I wanted to test in_browser ruby programming that put standard out on the screen but i was too distracted with the #HollyWoodSessionJackiNGs [The National Aeronautics and Space Administration (NASA /ˈnæsə/) ](https://en.wikipedia.org/wiki/NASA)
-
-[Game Type · Intelligent Hoodlum](https://www.youtube.com/watch?v=CU_LYy4cnE0)
-![WorkLog Kamala+EuropaClipper](https://pbs.twimg.com/media/GZzXGX5bAAAgFvu?format=jpg&name=large)
-![SpaceForce+nasa](https://pbs.twimg.com/media/GZzDZdyaoAA53jT?format=jpg&name=medium)
-![SpaceForceNasa](https://pbs.twimg.com/media/GZzC8yCagAAPT3f?format=png&name=small)
-![SpaceForce](https://pbs.twimg.com/media/GZzDdA3a4AAI0dC?format=png&name=small)
-![WORKLOG LROC](https://pbs.twimg.com/media/GZzSfl7awAA0cSa?format=jpg&name=large)
-
-
-![Nasa](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/800px-NASA_seal.svg.png)
-
-
-[Remarks by President Trump at Signing Ceremony for S.1790, National Defense Authorization Act for Fiscal Year 2020](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-signing-ceremony-s-1790-national-defense-authorization-act-fiscal-year-2020/) [Trump Signs Law Establishing U.S. Space Force](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/)
-
-```
-W3C CSS Validator results for https://rashardci.github.io/ (CSS level 3 + SVG)
-Sorry! We found the following errors (9)
-URI : https://rashardci.github.io/htau.css
-10 	html 	Property font-optical-sizing doesn't exist : auto
-60 	.tupperware > * 	Parse Error &:hover { flex-grow: 9.3; }
-227 	#footer 	right is not a align-self value : right
-237 	#footer 	break-all is not a overflow-wrap value : break-all
-327 	img 	Value Error : max-height auto is not a max-height value : auto
-709 	.track figure figcaption 	Too many values or values are not recognized : 0 0 0 1px hsl(0 9% 1% / 0.3) outset 0 0.5em 1em rgb(0, 0, 0, 0.1)
-URI : https://rashardci.github.io/
-2 		File not found: https://rashardci.github.io/rouge-base16-dark: Not Found
-16 	.navbar a 	Value Error : padding 10x is not a padding value : 10x 10px
-2 		Parse Error [ [images to fill container](https://www.w3schools.com/css/css_rwd_images.asp) ]
-```
-
-I have to clean up my css, i dont know how to do the `&:hover` rule and pass clean, ill get to it later, im debugging [DoD_Censorship @nasa-jpl @deptofdefense](https://en.wikipedia.org/wiki/Talk:U.S._Department_of_Defense_censorship_of_DEI-connected_material)
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e5a38093-5bbd-4eea-b23b-4c36fa87ec6f" />
 
 @nasa-jpl @podaac im at the [SouthPasadenaPublicLibrary](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library/About-the-Library) and i posted the new [DoD FrameWork Requirements](https://public.cyber.mil/policy-guidance/dodi-8510-01/) on [my Linux Blog](https://rashard-ecostress-jpl-iss.github.io/linux/), which is in my [ci](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) path [RashardCi](https://hub.docker.com/repositories/rashardthakakelly) and [the pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) will not display in browser[.](http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf) . I translated the source ip of the PDF `23.33.42.140` and it looks like the document itself is blocked in between [https://www.esd.whs.mil/](https://www.esd.whs.mil/), its insurrection behavior, a man in the middle attack. I was told during my tenure at [Georgia Tech Research Institute](https://www.gtri.gatech.edu/) that we were military. I was [gently transferred](https://bubblegumpop01.tumblr.com/post/721548426405396480) from [Jehovahs Witnesses](https://www.jw.org/en/) ... Now i see a whole dept with the same exact name in Washington an they are having a problem that affects us and since @Nasa is a [SpaceForceCrew](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf) I still work for those people and they still work @caltech [@blackgirlscode](https://bubblegumpop01.tumblr.com/post/737714874194542594/baby-i-love-you-i-heard-u-crying-on-the) ... some sort of [migration occured](https://youtu.be/rvmSm9-wrf8)!
+
+<img alt="image" src="https://github.com/user-attachments/assets/cd83fdf1-064c-42b7-a0ae-d20e92625685" />
 
 [`The U.S. Space Force was established on Dec. 20, 2019`](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/), creating the first new branch of the armed services since 1947
 
@@ -170,6 +116,67 @@ C:\Users\terminal16>
 
 
 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2d582304-29d8-4ee7-9aef-247dcfb98f66" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bd3b4955-f1a9-420c-8885-4dcd981cf8f0" />
+@nasa-jpl @ajc
+
+
+# Dear_M_R_O,
+
+I have been researching SpaceForce and  [![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/@realDonaldTrump) in this speech said SpaceForce is the 6th branch of the US_GOVERNMENT [![Twitter Follow](https://img.shields.io/badge/Social-@KamalaHarris__-blue?style=social&logo=X)](https://twitter.com/@KamalaHarris) So i found this flickr stream with [The insight Landing](https://www.flickr.com/photos/nasahqphoto/with/45152099075) an [![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/@realDonaldTrump)  talking about money, an [![Twitter Follow](https://img.shields.io/badge/Social-@SenBillNelson__-blue?style=social&logo=X)](https://twitter.com/@SenBillNelson) is jumping for exotic levels of JOY on NASDAQ an i wanna know if we a scary company like [SKYNET](https://terminator.fandom.com/wiki/Skynet)... And not the defense dept... ill keep reaserching bc in the old days we reported to [![Twitter Follow](https://img.shields.io/badge/Social-@Secdef__-blue?style=social&logo=X)](https://twitter.com/@Secdef). President Trump signed [S.1215 - National Defense Authorization Act for Fiscal Year 2020 ](https://www.congress.gov/bill/116th-congress/senate-bill/1215/text) in 2019. That was the year [Muna Died](https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed/obituary). So I am a Widower. but her sister was at this church in Hollywood, im scared man , i got set up for some shit and all them girls from the dance classes started vanishing around the [landing of insight](https://www.jpl.nasa.gov/missions/insight/), [i need to play a game to cool off](https://www.smbgames.be/mario-world-2-yoshis-island.php) 
+
+
+<video controls preload="none" width="100%" height="auto" poster="https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG">
+
+<source src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />    
+<source src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />
+      
+        Download the
+        or
+  <a href="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4">MP4</a>
+        video.
+</video>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/2OYrMFlw46">https://t.co/2OYrMFlw46</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1936603680805097741?ref_src=twsrc%5Etfw">June 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+# Sunday Oct. 13 2024
+## Dear_*,
+I forgot what other lil girl at Dance411 was helpinmg me with this. But I have to track how im computing the news. A lot of ppl that Left [Cults](https://youtu.be/eAM9diyVRiM) get mislead politically and sometimes endup in crime. NASAJPL human man, and this new SpaceforcE awareness makes me apt to share my views openly an that can help keep shit stable when them ppl lying. I wanted to test in_browser ruby programming that put standard out on the screen but i was too distracted with the #HollyWoodSessionJackiNGs [The National Aeronautics and Space Administration (NASA /ˈnæsə/) ](https://en.wikipedia.org/wiki/NASA)
+
+[Game Type · Intelligent Hoodlum](https://www.youtube.com/watch?v=CU_LYy4cnE0)
+![WorkLog Kamala+EuropaClipper](https://pbs.twimg.com/media/GZzXGX5bAAAgFvu?format=jpg&name=large)
+![SpaceForce+nasa](https://pbs.twimg.com/media/GZzDZdyaoAA53jT?format=jpg&name=medium)
+![SpaceForceNasa](https://pbs.twimg.com/media/GZzC8yCagAAPT3f?format=png&name=small)
+![SpaceForce](https://pbs.twimg.com/media/GZzDdA3a4AAI0dC?format=png&name=small)
+![WORKLOG LROC](https://pbs.twimg.com/media/GZzSfl7awAA0cSa?format=jpg&name=large)
+
+
+![Nasa](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/800px-NASA_seal.svg.png)
+
+
+[Remarks by President Trump at Signing Ceremony for S.1790, National Defense Authorization Act for Fiscal Year 2020](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-signing-ceremony-s-1790-national-defense-authorization-act-fiscal-year-2020/) [Trump Signs Law Establishing U.S. Space Force](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/)
+
+```
+W3C CSS Validator results for https://rashardci.github.io/ (CSS level 3 + SVG)
+Sorry! We found the following errors (9)
+URI : https://rashardci.github.io/htau.css
+10 	html 	Property font-optical-sizing doesn't exist : auto
+60 	.tupperware > * 	Parse Error &:hover { flex-grow: 9.3; }
+227 	#footer 	right is not a align-self value : right
+237 	#footer 	break-all is not a overflow-wrap value : break-all
+327 	img 	Value Error : max-height auto is not a max-height value : auto
+709 	.track figure figcaption 	Too many values or values are not recognized : 0 0 0 1px hsl(0 9% 1% / 0.3) outset 0 0.5em 1em rgb(0, 0, 0, 0.1)
+URI : https://rashardci.github.io/
+2 		File not found: https://rashardci.github.io/rouge-base16-dark: Not Found
+16 	.navbar a 	Value Error : padding 10x is not a padding value : 10x 10px
+2 		Parse Error [ [images to fill container](https://www.w3schools.com/css/css_rwd_images.asp) ]
+```
+
+I have to [clean up my css](https://github.com/user-attachments/assets/e5a38093-5bbd-4eea-b23b-4c36fa87ec6f), i dont know how to do the `&:hover` rule and pass clean, ill get to it later, im debugging [DoD_Censorship @nasa-jpl @deptofdefense](https://en.wikipedia.org/wiki/Talk:U.S._Department_of_Defense_censorship_of_DEI-connected_material)
 
 
 
