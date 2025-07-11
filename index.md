@@ -7,7 +7,7 @@ mermaid: true
 {{ jekyll.version }}
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ec4247b-8f37-4021-b7a1-22bba03437aa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f4227a2-8cda-4c24-ade5-aad8f1257097" />
 
 
 
