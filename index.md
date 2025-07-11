@@ -25,13 +25,13 @@ delivery of software capabilities by using modern software development practices
   [user engagement](https://rashard-ecostress-jpl-iss.github.io/) [DoD Instruction 5000.82, "Requirements for the Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500082p.pdf) [DoDI 5000.87, "Operation of the Software Acquisition ...](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF) [Cybersecurity for DoD Acquisition Program Execution](https://www.acq.osd.mil/asda/pwpm/docs/dau/Cybersecurity_Best_Practice_Guidebook_Version_1-24Nov2021.pdf)
 
 ![2024_R_Vuchatu1](https://github.com/user-attachments/assets/ad747502-1a2a-46c7-8e8f-6f032ed34a43)
-
-
-<img alt="image" src="https://github.com/user-attachments/assets/b804350b-9f01-403e-86b1-86c383227e1b" />
 <dl itemscope itemtype="https://schema.org/EducationalOccupationalCredential">
   <dt itemprop="name">Raj Vuchatu</dt>
   <dd itemprop="description">Chief Information Officer </dd>
 </dl>
+
+<img alt="image" src="https://github.com/user-attachments/assets/b804350b-9f01-403e-86b1-86c383227e1b" />
+
 
 
 ```
