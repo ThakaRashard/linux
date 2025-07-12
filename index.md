@@ -7,7 +7,7 @@ mermaid: true
 {{ jekyll.version }}
 
 
-# CaliforniaLinux:SortWorkReportscreen-20250709-192118
+# CaliforniaLinux:SortWorkReportscreen-20250709-192118 [raj](https://gtri.gatech.edu/public/prod/2021-01/Raj%20Vuchatu.pdf)  [vute](https://www.gtri.gatech.edu/people/raj-vuchatu)
 <object data="https://archive.org/embed/CaliforniaLinuxSortWorkReportscreen-20250709-192118" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
 <dl itemprop="track" itemscope itemtype="https://schema.org/MusicRecording" markdown="1">
