@@ -86,6 +86,46 @@ Don't Be a Sucker is an anti-fascist propaganda film produced by [the United Sta
 
 [NASAWORLDViEWSCKetch](https://worldview.earthdata.nasa.gov/?v=-160.87033100297327,16.021772530504677,-104.27883030701899,47.85449167197896&as=2025-06-13-T00%3A00%3A00Z&ae=2025-07-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,Landsat_Human_Built-up_And_Settlement_Extent(disabled=3),GRanD_Dams,GRanD_Reservoirs,VIIRS_NOAA20_Chlorophyll_a(hidden),VIIRS_SNPP_L2_Chlorophyll_A(hidden),MERIS_ENVISAT_Chlorophyll_a,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,OCI_PACE_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&ab=on&t=2025-07-12-T00%3A00%3A00Z) @nasa-jpl 
 
+# CaliforniaLinuxSaturdaytoSunday 
+<iframe src="https://archive.org/embed/screen-20250712-220022" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[https://archive.org/details/ComputerHackingDocumentriesMegaCollection](https://archive.org/details/ComputerHackingDocumentriesMegaCollection)
+[South Pasadena Library](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library) is completing traces
+```shell
+
+Microsoft Windows [Version 10.0.22631.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\terminal011>tracert whitehouse.gov
+
+Tracing route to whitehouse.gov [192.0.66.107]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4    11 ms    11 ms    11 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5    12 ms    12 ms    12 ms  snvl2-agg-01--losa4-agg-01--800g--2.cenic.net [137.164.11.21]
+  6    12 ms    11 ms    11 ms  dc-svl-agg10--snvl2-agg-01-400g.cenic.net [137.164.11.80]
+  7    12 ms    12 ms    12 ms  eqix-sv5.automattic.com [206.223.116.197]
+  8    12 ms    12 ms    11 ms  192.0.66.107
+
+Trace complete.
+
+C:\Users\terminal011>nslookup whitehouse.gov
+Server:  my.meraki.net
+Address:  192.168.168.1
+
+Non-authoritative answer:
+Name:    whitehouse.gov
+Addresses:  2a04:fa87:fffd::c000:4233
+          192.0.66.65
+
+
+```
+
+<img alt="image" src="https://github.com/user-attachments/assets/8be9e0cb-ed64-4fac-8304-ff84a9f9cedb" />
+
 # CaliforniaLinux:SortWorkReportscreen-20250709-192118 [raj](https://gtri.gatech.edu/public/prod/2021-01/Raj%20Vuchatu.pdf)  [vute](https://www.gtri.gatech.edu/people/raj-vuchatu)
 <object data="https://archive.org/embed/CaliforniaLinuxSortWorkReportscreen-20250709-192118" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
