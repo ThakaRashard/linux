@@ -3,16 +3,23 @@ layout: default
 title: ./HoleToAnotherUniverse/linux
 mermaid: true
 ---
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) {% include nav.html %}
+
+
 ### jekyll.version
 {{ jekyll.version }}
 
-# Rashard Kelly NasaJpl MRO JUNO iSS
+# Rashard Kelly Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [+](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) iS[S](https://www.usgovernmentmanual.gov/Agency?EntityId=VSLfQ4vlJ2o=&ParentEId=+klubNxgV0o=&EType=jY3M4CTKVHY=)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
 # California_Linux: I started at the rivber
-The I logged onto facebook and started looking at [Space.Com](), I leanred about the {TRACERS}() Launch meeting tomorrow and started looking at what The People in Iowa have designed for humanity. [The Cat File System](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) idk how it works but i unerstand FOiA [NASA]() / [CiA]() bc we did the work already and its ready to publish with good citation 
+The I logged onto facebook and started looking at [Space.Com](), I leanred about the [TRACERS](https://www.facebook.com/universityofiowa/posts/pfbid02BSQGLjP2cKLvAEirrbS5nv4RJkzJEarjEkq6NLHZeV6UDWWifa5WGdARyMC9mEzGl) Launch meeting tomorrow and started looking at what The People in Iowa have designed f[o](https://codepen.io/thakarashard/pen/LYdgvbd)r humanity. [The Cat File System](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) idk how it works but i unerstand FOiA [NASA]() / [CiA]() bc we did the work already and its ready to publish with good citation :::: 
+[OLD_MARKDOWN](https://codepen.io/thakarashard/pen/qBzWLaK) [The largest Mars meteorite on Earth has sold for $4.3 million](https://www.space.com/astronomy/mars/the-largest-mars-meteorite-on-earth-has-sold-for-usd4-3-million#viafoura-comments) [Popular science book:4th Rock from the Su](https://www.nickyjenner.com/book-4th-rock-from-the-sun.html)
+
 
 <iframe src="https://archive.org/embed/vid-20250716-142709" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -79,10 +86,9 @@ The I logged onto facebook and started looking at [Space.Com](), I leanred about
 @nasa-jpl i hope this makes it through, its another [WeatherReport on @codepen](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
 [splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
 
-[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
-### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) {% include nav.html %}
 
 
+<img src="https://winworldpc.com/res/img/screenshots/final-65d6e19fecb4b8ad90d02178bbce0dd6-w2kboot.png">
 # Compiling
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
