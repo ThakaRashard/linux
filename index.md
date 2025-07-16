@@ -11,6 +11,24 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
+# California_Linux: I started at the rivber
+The I logged onto facebook and started looking at [Space.Com](), I leanred about the {TRACERS}() Launch meeting tomorrow and started looking at what The People in Iowa have designed for humanity. [The Cat File System](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) idk how it works but i unerstand FOiA [NASA]() / [CiA]() bc we did the work already and its ready to publish with good citation 
+
+<iframe src="https://archive.org/embed/vid-20250716-142709" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+ <img src="https://www.thebattery.org/wp-content/uploads/2018/02/2.-hand.jpg" alt="HiNormani!#ourhouse?" />
+        <img src="https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg" alt="Free Feet?" />
+     </p>
+ <p><a href="https://www.thebattery.org/lady-liberty-10-fascinating-facts/">Lady Liberty: 10 Fascinating Facts</a>
+        <a href="https://www.scotusblog.com/2016/02/a-responsibility-i-take-seriously/">A Responsibility I Take Seriously: By Barack Obama</a>
+        <a href="https://obamawhitehouse.archives.gov/blog/2015/06/17/day-history-statue-liberty-came-america"><em>This Day in History: The Statue of Liberty Came to America</em></a>
+        <img src="https://2.bp.blogspot.com/-qDyZbAJRna4/WAhUQLSnpUI/AAAAAAAALjs/pGKC2Kh4BuEwDn75lZPWN-tA1sDLKZfBgCLcB/s1600/unboxing_the_statue_of_liberty.jpg" alt="UnBoxinG Justice?" />
+        <a href="https://rarehistoricalphotos.com/unboxing-statue-liberty-1885/">Unboxing the Statue of Liberty through rare photographs, 1885</a>
+      </p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States Of America" /></p>
+
+![https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg](https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg)
 
 # California_Linux:SANTADENAWATERWAYS [ARChive.ORG](https://archive.org/details/California_Linux_SANTADENAWATERWAYS/screenPAsadenaSouthsyDe_humor__hurmoer_donthurtus-20250715-0915032.mp4)
 @libretro Im not sure whats up with my HotPepper or my Rom/Containter(emulator) Combination, Ill share more at somepoint on some forum but i hope somepeoiple see it im super doxxed @podaac @nasa-jpl @blackgirlscode I have to check the system setting, [something is just off](https://analytics.google.com/analytics/web/#/p460744555/reports/explorer?r=all-pages-and-screens&params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22unifiedPagePathScreen%22,%22firstTouchDate%22%5D%26_r.explorerCard..sortKey%3Dd-1&ruid=4a625d4a-811d-4a18-8023-7e8d72ec8f81&collectionId=11116098727) about this install. I may wipe once i look at [our schedule](https://www.nasa.gov/ocfo/ppc-corner/schedule-management-overview/)
