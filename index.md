@@ -11,6 +11,24 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
+
+# California_Linux:SANTADENAWATERWAYS [ARChive.ORG](https://archive.org/details/California_Linux_SANTADENAWATERWAYS/screenPAsadenaSouthsyDe_humor__hurmoer_donthurtus-20250715-0915032.mp4)
+@libretro Im not sure whats up with my HotPepper or my Rom/Containter(emulator) Combination, Ill share more at somepoint on some forum but i hope somepeoiple see it im super doxxed @podaac @nasa-jpl @blackgirlscode I have to check the system setting, [something is just off](https://analytics.google.com/analytics/web/#/p460744555/reports/explorer?r=all-pages-and-screens&params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22unifiedPagePathScreen%22,%22firstTouchDate%22%5D%26_r.explorerCard..sortKey%3Dd-1&ruid=4a625d4a-811d-4a18-8023-7e8d72ec8f81&collectionId=11116098727) about this install. I may wipe once i look at [our schedule](https://www.nasa.gov/ocfo/ppc-corner/schedule-management-overview/)
+
+
+<video controls >
+
+  <source src="https://ia601401.us.archive.org/6/items/California_Linux_SANTADENAWATERWAYS/screen-20250715-071750.mp4" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://ia601401.us.archive.org/6/items/California_Linux_SANTADENAWATERWAYS/screen-20250715-071750.mp4">MP4</a>
+
+</video>
+
+<img alt="image" src="https://github.com/user-attachments/assets/bc189733-24a9-4405-a11c-1bdb37fd5370" />
+
 # California_Linux:SANTADENAWATERWAYS
 
 <object data="https://archive.org/embed/California_Linux_SANTADENAWATERWAYS" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
