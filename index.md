@@ -37,9 +37,16 @@ The I logged onto facebook and started looking at [Space.Com](), I leanred about
 
 ![https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg](https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg)
 
+# California Linux: [Mars_PDS_SWOT_ECOSTRESS_EMIT](https://archive.org/details/Mars_PDS_SWOT_ECOSTRESS_EMIT):
+[msss](https://www.msss.com/)
+<iframe src="https://archive.org/embed/Mars_PDS_SWOT_ECOSTRESS_EMIT" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Count Basie - Have A Nice Day ](https://www.youtube.com/watch?v=F6wnB3Aa8TI&t=117s) 
+<img alt="image" src="https://github.com/user-attachments/assets/3a33f639-840a-438f-bc95-e4ef1f5aad69" />
+
 # California_Linux:SANTADENAWATERWAYS [ARChive.ORG](https://archive.org/details/California_Linux_SANTADENAWATERWAYS/screenPAsadenaSouthsyDe_humor__hurmoer_donthurtus-20250715-0915032.mp4)
 @libretro Im not sure whats up with my HotPepper or my Rom/Containter(emulator) Combination, Ill share more at somepoint on some forum but i hope somepeoiple see it im super doxxed @podaac @nasa-jpl @blackgirlscode I have to check the system setting, [something is just off](https://analytics.google.com/analytics/web/#/p460744555/reports/explorer?r=all-pages-and-screens&params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22unifiedPagePathScreen%22,%22firstTouchDate%22%5D%26_r.explorerCard..sortKey%3Dd-1&ruid=4a625d4a-811d-4a18-8023-7e8d72ec8f81&collectionId=11116098727) about this install. I may wipe once i look at [our schedule](https://www.nasa.gov/ocfo/ppc-corner/schedule-management-overview/)
-
+https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__384_x_384/public/2024-11/TracersPatch_update_v2.png
 
 <video controls >
 
