@@ -5,7 +5,7 @@ mermaid: true
 ---
 
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
-### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) {% include nav.html %}
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
 
 ### jekyll.version
@@ -25,15 +25,15 @@ The I logged onto facebook and started looking at [Space.Com](), I leanred about
 
  <img src="https://www.thebattery.org/wp-content/uploads/2018/02/2.-hand.jpg" alt="HiNormani!#ourhouse?" />
         <img src="https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg" alt="Free Feet?" />
-     </p>
- <p><a href="https://www.thebattery.org/lady-liberty-10-fascinating-facts/">Lady Liberty: 10 Fascinating Facts</a>
+    
+<a href="https://www.thebattery.org/lady-liberty-10-fascinating-facts/">Lady Liberty: 10 Fascinating Facts</a>
         <a href="https://www.scotusblog.com/2016/02/a-responsibility-i-take-seriously/">A Responsibility I Take Seriously: By Barack Obama</a>
         <a href="https://obamawhitehouse.archives.gov/blog/2015/06/17/day-history-statue-liberty-came-america"><em>This Day in History: The Statue of Liberty Came to America</em></a>
         <img src="https://2.bp.blogspot.com/-qDyZbAJRna4/WAhUQLSnpUI/AAAAAAAALjs/pGKC2Kh4BuEwDn75lZPWN-tA1sDLKZfBgCLcB/s1600/unboxing_the_statue_of_liberty.jpg" alt="UnBoxinG Justice?" />
         <a href="https://rarehistoricalphotos.com/unboxing-statue-liberty-1885/">Unboxing the Statue of Liberty through rare photographs, 1885</a>
-      </p>
+  
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States Of America" /></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States Of America" />
 
 ![https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg](https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg)
 
