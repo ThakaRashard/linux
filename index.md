@@ -3,14 +3,39 @@ layout: default
 title: ./HoleToAnotherUniverse/linux
 mermaid: true
 ---
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) {% include nav.html %}
+
+
 ### jekyll.version
 {{ jekyll.version }}
 
-# Rashard Kelly NasaJpl MRO JUNO iSS
+# Rashard Kelly Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [+](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) iS[S](https://www.usgovernmentmanual.gov/Agency?EntityId=VSLfQ4vlJ2o=&ParentEId=+klubNxgV0o=&EType=jY3M4CTKVHY=)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
-![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [emit](https://earth.jpl.nasa.gov/emit/)
+[genesisReturn](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-47900%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
+# California_Linux: I started at the rivber
+The I logged onto facebook and started looking at [Space.Com](), I leanred about the [TRACERS](https://www.facebook.com/universityofiowa/posts/pfbid02BSQGLjP2cKLvAEirrbS5nv4RJkzJEarjEkq6NLHZeV6UDWWifa5WGdARyMC9mEzGl) Launch meeting tomorrow and started looking at what The People in Iowa have designed f[o](https://codepen.io/thakarashard/pen/LYdgvbd)r humanity. [The Cat File System](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) idk how it works but i unerstand FOiA [NASA]() / [CiA]() bc we did the work already and its ready to publish with good citation :::: 
+[OLD_MARKDOWN](https://codepen.io/thakarashard/pen/qBzWLaK) [The largest Mars meteorite on Earth has sold for $4.3 million](https://www.space.com/astronomy/mars/the-largest-mars-meteorite-on-earth-has-sold-for-usd4-3-million#viafoura-comments) [Popular science book:4th Rock from the Su](https://www.nickyjenner.com/book-4th-rock-from-the-sun.html) [Trump's 2026 budget would slash NASA funding by 24% and its workforce by nearly one third](https://www.space.com/space-exploration/trumps-2026-budget-would-slash-nasa-funding-by-24-percent-and-its-workforce-by-nearly-one-third) [GRACE Detects Brazil Drought](https://svs.gsfc.nasa.gov/4339/)
 
+
+<iframe src="https://archive.org/embed/vid-20250716-142709" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+ <img src="https://www.thebattery.org/wp-content/uploads/2018/02/2.-hand.jpg" alt="HiNormani!#ourhouse?" />
+        <img src="https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg" alt="Free Feet?" />
+     </p>
+ <p><a href="https://www.thebattery.org/lady-liberty-10-fascinating-facts/">Lady Liberty: 10 Fascinating Facts</a>
+        <a href="https://www.scotusblog.com/2016/02/a-responsibility-i-take-seriously/">A Responsibility I Take Seriously: By Barack Obama</a>
+        <a href="https://obamawhitehouse.archives.gov/blog/2015/06/17/day-history-statue-liberty-came-america"><em>This Day in History: The Statue of Liberty Came to America</em></a>
+        <img src="https://2.bp.blogspot.com/-qDyZbAJRna4/WAhUQLSnpUI/AAAAAAAALjs/pGKC2Kh4BuEwDn75lZPWN-tA1sDLKZfBgCLcB/s1600/unboxing_the_statue_of_liberty.jpg" alt="UnBoxinG Justice?" />
+        <a href="https://rarehistoricalphotos.com/unboxing-statue-liberty-1885/">Unboxing the Statue of Liberty through rare photographs, 1885</a>
+      </p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States Of America" /></p>
+
+![https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg](https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg)
 
 # California Linux: [Mars_PDS_SWOT_ECOSTRESS_EMIT](https://archive.org/details/Mars_PDS_SWOT_ECOSTRESS_EMIT):
 [msss](https://www.msss.com/)
@@ -68,10 +93,9 @@ https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/s
 @nasa-jpl i hope this makes it through, its another [WeatherReport on @codepen](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
 [splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
 
-[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
-### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) {% include nav.html %}
 
 
+<img src="https://winworldpc.com/res/img/screenshots/final-65d6e19fecb4b8ad90d02178bbce0dd6-w2kboot.png">
 # Compiling
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
