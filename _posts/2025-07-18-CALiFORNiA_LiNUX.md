@@ -1,4 +1,15 @@
+# CALiFORNiA_LiNUX
+<iframe src="https://archive.org/embed/NO_SOUND_TED_ROSS_AND_I_CANT_SEE_THE_PATCHLEVEL_TO_TROUBLESHOOT" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+# [RedHat](https://www.redhat.com/en/red-hat-original-series) 
+@blackgirlscode @nasa-jpl i have to bookmark this they even have rss feeds @redhatofficial i am so uncomfortable with the radio messages in my headphones. I would guess the @jekyllrb install is like an extension.. It works well for me taking notes and [collecting pdfs](https://archive.org/details/image_20250428_2325/1/) [[RSS]](https://feeds.simplecast.com/Ynq4lw9w)
+<div class="tupperware" markdown="1">
+
+![compiler](https://www.redhat.com/rhdc/managed-files/compiler-image.png)
+![cli_heroes](https://www.redhat.com/rhdc/managed-files/Command-Line-network.jpg)
+
+
+</div>
 
 # California Linux: first real day [hotpepper](https://www.hotpepperusa.com/) [🌶️](mailto:support@hotpepperusa.com)
 <iframe src="https://archive.org/embed/Julyhotpepper" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
