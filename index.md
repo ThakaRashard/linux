@@ -33,6 +33,9 @@ Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub
 
 ### jekyll.version {{ jekyll.version }}
 
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="400" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b955129f-8452-427b-8df8-d9d0b74e3508" />
 
@@ -71,33 +74,7 @@ The I logged onto facebook and started looking at [Space.Com](), I leanred about
 [Count Basie - Have A Nice Day ](https://www.youtube.com/watch?v=F6wnB3Aa8TI&t=117s) 
 <img alt="image" src="https://github.com/user-attachments/assets/3a33f639-840a-438f-bc95-e4ef1f5aad69" />
 
-# California_Linux:SANTADENAWATERWAYS [ARChive.ORG](https://archive.org/details/California_Linux_SANTADENAWATERWAYS/screenPAsadenaSouthsyDe_humor__hurmoer_donthurtus-20250715-0915032.mp4)
-@libretro Im not sure whats up with my HotPepper or my Rom/Containter(emulator) Combination, Ill share more at somepoint on some forum but i hope somepeoiple see it im super doxxed @podaac @nasa-jpl @blackgirlscode I have to check the system setting, [something is just off](https://analytics.google.com/analytics/web/#/p460744555/reports/explorer?r=all-pages-and-screens&params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22unifiedPagePathScreen%22,%22firstTouchDate%22%5D%26_r.explorerCard..sortKey%3Dd-1&ruid=4a625d4a-811d-4a18-8023-7e8d72ec8f81&collectionId=11116098727) about this install. I may wipe once i look at [our schedule](https://www.nasa.gov/ocfo/ppc-corner/schedule-management-overview/)
-https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__384_x_384/public/2024-11/TracersPatch_update_v2.png
 
-<video controls >
-
-  <source src="https://ia601401.us.archive.org/6/items/California_Linux_SANTADENAWATERWAYS/screen-20250715-071750.mp4" type="video/webm" />
-
-  Download the
-
-  or
-  <a href="https://ia601401.us.archive.org/6/items/California_Linux_SANTADENAWATERWAYS/screen-20250715-071750.mp4">MP4</a>
-
-</video>
-
-<img alt="image" src="https://github.com/user-attachments/assets/bc189733-24a9-4405-a11c-1bdb37fd5370" />
-
-# California_Linux:SANTADENAWATERWAYS
-
-<object data="https://archive.org/embed/California_Linux_SANTADENAWATERWAYS" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
-
-![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
-
-![Username rashardkelly](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
-
-@nasa-jpl i hope this made it through. its a [WeatherReport on @codepen @TheSpaceDevs](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
-[splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
 
 ### WebSite Analytics 
 [rashard_mro @nasa @whitehouse @google @nasa-jpl @deptofdefense @atfweb @dhs-gov @stateofcalifornia good morning + @blackgirlscode](https://analytics.google.com/analytics/web/#/p460744555/reports/explorer?r=all-pages-and-screens&params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22unifiedPagePathScreen%22,%22firstTouchDate%22%5D%26_r.explorerCard..sortKey%3Dd-1&ruid=4a625d4a-811d-4a18-8023-7e8d72ec8f81&collectionId=11116098727)
@@ -164,48 +141,6 @@ Don't Be a Sucker is an anti-fascist propaganda film produced by [the United Sta
 
 [NASAWORLDViEWSCKetch](https://worldview.earthdata.nasa.gov/?v=-160.87033100297327,16.021772530504677,-104.27883030701899,47.85449167197896&as=2025-06-13-T00%3A00%3A00Z&ae=2025-07-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,Landsat_Human_Built-up_And_Settlement_Extent(disabled=3),GRanD_Dams,GRanD_Reservoirs,VIIRS_NOAA20_Chlorophyll_a(hidden),VIIRS_SNPP_L2_Chlorophyll_A(hidden),MERIS_ENVISAT_Chlorophyll_a,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,OCI_PACE_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&ab=on&t=2025-07-12-T00%3A00%3A00Z) @nasa-jpl 
 
-# CaliforniaLinuxSaturdaytoSunday 
-<iframe src="https://archive.org/embed/screen-20250712-220022" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[https://archive.org/details/ComputerHackingDocumentriesMegaCollection](https://archive.org/details/ComputerHackingDocumentriesMegaCollection)
-[South Pasadena Library](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library) is completing traces
-```shell
-
-Microsoft Windows [Version 10.0.22631.3880]
-(c) Microsoft Corporation. All rights reserved.
-
-C:\Users\terminal011>tracert whitehouse.gov
-
-Tracing route to whitehouse.gov [192.0.66.107]
-over a maximum of 30 hops:
-
-  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
-  2     1 ms    <1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
-  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
-  4    11 ms    11 ms    11 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
-  5    12 ms    12 ms    12 ms  snvl2-agg-01--losa4-agg-01--800g--2.cenic.net [137.164.11.21]
-  6    12 ms    11 ms    11 ms  dc-svl-agg10--snvl2-agg-01-400g.cenic.net [137.164.11.80]
-  7    12 ms    12 ms    12 ms  eqix-sv5.automattic.com [206.223.116.197]
-  8    12 ms    12 ms    11 ms  192.0.66.107
-
-Trace complete.
-
-C:\Users\terminal011>nslookup whitehouse.gov
-Server:  my.meraki.net
-Address:  192.168.168.1
-
-Non-authoritative answer:
-Name:    whitehouse.gov
-Addresses:  2a04:fa87:fffd::c000:4233
-          192.0.66.65
-
-
-```
-
-<img alt="image" src="https://github.com/user-attachments/assets/8be9e0cb-ed64-4fac-8304-ff84a9f9cedb" />
-
-# CaliforniaLinux:SortWorkReportscreen-20250709-192118 [raj](https://gtri.gatech.edu/public/prod/2021-01/Raj%20Vuchatu.pdf)  [vute](https://www.gtri.gatech.edu/people/raj-vuchatu)
-<object data="https://archive.org/embed/CaliforniaLinuxSortWorkReportscreen-20250709-192118" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
 <dl itemprop="track" itemscope itemtype="https://schema.org/MusicRecording" markdown="1">
 		
@@ -214,12 +149,13 @@ Addresses:  2a04:fa87:fffd::c000:4233
 [Margo Williams](https://www.theguardian.com/music/musicblog/2012/sep/06/old-music-golden-flamingo-orchestra) 
  </dt>
 
-<dd itemprop="description">
+<dd itemprop="description" markdown="1">
 	  
 [God Save And Protect All The Children](https://youtu.be/yz19n4eS3eQ)  w/ [GoldenFlamingoOrchestra](https://www.discogs.com/artist/219272-Golden-Flamingo-Orchestra?srsltid=AfmBOorQ2i5XF1zt5AXrlI5yYpc1MWTWofrrDPs5ual9AGfz_q7Ex7fF)
 1980 - Dedicated to the Children of Atlanta, Georgia
 [Producer](https://soundcloud.com/goldenflamingoorchestra) -- Patrick Adams, Peter Brown
 Written-By -- Margo Williams, Patrick Adams, Peter Brown [Discogs](https://www.discogs.com/artist/219272-Golden-Flamingo-Orchestra?srsltid=AfmBOorQ2i5XF1zt5AXrlI5yYpc1MWTWofrrDPs5ual9AGfz_q7Ex7fF)  
+
 </dd>
 
 </dl>
@@ -407,17 +343,6 @@ I have to [clean up my css](https://github.com/user-attachments/assets/e5a38093-
 
 
 
-# California_LiNUX:#La_River
-[files @nasa @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode `of age` @whitehouse @atfweb @dhs-gov](https://archive.org/download/Delalmoriverearthdatabiomass)
-<iframe src="https://archive.org/embed/Delalmoriverearthdatabiomass" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-related : [a-river-runs-through-los-angeles - 99percentinvisible.org](https://99percentinvisible.org/episode/a-river-runs-through-los-angeles/) [The LA River: From Concrete Ditch to an Oasis in the City](https://www.pbs.org/video/studio-socal-la-river-concrete-ditch-oasis-city/) [chapman.edu archives tags `LA_RiVER`](https://blogs.chapman.edu/huell-howser-archives/tag/l-a-river/) [The Natural and Un-natural History of the LA River](https://youtu.be/7kk-KKa7hf8)
-Transforming Defense operations: [The DOD needs automation](https://www.redhat.com/en/blog/transforming-defense-operations) [Red Hat solutions support DoD](https://redhat.com/en/solutions/public-sector/dod) [Red Hat helps DoD standardized, automate workﬂows with DevSecOps](https://federalnewsnetwork.com/open-first/2021/02/trusted-software-supply-chain-helps-dod-standardized-automate-workflows-with-devsecops/)
-[DOWNLOAD_PDF](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf)
-
-<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
-
 <img width="555" height="370" alt="image" src="https://github.com/user-attachments/assets/d6958959-732d-4f11-9b41-27630d1ed8ef" />
 
 
@@ -504,9 +429,6 @@ last night's flyover
 
 <iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-# California Linux: DeepSpaceNet,uptime, LEarning About Northrop
-[Documenting system uptime in Linux](https://www.redhat.com/en/blog/system-uptime-linux) @nasa-jpl @redhatofficial @cityoflosangeles @ajc [CourseWork](https://www.jpl.nasa.gov/go/parts-engineering-school/programs/curriculum/)
-<iframe src="https://archive.org/embed/screen-recording-2025-07-09-122807" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [NASA
 Work Breakdown
@@ -602,11 +524,6 @@ im trying to figure out where the launcher starts and ends at the end of the day
 [All My Love · Mary J. Blige](https://youtu.be/6ArSfXnm2c0)
 [Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK](https://archive.org/details/Contacting_MRO_n_RUST_SAMPLES_LARiVER_My_TECHSTACK/contactingMROpt1SimpleScanStation20250625111945/) [NasaJUNO](https://www.jpl.nasa.gov/missions/juno/) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) [NasaJUNO](https://www.jpl.nasa.gov/missions/juno/) 
 
-# California Linux :  [OutLook](https://youtu.be/xJLCSOBOEMI)/[Android](https://support.microsoft.com/en-us/topic/using-microsoft-launcher-on-android-c59f2824-0218-ae6d-3666-d93a7fc537e0) + the vortex of [traceroute](https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05525v.jpg) 
-[on topic](https://thakarashard.github.io/rashardmro/)
-
-<object data="https://archive.org/embed/screen-recording-2025-07-07-123028" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
-[@Microsoft AndroidLAuncheriNACTiON @blackgirlscode @deptofdefense @whitehouse @cityoflosangeles @stateofcalifornia @LACMTA](https://ia800904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4)
 
 <video preload="auto" width="350px" height="auto" controls> 
 	<source src="https://ia800906.us.archive.org/35/items/screen-recording-2025-07-07-123028/screen-20250707-185656.mp4" type="video/mp4">
@@ -656,9 +573,6 @@ im trying to figure out where the launcher starts and ends at the end of the day
 ![july5](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png)
 
 
-
-# California Linux: first real day [hotpepper](https://www.hotpepperusa.com/) [🌶️](mailto:support@hotpepperusa.com)
-<iframe src="https://archive.org/embed/Julyhotpepper" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <object data="https://ia803101.us.archive.org/22/items/Julyhotpepper/1_july4postgriffithSimpleScanStation20250705100835.pdf" type="application/pdf" width="650" height="400">
 <p>You don't have a PDF plugin, but you can <a href="https://ia803101.us.archive.org/22/items/Julyhotpepper/1_july4postgriffithSimpleScanStation20250705100835.pdf">download the PDF file.</a></p></object>
@@ -721,9 +635,7 @@ You guys gotta see how hard they went on me [DTLA](https://downtownla.com/)
  [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA)  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)  Mayor Bass, [Devops](https://github.com/ricothakarashard/linux/tree/master/reader) is a school of thought i was taught during my california break 16-21, 5 years. It really help me get into a more forward thinking frame of mind, but the values may conflict in @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode and im trying to be the best i can be... -[rashard](https://rashardlanasa.github.io/)
 
 
-# California Constitution
-<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="400" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
  ---
 
 [Experience with Linux servers in physical and virtualized environments.](#ExperiencewithLinux) 
