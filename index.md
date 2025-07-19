@@ -30,6 +30,52 @@ Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub
 
 ### jekyll.version {{ jekyll.version }}
 
+[PIA25563](https://photojournal.jpl.nasa.gov/catalog/PIA25563) : Deployment of [SWOT](https://swot.jpl.nasa.gov/)'s [Solar Arrays](https://www.nasa.gov/directorates/stmd/impact-story-roll-out-solar-arrays/)
+<video controls >
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA25563.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA25563.mp4">MP4</a>
+
+</video>
+
+
+
+### press play @noaa @cityoflosangles @StateOfCalifornia @NAsa [blackgirlscode](https://www.wearebgc.org/)
+<video controls  poster="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/nasa-earth-science-division-missions-ocean-color-static_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/nasa-earth-science-division-missions-ocean-color-biosphere-webmovie.mp4" type="video/mp4" />
+
+  Download the
+
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/nasa-earth-science-division-missions-ocean-color-biosphere-webmovie.mp4">MP4</a>
+
+</video>
+
+
+# Don't Be a Sucker @paramount-engineering
+Don't Be a Sucker is an anti-fascist propaganda film produced by [the United States](https://www.jpl.nasa.gov/who-we-are/) Army [Signal Corps](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Schools/Signal-School/). It follows [a](https://www.brianjgriffith.com/interwarcrisis/dont-be-a-sucker-1943/) Freemason. 
+[wiki](https://en.wikipedia.org/wiki/Don%27t_Be_a_Sucker) 
+
+
+<video controls poster="https://www.brianjgriffith.com/interwarcrisis/wp-content/uploads/2020/05/Dont-Be-a-Sucker.png">
+
+  <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm">MP4</a>
+  video.
+</video>
+
+
+`ping -c 2 ice.gov`
+
 
 [github.com/krashardiman-ctrl?tab=followers](https://github.com/krashardiman-ctrl?tab=followers) NASA Jet Propulsion Laboratory GitLab GitHub i made 3 new accounts NASA Earthdata [Defense Information Systems Agency](https://disa.mil/About/Contact_DISA) and i turned on a few repos and followed ~ 20 government accounts and a few users that are close to my dept [NASA Jet Propulsion Laboratory](https://www.youtube.com/live/mxoCCvjW4Uo?si=snoBKxwHWZMUM00v) / U.S. Geological Survey (USGS) Los Angeles County Sheriff's Department idk what #ACCOUNTCREATiONPATTERNS or #algorithminsights make an account look toxic, im trying to avoid dataloss NASA Space Communications and Navigation so im slow today and wanted to use [#SWOT](https://swot.jpl.nasa.gov/) to plot the [#LA_RiVER](https://www.loc.gov/resource/vrg.04219/) Los Angeles Conservancy making progress tho . . . [Veronica](https://youtu.be/o6llX8frs6U?si=A3BWmj3x5bW-v4vz) McGregor [NASA Earthdata](https://www.earthdata.nasa.gov/) [krashardiman-ctrl.github.io](https://krashardiman-ctrl.github.io/)
 
@@ -134,24 +180,6 @@ Please understand im finding out who my responsible relatives are and i work wit
 <iframe src="https://archive.org/embed/vid-20250714-084801" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-# Don't Be a Sucker @paramount-engineering
-Don't Be a Sucker is an anti-fascist propaganda film produced by [the United States](https://www.jpl.nasa.gov/who-we-are/) Army [Signal Corps](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Schools/Signal-School/). It follows [a](https://www.brianjgriffith.com/interwarcrisis/dont-be-a-sucker-1943/) Freemason. 
-[wiki](https://en.wikipedia.org/wiki/Don%27t_Be_a_Sucker) 
-
-
-<video controls poster="https://www.brianjgriffith.com/interwarcrisis/wp-content/uploads/2020/05/Dont-Be-a-Sucker.png">
-
-  <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm" type="video/webm" />
-
-  Download the
-
-  or
-  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm">MP4</a>
-  video.
-</video>
-
-
-`ping -c 2 ice.gov`
 <img src="https://dodcio.defense.gov/portals/0/Images/CIOPPT1.png" alt="Cyber Workforce"/>
 
 [The DoD Cyber Workforce Framework (DCWF)](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) @nasa @nasa-jpl @cityoflosangeles @stateofcalifornia The DoD Cyber Workforce Framework establishes the DoD’s authoritative lexicon based on the work an individual is performing, not their position titles, occupational series, or designator. [ReadMore](https://public.cyber.mil/wid/dcwf/) @facebook @meta [here is the directive to patch today](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) @blackgirlscode [SHARe DOD INSTRUCTION 8510.01 RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) 
