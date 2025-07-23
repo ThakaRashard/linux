@@ -3,8 +3,6 @@ layout: default
 title: ./HoleToAnotherUniverse/linux
 mermaid: true
 ---
-### jekyll.version
-{{ jekyll.version }}
 
 ### Check out [LROC](https://lroc.im-ldi.com/)
 <img   alt="image" src="https://github.com/user-attachments/assets/6fd05625-bdf7-482f-8ba8-725b0e811da8" />
@@ -136,6 +134,204 @@ you are looking at it the wrong way! We have a lot of [equipment to maintain](ht
 `ping -c 2 whitehouse.gov`
 
  [bash -x lbc.sh commit b558e5d3ee1b63c9fffd98518be291df94ee8676](https://github.com/ThakaRashard/ricothaka/pull/33/commits/b558e5d3ee1b63c9fffd98518be291df94ee8676)  @whitehouse 
+
+
+
+<div class="box">
+
+  {% for post in site.posts %}
+     
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  
+     
+  {% endfor %}
+   
+ </div> 
+
+{{ site.url }}
+{{ site.baseurl }}
+
+### jekyll.version {{ jekyll.version }}
+
+### 
+Mars Reconnaissance Orbiter [Cat @usnavy](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
+[RashardsPrimary:CATFiLE @nasa-jpl Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)  [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [+](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) iS[S](https://www.usgovernmentmanual.gov/Agency?EntityId=VSLfQ4vlJ2o=&ParentEId=+klubNxgV0o=&EType=jY3M4CTKVHY=)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [emit](https://earth.jpl.nasa.gov/emit/)
+[genesisReturn](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-47900%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
+
+# Rashard Kelly 
+#
+California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL
+<iframe src="https://archive.org/embed/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+
+<iframe src="https://archive.org/embed/California_LinuxTracersUsbPickpockets" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/930005872&color=%237996a4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/t-e-e-d" title="TEED" target="_blank" style="color: #cccccc; text-decoration: none;">TEED</a> · <a href="https://soundcloud.com/t-e-e-d/bonobo-totally-enormous-extinct-dinosaurs-bbc-r1-essential-mix-17102020" title="Bonobo &amp; Totally Enormous Extinct Dinosaurs BBC-R1 Essential Mix - 17/10/2020" target="_blank" style="color: #cccccc; text-decoration: none;">Bonobo &amp; Totally Enormous Extinct Dinosaurs BBC-R1 Essential Mix - 17/10/2020</a></div>
+
+# California_Linux: I started at the rivber
+The I logged onto facebook and started looking at [Space.Com](), I leanred about the [TRACERS](https://www.facebook.com/universityofiowa/posts/pfbid02BSQGLjP2cKLvAEirrbS5nv4RJkzJEarjEkq6NLHZeV6UDWWifa5WGdARyMC9mEzGl) Launch meeting tomorrow and started looking at what The People in Iowa have designed f[o](https://codepen.io/thakarashard/pen/LYdgvbd)r humanity. [The Cat File System](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) idk how it works but i unerstand FOiA [NASA]() / [CiA]() bc we did the work already and its ready to publish with good citation :::: 
+[OLD_MARKDOWN](https://codepen.io/thakarashard/pen/qBzWLaK) [The largest Mars meteorite on Earth has sold for $4.3 million](https://www.space.com/astronomy/mars/the-largest-mars-meteorite-on-earth-has-sold-for-usd4-3-million#viafoura-comments) [Popular science book:4th Rock from the Su](https://www.nickyjenner.com/book-4th-rock-from-the-sun.html) [Trump's 2026 budget would slash NASA funding by 24% and its workforce by nearly one third](https://www.space.com/space-exploration/trumps-2026-budget-would-slash-nasa-funding-by-24-percent-and-its-workforce-by-nearly-one-third) [GRACE Detects Brazil Drought](https://svs.gsfc.nasa.gov/4339/)
+
+
+<iframe src="https://archive.org/embed/vid-20250716-142709" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+ <img src="https://www.thebattery.org/wp-content/uploads/2018/02/2.-hand.jpg" alt="HiNormani!#ourhouse?" />
+        <img src="https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg" alt="Free Feet?" />
+    
+<a href="https://www.thebattery.org/lady-liberty-10-fascinating-facts/">Lady Liberty: 10 Fascinating Facts</a>
+        <a href="https://www.scotusblog.com/2016/02/a-responsibility-i-take-seriously/">A Responsibility I Take Seriously: By Barack Obama</a>
+        <a href="https://obamawhitehouse.archives.gov/blog/2015/06/17/day-history-statue-liberty-came-america"><em>This Day in History: The Statue of Liberty Came to America</em></a>
+        <img src="https://2.bp.blogspot.com/-qDyZbAJRna4/WAhUQLSnpUI/AAAAAAAALjs/pGKC2Kh4BuEwDn75lZPWN-tA1sDLKZfBgCLcB/s1600/unboxing_the_statue_of_liberty.jpg" alt="UnBoxinG Justice?" />
+        <a href="https://rarehistoricalphotos.com/unboxing-statue-liberty-1885/">Unboxing the Statue of Liberty through rare photographs, 1885</a>
+  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="United States Of America" />
+
+![https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg](https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg)
+
+# California Linux: [Mars_PDS_SWOT_ECOSTRESS_EMIT](https://archive.org/details/Mars_PDS_SWOT_ECOSTRESS_EMIT):
+[msss](https://www.msss.com/)
+<iframe src="https://archive.org/embed/Mars_PDS_SWOT_ECOSTRESS_EMIT" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Count Basie - Have A Nice Day ](https://www.youtube.com/watch?v=F6wnB3Aa8TI&t=117s) 
+<img alt="image" src="https://github.com/user-attachments/assets/3a33f639-840a-438f-bc95-e4ef1f5aad69" />
+
+# California_Linux:SANTADENAWATERWAYS [ARChive.ORG](https://archive.org/details/California_Linux_SANTADENAWATERWAYS/screenPAsadenaSouthsyDe_humor__hurmoer_donthurtus-20250715-0915032.mp4)
+@libretro Im not sure whats up with my HotPepper or my Rom/Containter(emulator) Combination, Ill share more at somepoint on some forum but i hope somepeoiple see it im super doxxed @podaac @nasa-jpl @blackgirlscode I have to check the system setting, [something is just off](https://analytics.google.com/analytics/web/#/p460744555/reports/explorer?r=all-pages-and-screens&params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22unifiedPagePathScreen%22,%22firstTouchDate%22%5D%26_r.explorerCard..sortKey%3Dd-1&ruid=4a625d4a-811d-4a18-8023-7e8d72ec8f81&collectionId=11116098727) about this install. I may wipe once i look at [our schedule](https://www.nasa.gov/ocfo/ppc-corner/schedule-management-overview/)
+https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__384_x_384/public/2024-11/TracersPatch_update_v2.png
+
+<video controls >
+
+  <source src="https://ia601401.us.archive.org/6/items/California_Linux_SANTADENAWATERWAYS/screen-20250715-071750.mp4" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://ia601401.us.archive.org/6/items/California_Linux_SANTADENAWATERWAYS/screen-20250715-071750.mp4">MP4</a>
+
+</video>
+
+<img alt="image" src="https://github.com/user-attachments/assets/bc189733-24a9-4405-a11c-1bdb37fd5370" />
+
+# California_Linux:SANTADENAWATERWAYS
+
+<object data="https://archive.org/embed/California_Linux_SANTADENAWATERWAYS" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
+![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
+
+![Username rashardkelly](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
+
+@nasa-jpl i hope this made it through. its a [WeatherReport on @codepen @TheSpaceDevs](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
+[splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
+
+### WebSite Analytics 
+[rashard_mro @nasa @whitehouse @google @nasa-jpl @deptofdefense @atfweb @dhs-gov @stateofcalifornia good morning + @blackgirlscode](https://analytics.google.com/analytics/web/#/p460744555/reports/explorer?r=all-pages-and-screens&params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22unifiedPagePathScreen%22,%22firstTouchDate%22%5D%26_r.explorerCard..sortKey%3Dd-1&ruid=4a625d4a-811d-4a18-8023-7e8d72ec8f81&collectionId=11116098727)
+@google my analytics super bad after the last attack @podaac @CityoflosAngeles @stateofcalifornia
+<img alt="https://analytics.google.com/analytics/web/#/p460744555/reports/intelligenthome" src="https://github.com/user-attachments/assets/94ea86b9-86fb-438c-bc59-62adafa390fe" />
+<img alt="image" src="https://github.com/user-attachments/assets/3430e185-98e9-4ef0-8f99-0edf18a78fea" />
+<img alt="image" src="https://github.com/user-attachments/assets/bb395cf2-1c8c-42d5-a5b5-06e3fc7a117d" />
+<img alt="Top pages/screens" src="https://github.com/user-attachments/assets/30f3549a-fadd-4e5c-a8b4-0955d3edd10d" />
+<img alt="///" src="https://github.com/user-attachments/assets/c73f3107-6b97-4c57-b5e9-e00401bd8681" />
+<img alt="Landing page: Landing page" src="https://github.com/user-attachments/assets/dc62681b-61f4-47fd-a846-f1cb66fcd107" />
+<img alt="image" src="https://github.com/user-attachments/assets/e97eac0e-bbaf-438e-8b14-d4301d3479bb" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/36f1414f-f442-444d-968f-badba21d0ef3" />
+<img alt="image" src="https://github.com/user-attachments/assets/cdd53b3c-03fc-48fa-ba7d-1e28cdd0a049" />
+
+
+# [doxxed](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flsrc%3Dlb#) @nasa-jpl ?@nasa @whitehouse @cityoflosangeles 
+Please understand im finding out who my responsible relatives are and i work with dangerous equipment and hold secrets that are not for ppl that might be annoying to you, but please forgive yourself because kidnapping confuses everyone @stateofcalifonia [gavin newsom](https://yandex.com/search/?text=gavin+newsome&lr=20765&search_source=yacom_desktop_common) [rep karen bass](https://yandex.com/search/?text=rep+karen+bass&lr=20765) 
+![image](https://github.com/user-attachments/assets/816203b5-c6f0-4046-b3f8-a75ec39a6614)
+![image](https://github.com/user-attachments/assets/3528ab5b-0716-48b1-ae98-d61931d21a10)
+
+@nasa-jpl i hope this makes it through, its another [WeatherReport on @codepen](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
+[splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
+
+
+
+<img src="https://winworldpc.com/res/img/screenshots/final-65d6e19fecb4b8ad90d02178bbce0dd6-w2kboot.png">
+# Compiling
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+@nasa-jpl i hope this makes it through, its another [WeatherReport on @codepen](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts) in a zip file named [splashdownweather.zip](https://archive.org/download/vid-20250714-084801/splashdownweather.zip) @cityoflosangeles @stateofcalifornia we need to alert all law enforce ment of [TheSplashdown](https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-axiom-mission-4-departure-from-station/) and beware of [california](https://www.justice.gov/usao-cdca/pr/four-southern-california-men-arrested-charges-alleging-they-kidnapped-migrants-and) [poachers](https://wildlife.ca.gov/Enforcement/CalTIP) to make sure they get to [The Lab](https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/) or [AirForce base](https://www.losangeles.spaceforce.mil/), whatever applies safely
+-[KidnappingLaw @StateOfCalifornia](https://www.kannlawoffice.com/kidnapping.html) :: @blackgirlscode, goodluck with [The Splashdown](https://www.floridatoday.com/story/tech/science/space/2025/07/14/axiom-spacex-splashdown-california-how-watch-nasa/85189399007/) i dont know how ot track the object! :( 
+
+<iframe src="https://archive.org/embed/vid-20250714-084801" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# Don't Be a Sucker @paramount-engineering
+Don't Be a Sucker is an anti-fascist propaganda film produced by [the United States](https://www.jpl.nasa.gov/who-we-are/) Army [Signal Corps](https://cybercoe.army.mil/Cyber-Center-of-Excellence/Schools/Signal-School/). It follows [a](https://www.brianjgriffith.com/interwarcrisis/dont-be-a-sucker-1943/) Freemason. 
+[wiki](https://en.wikipedia.org/wiki/Don%27t_Be_a_Sucker) 
+
+
+<video controls poster="https://www.brianjgriffith.com/interwarcrisis/wp-content/uploads/2020/05/Dont-Be-a-Sucker.png">
+
+  <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm" type="video/webm" />
+
+  Download the
+
+  or
+  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Why_We_Fight-_Divide_and_Conquer.webm/Why_We_Fight-_Divide_and_Conquer.webm.720p.vp9.webm">MP4</a>
+  video.
+</video>
+
+
+`ping -c 2 ice.gov`
+<img src="https://dodcio.defense.gov/portals/0/Images/CIOPPT1.png" alt="Cyber Workforce"/>
+
+[The DoD Cyber Workforce Framework (DCWF)](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) @nasa @nasa-jpl @cityoflosangeles @stateofcalifornia The DoD Cyber Workforce Framework establishes the DoD’s authoritative lexicon based on the work an individual is performing, not their position titles, occupational series, or designator. [ReadMore](https://public.cyber.mil/wid/dcwf/) @facebook @meta [here is the directive to patch today](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) @blackgirlscode [SHARe DOD INSTRUCTION 8510.01 RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) 
+
+![earth MAgenetosPhere](https://www.jpl.nasa.gov/nmp/st5/IMAGES/magfield-lrg.jpg)
+![](https://www.jpl.nasa.gov/nmp/st5/IMAGES/st5-banner.gif)
+![PastWork](https://www.jpl.nasa.gov/nmp/st5/IMAGES/main_image.gif)
+[home](https://www.jpl.nasa.gov/nmp/st5/TECHNOLOGY/tech-index.php)
+
+[NASAWORLDViEWSCKetch](https://worldview.earthdata.nasa.gov/?v=-160.87033100297327,16.021772530504677,-104.27883030701899,47.85449167197896&as=2025-06-13-T00%3A00%3A00Z&ae=2025-07-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,Landsat_Human_Built-up_And_Settlement_Extent(disabled=3),GRanD_Dams,GRanD_Reservoirs,VIIRS_NOAA20_Chlorophyll_a(hidden),VIIRS_SNPP_L2_Chlorophyll_A(hidden),MERIS_ENVISAT_Chlorophyll_a,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,OCI_PACE_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&ab=on&t=2025-07-12-T00%3A00%3A00Z) @nasa-jpl 
+
+# CaliforniaLinuxSaturdaytoSunday 
+<iframe src="https://archive.org/embed/screen-20250712-220022" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[https://archive.org/details/ComputerHackingDocumentriesMegaCollection](https://archive.org/details/ComputerHackingDocumentriesMegaCollection)
+[South Pasadena Library](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library) is completing traces
+```shell
+
+Microsoft Windows [Version 10.0.22631.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\terminal011>tracert whitehouse.gov
+
+Tracing route to whitehouse.gov [192.0.66.107]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4    11 ms    11 ms    11 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5    12 ms    12 ms    12 ms  snvl2-agg-01--losa4-agg-01--800g--2.cenic.net [137.164.11.21]
+  6    12 ms    11 ms    11 ms  dc-svl-agg10--snvl2-agg-01-400g.cenic.net [137.164.11.80]
+  7    12 ms    12 ms    12 ms  eqix-sv5.automattic.com [206.223.116.197]
+  8    12 ms    12 ms    11 ms  192.0.66.107
+
+Trace complete.
+
+C:\Users\terminal011>nslookup whitehouse.gov
+Server:  my.meraki.net
+Address:  192.168.168.1
+
+Non-authoritative answer:
+Name:    whitehouse.gov
+Addresses:  2a04:fa87:fffd::c000:4233
+          192.0.66.65
+
+
+```
+
+<img alt="image" src="https://github.com/user-attachments/assets/8be9e0cb-ed64-4fac-8304-ff84a9f9cedb" />
 
 # CaliforniaLinux:SortWorkReportscreen-20250709-192118 [raj](https://gtri.gatech.edu/public/prod/2021-01/Raj%20Vuchatu.pdf)  [vute](https://www.gtri.gatech.edu/people/raj-vuchatu)
 <object data="https://archive.org/embed/CaliforniaLinuxSortWorkReportscreen-20250709-192118" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
@@ -597,461 +793,6 @@ im trying to figure out where the launcher starts and ends at the end of the day
 <p>You don't have a PDF plugin, but you can <a href="https://ia803101.us.archive.org/22/items/Julyhotpepper/1_july4postgriffithSimpleScanStation20250705100835.pdf">download the PDF file.</a></p></object>
 
 
-
-# Likeable ? 
-[`Eric Garcetti's voice`](https://en.wikipedia.org/wiki/File:Opening_Statement_of_former_Los_Angeles_Mayor_Eric_M._Garcetti_at_his_Confirmation_Hearing_to_be_Ambassador_to_India.ogg)
-Garcetti's opening statement at his confirmation hearing to be United States ambassador to India
-Recorded December 14, 2021
-
-<audio controls>
-  <source src="https://en.wikipedia.org/wiki/File:Opening_Statement_of_former_Los_Angeles_Mayor_Eric_M._Garcetti_at_his_Confirmation_Hearing_to_be_Ambassador_to_India.ogg" type="audio/ogg">
-  
-  Your browser does not support the audio tag.
-</audio>
-
-![image](https://github.com/user-attachments/assets/90fd2340-8be9-4b71-ab91-f862703fd105)
-
-
-@cityoflosangeles im at [FrancisGoldwyn](https://maps.app.goo.gl/k5bwaf96Sk5NkAjEA) but @github thinks im in [TheBayArea](https://earth.google.com/web/@37.42564993,-122.13534436,7.24363611a,14781.28147402d,35y,360h,0t,0r/data=CgRCAggBMikKJwolCiExVFdRaElyTFd1dUg5UzNuX3dwOWFIWGxZOFllOHRzV28gAToDCgEwQgIIAEoICM2g6_wFEAE) @stateofcalifornia [Karen Bass](https://en.wikipedia.org/wiki/Eric_Garcetti) .. .@stanford can you guys look ? [RashardKelly](https://rashardiman.github.io/Rashard-GDS)
-```
- IP: 155.190.2.33
- COUNTRY: United States of America
- COUNTRY ISO: US
- STATE: California
- CITY: Palo Alto
- POSTAL CODE: 94301
- LATITUDE: 37.4440
- LONGITUDE: -122.1602
- ORGANIZATION: Cisco OpenDNS LLC
- ISP: Cisco OpenDNS LLC
-```
-![image](https://github.com/user-attachments/assets/0e1a0073-2099-4920-bb2a-b66ba0399b02)
-
-
-# Fat Joe - Don Cartagena (Feat. Puff Daddy)
-[link](https://youtu.be/KsUCWtxvBis?list=RDKsUCWtxvBis)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KsUCWtxvBis?si=AWtqd-vZK2UIYWbB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-![ABOUT MARQUEECE HARRIS-DAWSON https://cd8.lacity.gov/about/marqueece-harris-dawson](https://cd8.lacity.gov/sites/g/files/wph2111/files/new_logo4.png) [wiki](https://en.wikipedia.org/wiki/Marqueece_Harris-Dawson):[Talk](https://en.wikipedia.org/wiki/Talk:Marqueece_Harris-Dawson)
-![image](https://github.com/user-attachments/assets/0ca10286-0881-4f6e-a48e-eeec79ac6964)
-its always low cost bc yall scared to openly work on [pornography](https://www.youtube.com/watch?v=hzPylqS01qU) ... Councilmember Marqueece Harris-[Dawson](https://www.linkedin.com/in/marqueece-harris-dawson-21901635) without getting in ppl pants [Congress](https://www.google.com/search?sca_esv=51537aeedf813448&rlz=1CASLJZ_enUS1170&sxsrf=AE3TifNmqXpcgIq2nS7xuXQStk8UqY7wBg:1751998226759&q=congresswoman+kamlager-dove&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZrjP_Cx0LI1Ytb_FGcOviEiTm5uW1q0uNfK7KsnoL8hUyUYUJLZ_b-p0lT09DIkR7bwzZ58goNnPFwCobO9Lr1FJy27_ddIL61O5aDZqsFHcHHuRFHQk7kxoaLdgj0KZZIU_JDUonyMsHdJdQkliK1bPwqcc0Qm1U_K-UcOsxPbe_46Hc9znarUsxAr9dQ4t5M01Vcw&sa=X&ved=2ahUKEwjz5c__7a2OAxWqHkQIHaLMCkoQ0pQJKAF6BAgbEAE&biw=960&bih=945&dpr=1)member [Karen Bass](https://en.wikipedia.org/wiki/Eric_Garcetti) [![Twitter Follow](https://img.shields.io/badge/Social-@kdeleoncd14__-blue?style=social&logo=X)](https://twitter.com/kdeleoncd14) [![Twitter Follow](https://img.shields.io/badge/Social-@mhdcd8__-blue?style=social&logo=X)](https://twitter.com/mhdcd8) [@cityoflosangeles CD8](https://cd8.lacity.gov/) :: [CD8 EMAiL @nasa-jpl @nasa @atfweb @dhs-gov https://cd8.lacity.gov/connect/contact](https://cd8.lacity.gov/connect/contact) [ARTiCLE:LiZCOOPER-Where to Get Affordable Internet in Los Angeles - human-i-t.org](https://www.human-i-t.org/affordable-internet-los-angeles/?srsltid=AfmBOor9heYrGvS5D512GHMJQNZwNVyOIbPspkEGeAJUtXEjFJVgadM3) 
-<object data="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLACity%2Fposts%2Fpfbid02ALHrHQxKGBsYTvZY8CCtt1onfXuCfDZSScGXa697UbQfD5HTzx9PDtnCUPKHgxmil&show_text=true&width=500" width="500" height="456" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></object>
-
-
-![https://mitchell.lacounty.gov/](https://p6y530.p3cdn1.secureserver.net/wp-content/uploads/2025/01/FrontPage_Orange-1-1024x427.png)
-
-i remember you from bull st... [Veronica McGregor](https://www.webbyawards.com/5-things-know-veronica-mcgregor/) she rememberes when i first started painting walls and basic'd the [12ozProphet](https://forum.12ozprophet.com/) greats for me she was like Kash Doll but that was not obvious im talking #Manessa Georgia Division of Family & Children Services like a person who knew a lot of p[eople in many different worlld an was teaching at SCAD Office - German University in Cairo [#savanna WTOC-TV](https://www.wtoc.com/) [Tats](https://bx200.com/portfolio/tats-cru-the-mural-kings/) [Cru](https://www.youtube.com/watch?v=Tda2zyvImVI) she know you guys well and If i remember correctly she was the grounding point that helped me not get hurt feelings by #WhiteBoyProstitutionGraff! and i k3ept making art Kimberly Bryant, Founder Black Girls CODE Congressmember Karen Bass NASA Earthdata Veronica McGregor NASA Space Communications and Navigation . . . #Thanks_MsMitchell i need help with some girls that grew fond of me in atlanta... I dont know what to do, polygamy is legal, but only with hustler hollywood ties in this area Los Angeles County Sheriff's Department Councilmember Marqueece Harris-Dawson [MyRepost](https://www.facebook.com/permalink.php?story_fbid=pfbid08ysxu7xJ85ZiguQKDoG6CdFBp4SPuYyE5FeMpuBFniLNwHPX4VZanSkRrvginQkxl&id=100084464911565) [OP](https://www.facebook.com/Holly4LACounty)
-@nasa-jpl @nasa #Kennedy [The Free Agents (FA) Crew was Established in 1985](https://freeagentscrew.com/crew-history/)
-[Dekae FA, Inkheads - Miami, March 2023](https://www.youtube.com/watch?v=Zg9H7urB3kk)
-![image](https://github.com/user-attachments/assets/7d10645a-7c8a-416b-aba5-36c93521c62e)
-```
-He started writing in Miami, 1983. We chat about his personal history, his traveling and photo trading in the days before the internet and his mixed feelings and responsibility around being part of the early wave of graffiti on the internet as part of the crew that borough us 12ozProphet.com
-```
-
-
-### [CALiFORNiA_LiNUX:My Git Hub Journey](https://archive.org/details/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot) To The Web Interface RASHARD IMAN KELLY @NASA M R O I S S ECOSTRESS SWOT @nasa-jpl @cityoflosangeles @stateofcalifornia
-view on [Archive.ORG](https://archive.org/details/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot) [DOWNLOAD_PDF](https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf)
-
-<object data="https://ia800909.us.archive.org/12/items/my-git-hub-journey-to-the-web-interface-rashard-iman-kelly-nasa-m-r-o-i-s-s-ecostress-swot/progit.pdf" type="application/pdf" width="650" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://github.com/progit/progit2/releases/download/2.1.447/progit.pdf">download the PDF file.</a></p></object>
-
-[Subscribe to Patch Mailing Lists @redhatofficial](https://docs.redhat.com/en/documentation/red_hat_jboss_data_virtualization/6.2/html/security_guide/subscribe_to_patch_mailing_lists)
-![c8Cracked](https://github.com/user-attachments/assets/74e67acf-d018-423e-b5eb-051c05775649)
-
-![image @nasa-jpl media services @stateofcalifornia @cityoflosangeles @newshour @ajc](https://github.com/user-attachments/assets/59aafb69-d01c-4bc5-a10a-27aa87a05ecf)
-
-![image](https://github.com/user-attachments/assets/98381b96-45c1-4d1d-9e7f-808ca4bd2c93)
-
-[DOWNLOAD_PDF](https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf)
-<object data="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf" type="application/pdf" width="550" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://archive.org/download/image_20250428_2325/computerbooksfromcentralmarsSimpleScanStation20250627155404.pdf">download the PDF file.</a></p></object>
-
-
-
-
-![@blackgirlscode hi](https://github.com/user-attachments/assets/cc045d4b-c1de-443c-84ad-294e741b6268)
-
-
-[DOWNLOAD_PDF](https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf)
-<object data="https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf" type="application/pdf" width="350" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://ia601809.us.archive.org/19/items/image_20250428_2325/1longbeachiceSimpleScanStation20250627094532.pdf">download the PDF file.</a></p></object>
-
-
-[DOWNLOAD_PDF](http://publichealth.lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf)
-<object data="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf" type="application/pdf" width="350" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf">download the PDF file.</a></p></object>
-
-[Linux-Journal_Archive](https://github.com/rm-hull/linux-journal-archive)
-
-# _Helvetica_ [Trailer @blackgirlscode](https://www.youtube.com/watch?v=wkoX0pEwSCw)
-<iframe src="https://archive.org/embed/helvetica-2007" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[Lost Boyz - Lifestyles Of The Rich And Shameless](https://youtu.be/0D-f01H6Kos?list=RDgvMCA9jHFZ0)
-
-# [Why is Virtualization Useful? - virtualbox.org](https://www.virtualbox.org/manual/ch01.html#virt-why-useful)
-![image](https://github.com/user-attachments/assets/fa80f596-c116-462d-9e1e-3f30db146c1e)
-
-[#Typography](https://mksd.jp/mksd_font_list.html)
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090348.mp4" type="video/mp4">	 
-	<source src="https://ia800808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090348.mp4" type="video/mp4">	 
-</video> 
-
-[Android Swap Space ?](https://docs.libretro.com/) 
-[Swap Space in Linux: What It Is & How It Works](https://phoenixnap.com/kb/swap-space)
-Swap space in Linux is used when the amount of physical memory (RAM) is full. If the system needs more memory resources and the RAM is full, inactive pages in memory are moved to the swap space. While swap space can help machines with a small amount of RAM, it should not be considered a replacement for more RAM. Swap space is located on hard drives, which have a slower access time than physical memory. Swap space can be a dedicated swap partition (recommended), a swap file, or a combination of swap partitions and swap files. Note that Btrfs does not support swap space.
-In years past, the recommended amount of swap space increased linearly with the amount of RAM in the system. However, modern systems often include hundreds of gigabytes of RAM. As a consequence, recommended swap space is considered a function of system memory workload, not system memory. [RedHatDocs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
-	<source src="https://ia800808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
-</video> 
-
-![redhat](https://docs.redhat.com/Logo-Red_Hat-Documentation-A-Reverse-RGB.svg)
-
-
-[DiskControl @microsoft @libretro](https://docs.libretro.com/) 
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia601404.us.archive.org/14/items/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
-	<source src="https://ia801404.us.archive.org/14/items/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
-</video> 
-
-
-<a href="https://www.cloudmobileusa.com/" alt="Hi, we’re Cloud Mobile. We believe that the sky's the limit when it comes to technology. That's why we're dedicated to designing high-quality smartphones, tablets, and hotspots to keep you connected to what matters most. Founded by tech enthusiasts, our team continues to innovate and leverage technology to ensure we don’t skimp on features or performance. With sleek designs, high-resolution displays, and fast processors there’s so much to love!"> <img src="https://images.squarespace-cdn.com/content/v1/603d5307619ec655aab8c728/62fbe2ed-43df-454c-9c64-b42e466a2b07/LogoTitleWhiteColor.png?format=1000w" alt="We offer a diverse portfolio of cutting-edge devices that provide a wealth of features and capabilities, and accessible price points for everyone." /></a>
-
-![cloudmobile](https://github.com/user-attachments/assets/3e764fd1-dae9-46f6-b429-1f878c53fb40)
-
-![CloudMobile_c8](https://images.squarespace-cdn.com/content/v1/603d5307619ec655aab8c728/65eb7e12-a2c0-4719-b871-77edbe359675/C8RenderHeader_03.png?format=1000w)
-
----
-
-<div class="tupperware">
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://archive.org/download/mondaycmd/screen-20250303-161528.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-182220.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	 
-</video> 
-</div>
-
-
-# @nasa-jpl [Here is a video of me using @google earth for my @nasaEARTHDATA research]
-
-<video preload="auto" width="auto" height="500px" controls> 
-	<source src="https://ia600809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
-	<source src="https://ia800809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
-</video> 
-
-
-
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
-	<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
-</video> 
-
-![image](https://github.com/user-attachments/assets/b4318270-4cad-417e-aaa0-470525fcdcac)
-[ALF](https://archive.org/details/ALF-The-Complete-Series) [WATCHLiST](https://ricothakarashard.github.io/MovingPhotos) 
-
-[font](https://www.typedifferent.com/fonts/bd-elmax)
-![image](https://github.com/user-attachments/assets/90c059d8-4e21-4202-a698-b96e0718a249)
-
-
-```html
-[/linux](https://ricothakarashard.github.io/linux)
-<a href="https://ricothakarashard.github.io/linux">linux</a>
-```
-{% raw %}
-[/linux]({{ site.url }}/linux)
-<a href="{{ site.url }}/linux">linux</a>
-{% endraw %}
-
-Worked on using @git instantly so i can be more independant [/myBinder]({{ site.url }}/myBinder)
-<a href="{{ site.url }}/myBinder">myBinder</a>
-
-[Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
-[2](https://archive.org/details/screen-20250211-091244/screen-20250211-091244.mp4#)
-# CellularTestamonials
-[GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [BIA - FALLBACK _covidHospitalityIndustry_era](https://youtu.be/Tpj93Kv7exY?si=xiSx-r2VYTrzVKiI) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [WorldStar - CHiLDiSHGAMBiNO @nasa thats decatur for real and its a reality show market in @stateofcalifornia @cityoflosangles lacounty](https://youtu.be/ZQfWCazNH-c) [Hollywood](https://ia800105.us.archive.org/32/items/vid-20241231-094914/VID_20241231_094914.ia.mp4)
-
-# #CAliFORNiALiNUX:South Pasadena Public library FirstVisit @nasa-jpl @cityoflosangeles @stateofcalifornia 
-[Windows11](https://www.microsoft.com/en-us/software-download) supporting [a](https://bubblegumpop01.tumblr.com/) variety of [Linux](https://www.sciencedirect.com/topics/computer-science/virtualization-host) based platforms
-<iframe src="https://archive.org/embed/SouthPasadenaPubliclibrary" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[traceroute](https://archive.org/details/screen-20250109-185120) screen-20250109-185120
-<iframe src="https://archive.org/embed/screen-20250109-185120" width="300" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-![HotPepper](https://cdn.prod.website-files.com/6236b8ae9462e284efe9ba90/6238d37985f09e2b92c168c9_logo.svg)
-[Chilaca](https://www.hotpepperusa.com/chilaca) + [NovaLauncher](https://novalauncher.com/beta) [APK_DOWNLOAD](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public) @TBog i dont know where you at, but this launcher is pure fye on [LaStreetAndroids](https://www.google.com/search?q=+los+angeles+android&sca_esv=ccb8066356fd07b7&rlz=1C1GCEJ_enUS1168US1168&biw=1019&bih=952&tbm=nws&sxsrf=AE3TifNRiN6F7_MU3bUv4sGT97vVIit2yg%3A1750804177383&ei=0SZbaICRF-nYkPIP9aSHuAY&ved=0ahUKEwjAvcHojYuOAxVpLEQIHXXSAWcQ4dUDCA4&uact=5&oq=+los+angeles+android&gs_lp=Egxnd3Mtd2l6LW5ld3MiFCBsb3MgYW5nZWxlcyBhbmRyb2lkMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yChAAGIAEGEMYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB5IkwJQAFgAcAB4AJABAJgBPqABPqoBATG4AQPIAQD4AQGYAgGgAkSYAwCSBwExoAf6BbIHATG4B0TCBwMyLTHIBwU&sclient=gws-wiz-news)
-[LEarning_Ed](https://archive.org/details/vid-20250221-224142_202502/VID_20250221_082346.mp4)
-
-
-
-@nintendo @libretro 
-### DonkeyKongCountry [Cloud_Mobile_C7](https://support.truconnect.com/s/article/Stratus-C7-User-Manual) [DONKEYKONGCOUNTRY:WiKi](https://en.wikipedia.org/wiki/Donkey_Kong_Country) 
-[Nintendo Training 1991](https://youtu.be/WYjgHLFZMa0) im going to make a [post](https://www.w3schools.com/tags/ref_httpmethods.asp) for [coral](https://ricothakarashard.github.io/coral)
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250221-203820.mp4" type="video/mp4">	 
-	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250221-203820.mp4" type="video/mp4">	 
-</video> 
-
-[vlog Eaton canyon + weekend archiveVID 20250221 224142](https://archive.org/details/vid-20250221-224142_202502/screen-20250222-195042.mp4)
-
-[@nasa-jpl](https://ricothakarashard.github.io/mybinder/var_log) is this laurie ? @caltech @nasa @cityoflosangeles @stateofcalifornia /
-![image](https://github.com/user-attachments/assets/e821056b-a6b1-4d34-aed0-df34b3048014) [iNtuitiveMachines](https://ia801803.us.archive.org/4/items/0001_20250227/Screenshot_20250226-162641.png)
-
-![RASHARD_IMAN_KELLY @Nasa @nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia](https://github.com/user-attachments/assets/2aed0b38-6af9-430b-b214-5490fe1c8b47)
-
-# CALiFORNiA_LiNUX:ARCHiVE.ORG_ UPLOAD_TROUBLES:
-### AntiICE_Riot_data PDF
- [facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02y568bZxV2eeFPRfF5K9JHZHF8kXUrp5PLCojwBcKoeVn7FtKKQj1hL4LSp4SPzgul&id=100084464911565) @internetarchive @stateofcalifornia @nasa-jpl @blackgirlscode @nasa @whitehouse [@dhs-gov](https://github.com/UWCHR/ice-enforce/blob/main/README.md) [Morning Commute Notes for NAsajpl](https://archive.org/details/lariotgrafffworknotesandimpersonationnotes-06)
-<iframe src="https://archive.org/embed/california_linuxarchive.org_upload_troubles" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[503 Service Unavailable](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/503)
-@mozilla 
-The HTTP 503 Service Unavailable server error response status code indicates that the server is not ready to handle the request.
-
-Common causes are that a server is down for maintenance or overloaded. During maintenance, server administrators may temporarily route all traffic to a 503 page, or this may happen automatically during software updates. In overload cases, some server-side applications will reject requests with a 503 status when resource thresholds like memory, CPU, or connection pool limits are met
-[HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status#server_error_responses)
-[Saturdaylinux CHROMEi UM](https://archive.org/details/saturdaylinux-chromei-um)
-
-# [KNOW_YOUR_MEME:LiNUX](https://knowyourmeme.com/memes/subcultures/linux)
-`"Linux is a family of freely available, open-source computer operating systems based around the Linux kernel."` written kinda crazy but super informative @nasa @nasa-jpl @blackgirlscode [LinuxMemes for later](https://knowyourmeme.com/memes/subcultures/linux/photos?sort=favorites) [ICE detention analysis](https://uwchr.github.io/ice-detain/) <~ @stateofcalifornia @cityoflosangeles 
-
-# Colin Mcrae : [RETROARCH](https://www.retroarch.com/?page=platforms) + [PCSX_REARMED:LiBRETRO_DOCS](https://docs.libretro.com/library/pcsx_rearmed/)
-The Gameplay on my handset was amazing. 
-
-[PlayStationColin McRae Rally retroGAMES](https://www.retrogames.cc/psx-games/colin-mcrae-rally.html) [ELI5: Phone hall sensor : r/explainlikeimfive /u/rubesom](https://www.reddit.com/r/explainlikeimfive/comments/1fxg7yd/eli5_phone_hall_sensor/) [What is a "Hall" sensor, and what is it used for? android.stackexchange](https://android.stackexchange.com/questions/56538/what-is-a-hall-sensor-and-what-is-it-used-for)
-[Bonobo - Essential Mix 1481 (Live at Glastonbury) - 02 July 2022  BBC Radio 1](https://www.youtube.com/watch?v=PwbYUFY6Q3A)
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600404.us.archive.org/23/items/vid-20250217-120844/screen-20250218-053815.mp4" type="video/mp4">	 
-	<source src="https://ia800404.us.archive.org/23/items/vid-20250217-120844/screen-20250218-053815.mp4" type="video/mp4">	 
-</video> 
-
-[The HAll Sensor](https://www.ti.com/document-viewer/lit/html/SSZT164) is a type of magnetic sensor which can be used for detecting the strength and direction of a magnetic field produced from a permanent magnet or an electromagnet with its output varying in proportion to the strength of the magnetic field being detected. The Hall effect is the production of a potential difference ([the Hall voltage](https://en.wikipedia.org/wiki/Hall_effect)) More and more keyboards and video game controllers employ Hall effect sensors, [@wired trys to break it down](https://www.wired.com/story/what-is-hall-effect/)
-
-[@google @android Sensor Overview](https://developer.android.com/develop/sensors-and-location/sensors/sensors_overview)
-[ATCQ:The LowEndTheory](https://www.discogs.com/master/45922-A-Tribe-Called-Quest-The-Low-End-Theory?srsltid=AfmBOorJqf8E6YHeopaOz-V7MDpzF3vkcWV3BmWiQed71orn3mA8k2Pq)
-
-<iframe src="https://archive.org/embed/atcqthelowendtheory" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<figure>
-  <figcaption>ATCQ:SOCiALiSSUERAP</figcaption>
-  <audio controls src="https://dn721606.ca.archive.org/0/items/atcqthelowendtheory/The%20Low%20End%20Theory/08-The%20Infamous%20Date%20Rape.mp3"></audio>
-  <a href="https://dn721606.ca.archive.org/0/items/atcqthelowendtheory/The%20Low%20End%20Theory/08-The%20Infamous%20Date%20Rape.mp3"> Download audio </a>
-</figure>
-
-# `filter`:
-The filter CSS property applies graphical effects like blur or color shift to an element. `contrast()` is a predefined [function](https://developer.mozilla.org/en-US/docs/Web/CSS/filter#functions) and its the most common adjustment i make to raw images even when using [OpenCam](https://opencamera.org.uk/). [Mars2020:Perseverance Rover](https://mars.nasa.gov/mars2020/multimedia/raw-images/) & [M_S_L:CURiOSiTY](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl) have raw images availiable  
-
-```css
-.ic {
-  filter: contrast(200%); }
-```
-
-<article class="section_2col">
-  <a href="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390092302287C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390092302287C00_DXXX.jpg" /></a>  
-  
-  <a href="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390082302286C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390082302286C00_DXXX.jpg" /></a>   
-  
-  
-   <a href="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390102302288C00_DXXX.jpg"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04563/mcam/4563MR1077390102302288C00_DXXX.jpg" />
-  
-  </a>    <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04564/opgs/edr/fcam/FLB_802658613EDR_S1161944FHAZ00214M_.JPG"><img class="ic" src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04564/opgs/edr/fcam/FLB_802658613EDR_S1161944FHAZ00214M_.JPG" /></a>  
-</article>
-
-[FOiA](https://foia.state.gov/) [Nixon and the People’s Republic of China: CIA’s Support of the Historic 1972 Presidential Trip](https://www.cia.gov/readingroom/collection/nixon-collection)
-
-# Android Radio [How to Activate an FM Chip on Android](https://www.wikihow.com/Activate-an-FM-Chip-on-Android)
-<div itemprop="about" class="tupperware">
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-092102.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-094856.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-161528.mp4" type="video/mp4">	 
-</video> 
-</div>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif" alt="By Berserkerus - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=5071748"/> 
-
-[Broadcast radio HAL](https://source.android.com/docs/automotive/radio/broadcast-radio-hal) The following sections describe how to work with the hardware abstraction layer (HAL) to implement broadcast radio. `IBroadcastRadio` is the primary interface for the broadcast radio HAL. In the HIDL 2.0 HAL, use the ITunerSession interface to the tuner to call operations. However, at most one tuner is active at one time (provided each broadcast radio HAL instance only has one tuner chip). ITunerSession was removed from the AIDL interfaces and its interfaces moved to IBroadcastRadio.
-
-# X-Men:Children Of The Atom 
-i [got shocked](https://www.yelp.com/biz/cahuenga-branch-library-los-angeles) for searching [google for capcom on github](https://www.google.com/search?q=capcom+github&rlz=1CASLJZ_enUS1165&oq=capcom+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCwgCEAAYFhgeGMcDMgoIAxAAGIAEGKIEMgcIBBAAGO8FMgoIBRAAGIAEGKIE0gEIMTk5M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8)  . . . [TheGame](https://archive.org/details/arcade_xmcota) is that good! However i wanted to [demonstrate](https://www.youtube.com/channel/UCzuoYhoXgnT8hQv8CMj-hBQ) the androids capabilities. Radio is a essenntial personal item during a disaster in Los Angeles County: The [EmergenceyGuide](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/) explains it on page [33](https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf#page=33) and [39](https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf#page=39)
-
-- If you MUST shelter in place:
-- • Portable AM/FM radio with spare batteries
-- • Hand-held FRS radios (walkie-talkies) and
-hand held scanner with spare batteries
-
-
-While [the price on Ebay](https://www.ebay.com/b/Android-FM-Radio-Cell-Phones-Smartphones/9355/bn_7117081908) for a hand set is upwards of $125, there are routes via @nasa that could be much more economical @nasa-jpl. [its a need](https://www.fema.gov/grants/tools/authorized-equipment-list/06cp-03-prac) they should be easy to accquire no matter your class or financial ranking. If people are afraid of Kids being [Raised on Porn](https://www.youtube.com/watch?v=hzPylqS01qU&pp=0gcJCdgAo7VqN5tD) Thats an administrative task that could have a filtering process like you get a note, then an appointment with the local [Sherrif](https://github.com/najtompkins/crime-exploration-dashboard)! Or some private process thats public, maybe a ... I gotta think @blackgirlscode but internet should be free and the individual is fairly trained and redirected 
-
-[![FairPhone](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)
-
-<video preload="auto" controls>
-	<source src="https://ia600809.us.archive.org/16/items/lprm-amsr-2-d-soilm-3-001-soil-moisture-c-1-animation-video-download/screen-20250310-064725.mp4" type="video/mp4">	 
-</video> 
-
-[FM Radio in Smartphones: A Look Under the Hood](https://nabpilot.org/wp-content/uploads/2016/06/2015-BEC-Paper-FM-Radio-in-Smartphones-FINALr4.pdf) [NAB.org](https://www.nab.org/) @FCC @nasa-jpl @blackgirlscode @whitehouse @fema @cityoflosangeles @stateofcalifornia
-
-# TraceRoute / vomit / Emulators
-[Rashard_MRO/on:RashardLearned](https://thakarashard.github.io/rashardlearned/2024/11/03/RashardMRO-mars-reconnaissance-orbiter.html)
-<div itemprop="learningResourceType" class="tupperware">
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia802301.us.archive.org/15/items/screen-20250110-091254/screen-20250110-095407.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://archive.org/download/vid-20250111-185225/VID_20250111_185225.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600602.us.archive.org/34/items/screenshot-20240728-051602/screen-20240727-125057.ia.mp4" type="video/mp4">	 
-</video> 
-</div>
-
-_educationalAlignment_
-[A Schema.org Property](https://schema.org/educationalAlignment)
-
-# County Of Los Angeles:Emergency Survival Guide
-[DOWNLOAD_PDF](http://publichealth.lacounty.gov/phn/docs/Emergency%20Preparedness%20Handouts.pdf)
-<object data="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf" type="application/pdf" width="350" height="400">
-<p>You don't have a PDF plugin, but you can <a href="https://file.lacounty.gov/SDSInter/lac/1058408_2019_ESG_English_Webversion.pdf">download the PDF file.</a></p></object>
-
-[duringthispost`Create a URL to open a PDF file at a specific page` @adobe](https://helpx.adobe.com/acrobat/kb/link-html-pdf-page-acrobat.html)
-Open a PDF file to a specific page
-To target an HTML link to a specific page in a PDF file, add #page=[page number] to the end of the link URL.
-
-For example, this HTML tag opens page 4 of a PDF file named myfile.pdf:
-
-```html
-<A HREF="http://www.example.com/myfile.pdf#page=4">
-```
-
-[Listen to the radio using wired headphones as antenna in android phones r/NoStupidQuestions • 3 yr. ago DasherPack](https://www.reddit.com/r/NoStupidQuestions/comments/xkc1gd/listen_to_the_radio_using_wired_headphones_as/) [FM](https://en.wikipedia.org/wiki/FM_broadcasting) [rfm-radio](https://github.com/vladislav805/RFM-Radio) [android FM receiver -chipset info stackoverflow](https://www.google.com/search?q=android+fm+chipset&sca_esv=dbc67cf40f2de29f&rlz=1CASLJZ_enUS1165&sxsrf=AE3TifPbmV2hl1m7xBQa6huK8gdP2A9I3g%3A1749320062934&ei=foFEaMvqOJW6kPIP7NnJ2AU&ved=0ahUKEwjLocyH9d-NAxUVHUQIHexsElsQ4dUDCBA&uact=5&oq=android+fm+chipset&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmFuZHJvaWQgZm0gY2hpcHNldDIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSMU3UP4HWP01cAN4AJABAJgBUqABywmqAQIyMbgBA8gBAPgBAZgCF6ACmAvCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR8ICDRAAGLADGNYEGEcYyQPCAg4QABiABBiwAxiSAxiKBcICChAjGIAEGCcYigXCAgsQABiABBiRAhiKBcICBRAAGIAEwgIEECMYJ8ICDhAAGIAEGJECGLEDGIoFwgIKEAAYgAQYFBiHAsICCBAAGIAEGLEDwgIQEAAYgAQYsQMYgwEYFBiHAsICDRAAGIAEGLEDGBQYhwLCAgYQABgWGB7CAgsQABiABBiGAxiKBcICCBAAGIAEGKIEwgIFECEYnwXCAgcQIRigARgKmAMAiAYBkAYKkgcCMjOgB7SVAbIHAjIwuAf1CsIHBjItNi4xN8gH4QE&sclient=gws-wiz-serp)
-
-
-## FREQUENCY MODULATION - PART I - BASIC PRINCIPLES
-<iframe src="https://archive.org/embed/gov.dod.dimoc.28398" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-182220.mp4" type="video/mp4">	 
-</video> 
-
-<div class="tupperware">
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia601503.us.archive.org/14/items/screen-20250308-102510/screen-20250307-201813.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia601503.us.archive.org/14/items/screen-20250308-102510/screen-20250307-192757.mp4" type="video/mp4">	 
-</video> 
-
-<video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	 
-</video> 
-</div>
-
-![ANDROiD_RADiO](https://source.android.com/static/docs/automotive/images/broadcast_radio_01.svg)
-
----
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/733193566&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joshua-calhoun-279956675" title="joshua calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">joshua calhoun</a> · <a href="https://soundcloud.com/joshua-calhoun-279956675/a-tribe-called-quest-we-got-it-from-here-thank-you-4-your-service-full-album" title="A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service full album" target="_blank" style="color: #cccccc; text-decoration: none;">A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service full album</a></div>
-
-![image](https://github.com/user-attachments/assets/fa6a8d37-5700-4e9a-8ec6-f4bc9f2266a6)
-# California Linux Hosting RHEL 9via BROWSER [BUilding](https://hub.docker.com/repositories/rashardthakakelly) APACHE
-<iframe src="https://archive.org/embed/CaliforniaLinuxHostingRHEL9viaBROWSER_BUildingAPACHE" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
-[Difference between mail,mailx,sendmail](https://community.unix.com/t/difference-between-mail-mailx-sendmail/229025)
-[What is a package manager?](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers) [Send Email in Linux from Command Line - DigitalOcean](https://www.digitalocean.com/community/tutorials/send-email-linux-command-line) [@nasa @nasa-jpl @whitehouse @dhs-gov National Aeronautics and RELEASE DATE: 11-04-2020 Space AdministrationEMAIL SERVICES](https://nodis3.gsfc.nasa.gov/OPD_docs/NAII_2810_2_.pdf)
-
-`LinuxQuestions.org > Forums > Linux Forums > Linux - Software`
-### Reload this Page Error: cannot remove "libtoolT"
-[discussion](https://www.linuxquestions.org/questions/linux-software-2/error-cannot-remove-libtoolt-941927/)
-![image](https://github.com/user-attachments/assets/2f8f0dcd-9b6c-4a29-aba6-8dcde89e73c8)
-![image](https://github.com/user-attachments/assets/2f7fadcc-1dfc-4ee4-8f76-d1a10c61985b)
-
-[Fire Marshall Bill In Space](https://youtu.be/BU7861MufFs?si=ZdpmPKIsr0idXTF1) [Nasa Mars $112k is what Jose Paid me](https://youtu.be/V6wtj04dJ_g?si=Bvgym0T5sRJ0istr)
-@blackgirlscode [Time Machine - "Mind In A Spin"](https://www.youtube.com/watch?v=0qpn1S4ex8I) [./HoleToAnotherUniverse/linux](https://ricothakarashard.github.io/linux/)
-![ironlak](https://ia600706.us.archive.org/18/items/canscann-29/canscann-09.png)
-
-# Windows 
-<video preload="auto" width="auto" controls> 
-	<source src="https://ia800806.us.archive.org/26/items/screen-20250211-091244/screen-20250211-082708.mp4" type="video/mp4">	 
-</video> 
-
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/732602704&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-585176683" title="Josh Calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">Josh Calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-585176683/nas-illmatic-full-album" title="Nas - Illmatic (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Nas - Illmatic (Full Album)</a></div>
-[MIME Types](https://docs.oracle.com/cd/E19857-01/817-1834-10/crmimes.html)
-This chapter discusses the MIME types file.
-The MIME types file in the config directory contains mappings between MIME (Multipurpose Internet Mail Extensions) types and file extensions. For example, the MIME types file maps the extensions .html and .htm to the type text/html:
-`type=text/html exts=htm,html`
-
-Syntax of the MIME Types File
-The first line in the MIME types file identifies the file format and must read:
-
-```shell
-#--Sun Microsystems MIME Information
-type=application/pdf exts=pdf
-type=audio/x-wav exts=wav
-type=image/gif exts=gif
-type=image/jpeg exts=jpeg,jpg,jpe
-type=text/html exts=htm,html
-type=text/plain exts=txt
-type=text/richtext exts=rtx
-type=text/tab-separated-values exts=tsv
-type=text/x-setext exts=etx
-type=video/mpeg exts=mpeg,mpg,mpe
-type=video/quicktime exts=qt,mov
-type=video/x-msvideo exts=avi
-
-# Other non-comment lines have the following format:
-
-type=type/subtype exts=[file extensions]
-
-type/subtype is the type and subtype.
-exts are the file extensions associated with this type.
-```
-What are the supported MIME types?
-Working with The Object tag 
-
-
-# @dhs-gov @nasa-jpl @stateofcalifornia @cityoflosangeles
-### [SMARTLA](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf) rec
-[NewMetroStation](https://www.reddit.com/r/LAMetro/comments/1l5852h/second_arrival_into_laxmetro_transit_center_being/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) GoodMorning its Rashard Iman KElly [Mars Reconnaissance Orbiter (MRO)](https://photojournal.jpl.nasa.gov/spacecraft/MRO) [La Cañada Flintridge](https://www.jpl.nasa.gov/virtual-tour/) I dont know if theres anyone that can give me the updated air pollution sensor cool people team! [AirSar](https://airsar.jpl.nasa.gov/cgi-bin/map.pl) stops at 2004 [I see JPL work but the connections](https://www.jpl.nasa.gov/news/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/) for my inventory are kind of challenging to make to travel safely, y cant the metro just be on our network with the library ? [OracleSolaris](https://github.com/oracle/oraclesolaris-contrib) is easy to accquire an they would be on our config management system. All ppl use there is webbrowsers and apps anyway. We could make the region way more secure digitally, the libray on [ChromiumReskinned](https://github.com/chromium/chromium) and we could manage it from the [RHel_Cluster](https://www.nas.nasa.gov/) -[#Rashard](https://rashardlanasa.github.io/) - [NasaJUNO](https://www.jpl.nasa.gov/missions/juno/) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass)
-
-<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1l5qdk2/nasajpl_commutenasaaerola_metro_helpdesk_access/">#NASAJPL_COMMUTE:?NASAAERO+#LA_METRO helpdesk access etc</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script> @nasa-jpl @cityoflosangeles my scabs are burning and my legs are searing after logging into github 
-
-![image](https://github.com/user-attachments/assets/8fce2609-4e64-425a-9f28-a68c6cf8639e)
-
-![image](https://github.com/user-attachments/assets/1b0466d4-997b-4610-853e-b01821213f25)
-
-![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
-
-
-[Linux From Scratch (LFS)](https://www.linuxfromscratch.org/) is a project that provides you with step-by-step [instructions](https://github.com/ccceye/computer-book/tree/master) for building your own custom Linux system, entirely from source code. [PDf_VERSiON_12_1](https://www.linuxfromscratch.org/lfs/downloads/12.1/LFS-BOOK-12.1.pdf) [LFS_RELEASE_DiR](https://www.linuxfromscratch.org/lfs/downloads/) [The Design of the UNIX Operating System](https://ia801802.us.archive.org/31/items/DesignUNIXOperatingSystem/DesignUnixOs.pdf) [The UNIX Programming Environment](https://ia601809.us.archive.org/24/items/UNIXProgrammingEnvironment/UnixProgrammingEnvironment.pdf) [Brian W. Kernighan, Rob Pike:the-practice-of-programming](https://github.com/Heatwave/the-practice-of-programming) [current](https://youtu.be/0qpn1S4ex8I?si=NORDMsFjZkokBxTy)
-
-
 [mono](https://youtu.be/uABHh5OGQHs?si=r4RYvtFiL8henPrM)
 
 [RashardThakA Kelly:DOCKERHUB](https://hub.docker.com/repositories/rashardthakakelly)
@@ -1070,6 +811,25 @@ Working with The Object tag
 
 # TUMBLRs
 [animatedBackground](https://bubblegumpop01.tumblr.com/) / [RashardMRO](https://rashardmro.tumblr.com/)
+
+
+
+# @dhs-gov @nasa-jpl @stateofcalifornia @cityoflosangeles
+### [SMARTLA](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf) rec
+[NewMetroStation](https://www.reddit.com/r/LAMetro/comments/1l5852h/second_arrival_into_laxmetro_transit_center_being/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) GoodMorning its Rashard Iman KElly [Mars Reconnaissance Orbiter (MRO)](https://photojournal.jpl.nasa.gov/spacecraft/MRO) [La Cañada Flintridge](https://www.jpl.nasa.gov/virtual-tour/) I dont know if theres anyone that can give me the updated air pollution sensor cool people team! [AirSar](https://airsar.jpl.nasa.gov/cgi-bin/map.pl) stops at 2004 [I see JPL work but the connections](https://www.jpl.nasa.gov/news/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/) for my inventory are kind of challenging to make to travel safely, y cant the metro just be on our network with the library ? [OracleSolaris](https://github.com/oracle/oraclesolaris-contrib) is easy to accquire an they would be on our config management system. All ppl use there is webbrowsers and apps anyway. We could make the region way more secure digitally, the libray on [ChromiumReskinned](https://github.com/chromium/chromium) and we could manage it from the [RHel_Cluster](https://www.nas.nasa.gov/) -[#Rashard](https://rashardlanasa.github.io/) - [NasaJUNO](https://www.jpl.nasa.gov/missions/juno/) [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass)
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1l5qdk2/nasajpl_commutenasaaerola_metro_helpdesk_access/">#NASAJPL_COMMUTE:?NASAAERO+#LA_METRO helpdesk access etc</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script> @nasa-jpl @cityoflosangeles my scabs are burning and my legs are searing after logging into github 
+
+![image](https://github.com/user-attachments/assets/8fce2609-4e64-425a-9f28-a68c6cf8639e)
+
+![image](https://github.com/user-attachments/assets/1b0466d4-997b-4610-853e-b01821213f25)
+
+![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
+
+
+[Linux From Scratch (LFS)](https://www.linuxfromscratch.org/) is a project that provides you with step-by-step [instructions](https://github.com/ccceye/computer-book/tree/master) for building your own custom Linux system, entirely from source code. [PDf_VERSiON_12_1](https://www.linuxfromscratch.org/lfs/downloads/12.1/LFS-BOOK-12.1.pdf) [LFS_RELEASE_DiR](https://www.linuxfromscratch.org/lfs/downloads/) [The Design of the UNIX Operating System](https://ia801802.us.archive.org/31/items/DesignUNIXOperatingSystem/DesignUnixOs.pdf) [The UNIX Programming Environment](https://ia601809.us.archive.org/24/items/UNIXProgrammingEnvironment/UnixProgrammingEnvironment.pdf) [Brian W. Kernighan, Rob Pike:the-practice-of-programming](https://github.com/Heatwave/the-practice-of-programming) [current](https://youtu.be/0qpn1S4ex8I?si=NORDMsFjZkokBxTy)
+
+
 
 # [MIME types?](https://docs.oracle.com/en/cloud/saas/field-service/faqaa/r-supportedmimetypes.html)
 # FailedToSend @x
