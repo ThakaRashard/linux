@@ -24,11 +24,11 @@ blockquote[src*="platform.twitter.com"] {
 
 #wrapper
 {
-
-  width: 50vw;
+ display: grid;
+margin:0 auto;
+  width: 65vw;
   height: 100vh;
   margin: auto;
-  padding-top: 5px;
 }
 
 
@@ -41,6 +41,7 @@ blockquote[src*="platform.twitter.com"] {
 
 .tupperware > * {
   border: 1px solid #c9ff23;
+  display: inline-block;
   border-radius: 5px;
   padding: 0px;
   flex-basis: 30%;
