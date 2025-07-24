@@ -34,7 +34,14 @@ Mars Reconnaissance Orbiter [Cat @usnavy](https://hirise-pds.lpl.arizona.edu/PDS
 
 [NasaJUNO "INNER CRUISE 1"](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0001/DATA/EDR/CRUISE/JNCE_2011238_00A00004_V01.LBL) [img](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0005/EXTRAS/BROWSE/RDR/CRUISE/JNCR_2011238_00A00004_V02.PNG)
 <img alt="JNCR_2011238_00A00004_V02" src="https://github.com/user-attachments/assets/a76f7b75-c425-4831-ba18-ccffbf626b19" />
+[RDR/EFB/JNCR_2013282_00M00101_V02.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0004/EXTRAS/BROWSE/RDR/EFB/JNCR_2013282_00M00101_V02.PNG) 
 
+<div class="tupperware">
+	
+<img width="322" height="2048" alt="JNCE_2013282_00M00103_V01" src="https://github.com/user-attachments/assets/25b8c41c-eb8c-4a75-8fa0-4a727f173cde" />
+<img width="322" height="2048" alt="JNCR_2013282_00M00101_V02" src="https://github.com/user-attachments/assets/5d8f7194-64eb-4c86-b921-7ad4b21ebf0b" />
+
+</div>
 
 # Rashard Kelly 
 #
