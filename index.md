@@ -22,14 +22,31 @@ mermaid: true
 {{ site.baseurl }}
 
 ### jekyll.version {{ jekyll.version }}
-
+OBJECT                            = MISSION
+  MISSION_NAME                    = "JUNO"
+   OBJECT                          = MISSION_INFORMATION
+    MISSION_START_DATE            = 2011-08-05
+    MISSION_STOP_DATE             = NULL [CATFiLE @stateofcalifornia @cityoflosangeles @nasa @nasa-jpl @podaac](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat)
+    
 ### 
-Mars Reconnaissance Orbiter [Cat @usnavy](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
-[RashardsPrimary:CATFiLE @nasa-jpl Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)  [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [+](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) iS[S](https://www.usgovernmentmanual.gov/Agency?EntityId=VSLfQ4vlJ2o=&ParentEId=+klubNxgV0o=&EType=jY3M4CTKVHY=)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
-![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
-![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [emit](https://earth.jpl.nasa.gov/emit/)
-[genesisReturn](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-47900%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
+
+
+
+[NasaJUNO "INNER CRUISE 1"](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0001/DATA/EDR/CRUISE/JNCE_2011238_00A00004_V01.LBL) [img](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0005/EXTRAS/BROWSE/RDR/CRUISE/JNCR_2011238_00A00004_V02.PNG) [RDR/EFB/JNCR_2013282_00M00101_V02.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0004/EXTRAS/BROWSE/RDR/EFB/JNCR_2013282_00M00101_V02.PNG) 
+
+<div class="tupperware">
+	
+<img width="322" height="2048" alt="JNCE_2013282_00M00103_V01" src="https://github.com/user-attachments/assets/25b8c41c-eb8c-4a75-8fa0-4a727f173cde" />
+<img width="107" height="2048" alt="JNCR_2013282_00C00102_V01" src="https://github.com/user-attachments/assets/196af81c-9a8a-48cd-a5ef-4169599aa0ca" />
+<img width="322" height="2048" alt="JNCE_2013282_00M00099_V01" src="https://github.com/user-attachments/assets/db527ada-560f-4c90-8c44-f2ceb057cd9b" />
+<img width="322" height="2048" alt="JNCR_2013282_00M00101_V02" src="https://github.com/user-attachments/assets/5d8f7194-64eb-4c86-b921-7ad4b21ebf0b" />
+<img width="322" height="2048" alt="JNCR_2013282_00M00101_V01" src="https://github.com/user-attachments/assets/ba63d3ff-264d-4f1b-b849-07585e8e7efe" />
+<img width="107" height="2048" alt="JNCR_2013282_00C00100_V01" src="https://github.com/user-attachments/assets/f9122a04-7639-4449-a7f7-86b8f4767b20" />
+<img width="322" height="2048" alt="JNCE_2013282_00M00097_V01" src="https://github.com/user-attachments/assets/ce25b178-9b32-4cc1-9811-79ffd1e7fd99" />
+
+</div>
+
+<img alt="JNCR_2011238_00A00004_V02" src="https://github.com/user-attachments/assets/a76f7b75-c425-4831-ba18-ccffbf626b19" />
 
 # Rashard Kelly 
 #
@@ -1093,4 +1110,4 @@ i wrote u a not on <a href="{{ site.url }}{{ site.baseurl }}">my page</a></p>
    
    <iframe src="https://archive.org/embed/image-2-07" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-
+Mars Reconnaissance Orbiter [Cat @usnavy](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) [RashardsPrimary:CATFiLE @nasa-jpl Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)  [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [+](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) iS[S](https://www.usgovernmentmanual.gov/Agency?EntityId=VSLfQ4vlJ2o=&ParentEId=+klubNxgV0o=&EType=jY3M4CTKVHY=) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg) ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [emit](https://earth.jpl.nasa.gov/emit/) [genesisReturn](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-47900%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
