@@ -4,7 +4,7 @@ title: ./HoleToAnotherUniverse/linux
 mermaid: true
 ---
 
-
+[https://worldview.earthdata.nasa.gov/?v=-248.06956668783653,-132.20451105294217,35.635836808033844,132.98006491500786&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2023-10-22-T06%3A19%3A29Z](https://worldview.earthdata.nasa.gov/?v=-248.06956668783653,-132.20451105294217,35.635836808033844,132.98006491500786&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2023-10-22-T06%3A19%3A29Z)
 
 
 <div class="box">
