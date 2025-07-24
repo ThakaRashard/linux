@@ -31,6 +31,11 @@ Mars Reconnaissance Orbiter [Cat @usnavy](https://hirise-pds.lpl.arizona.edu/PDS
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [emit](https://earth.jpl.nasa.gov/emit/)
 [genesisReturn](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-47900%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
 
+
+[NasaJUNO "INNER CRUISE 1"](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0001/DATA/EDR/CRUISE/JNCE_2011238_00A00004_V01.LBL) [img](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0005/EXTRAS/BROWSE/RDR/CRUISE/JNCR_2011238_00A00004_V02.PNG)
+<img alt="JNCR_2011238_00A00004_V02" src="https://github.com/user-attachments/assets/a76f7b75-c425-4831-ba18-ccffbf626b19" />
+
+
 # Rashard Kelly 
 #
 California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL
