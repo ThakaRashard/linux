@@ -32,6 +32,22 @@ OBJECT                            = MISSION
     
 ### 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/8ae68e71-80da-40f3-8ae9-89711e880556" />
+
+@stateOfCalifornia @google the managed library services need examination @FEMA 
+its better than it was 
+```shell
+C:\Users\pac>nslookup
+Default Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a62a0d41-5927-4bd4-8014-9e7c199bfa89" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/aa6292f6-2324-4926-859f-5e4aa041d4d0" />
+
+
+[PRotest Notes @tesla](https://github.com/rashardgds/rashardgds.github.io/blob/master/_posts/2025-03-31-tesla.md) @whitehouse @atfweb @dhs-gov @cityoflosangeles @stateofCalifornia
 [Jim Butterfield Commodore 64 Training Tape - FULL Length C64](https://www.youtube.com/watch?v=J9WnHuGjZ38) @nasa ppl trying to delete my account again, if i fuss at [Gavin Newsom](https://www.gov.ca.gov/2025/07/24/governor-newsom-statement-on-the-ninth-circuit-striking-down-one-of-californias-pivotal-voter-approved-gun-safety-laws/) I have to send note for family services or ill go to jail just for knowing! @stateofcalifornia @cityoflosangeles Governor Newsom celebrates four years of connecting education and workforce insights thanks to [Cradle-to-Career](https://www.gov.ca.gov/2025/07/25/governor-newsom-celebrates-four-years-of-connecting-education-and-workforce-insights-thanks-to-cradle-to-career/) [CareerPlanning @stateofcalifornia](https://www.gov.ca.gov/2025/04/22/governor-newsom-launches-first-of-its-kind-tool-for-education-and-career-planning/) [@lmco @ajc](https://www.linkedin.com/in/manasseh-warner-apc-764259143) @lmco [Commodore 64: The World’s Best-Selling Home Computer](https://youtu.be/qWkQaVeD2MQ?si=lhwjoiDxcEtdxwRH) [@nasa-jpl Whats expected at Griffith](https://youtu.be/WYjgHLFZMa0) i dont want to embarrass myself @whitehouse  
 
 
