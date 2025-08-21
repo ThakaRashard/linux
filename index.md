@@ -103,6 +103,8 @@ over a maximum of 30 hops:
 
 ```
 
+<img  alt="image" src="https://github.com/user-attachments/assets/7a39c32a-1a3a-42e2-80e0-c3563184efc6" />
+[Office of the National Cyber Director email](mailto:ONCD-SE@ncd.eop.gov)
 
 [PRotest Notes @tesla](https://github.com/rashardgds/rashardgds.github.io/blob/master/_posts/2025-03-31-tesla.md) @whitehouse @atfweb @dhs-gov @cityoflosangeles @stateofCalifornia
 [Jim Butterfield Commodore 64 Training Tape - FULL Length C64](https://www.youtube.com/watch?v=J9WnHuGjZ38) @nasa ppl trying to delete my account again, if i fuss at [Gavin Newsom](https://www.gov.ca.gov/2025/07/24/governor-newsom-statement-on-the-ninth-circuit-striking-down-one-of-californias-pivotal-voter-approved-gun-safety-laws/) I have to send note for family services or ill go to jail just for knowing! @stateofcalifornia @cityoflosangeles Governor Newsom celebrates four years of connecting education and workforce insights thanks to [Cradle-to-Career](https://www.gov.ca.gov/2025/07/25/governor-newsom-celebrates-four-years-of-connecting-education-and-workforce-insights-thanks-to-cradle-to-career/) [CareerPlanning @stateofcalifornia](https://www.gov.ca.gov/2025/04/22/governor-newsom-launches-first-of-its-kind-tool-for-education-and-career-planning/) [@lmco @ajc](https://www.linkedin.com/in/manasseh-warner-apc-764259143) @lmco [Commodore 64: The World’s Best-Selling Home Computer](https://youtu.be/qWkQaVeD2MQ?si=lhwjoiDxcEtdxwRH) [@nasa-jpl Whats expected at Griffith](https://youtu.be/WYjgHLFZMa0) i dont want to embarrass myself @whitehouse  
