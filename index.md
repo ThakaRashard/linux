@@ -36,7 +36,7 @@ OBJECT                            = MISSION
 
 @stateOfCalifornia @google the [managed library](https://www.longbeach.gov/cityclerk/) services need examination @FEMA 
 its better than it was 
-bass.house.gov doesn’t support a secure connection with HTTPS
+[bass.house.gov](http://bass.house.gov/) doesn’t support a secure connection with HTTPS
 Attackers can see and change information you send or receive from the site.
 It's safest to visit this site later if you're using a public network. There is less risk from a trusted network, like your home or work Wi-Fi.
 You might also contact the site owner and suggest they upgrade to HTTPS. Learn more about this warning
