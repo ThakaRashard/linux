@@ -34,17 +34,74 @@ OBJECT                            = MISSION
 
 <img  alt="image" src="https://github.com/user-attachments/assets/8ae68e71-80da-40f3-8ae9-89711e880556" />
 
-@stateOfCalifornia @google the managed library services need examination @FEMA 
+@stateOfCalifornia @google the [managed library](https://www.longbeach.gov/cityclerk/) services need examination @FEMA 
 its better than it was 
+bass.house.gov doesn’t support a secure connection with HTTPS
+Attackers can see and change information you send or receive from the site.
+It's safest to visit this site later if you're using a public network. There is less risk from a trusted network, like your home or work Wi-Fi.
+You might also contact the site owner and suggest they upgrade to HTTPS. Learn more about this warning
+<img  alt="image" src="https://github.com/user-attachments/assets/aa6292f6-2324-4926-859f-5e4aa041d4d0" />
+
 ```shell
 C:\Users\pac>nslookup
 Default Server:  LBPADC2.lbpa.local
 Address:  192.168.129.12
+C:\Users\pac>tracert google.com
+
+Tracing route to google.com [142.250.176.14]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.160.1
+  2     *        *        *     Request timed out.
+  3     *
+
+C:\Users\pac>ping -n 2 jpl.nasa.gov
+
+Pinging jpl.nasa.gov [35.160.65.171] with 32 bytes of data:
+Request timed out.
+Request timed out.
+
+Ping statistics for 35.160.65.171:
+    Packets: Sent = 2, Received = 0, Lost = 2 (100% loss),
+
+C:\Users\pac>ping -n 2 nasa.gov
+
+Pinging nasa.gov [192.0.66.108] with 32 bytes of data:
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.0.66.108:
+    Packets: Sent = 2, Received = 0, Lost = 2 (100% loss),
 ```
+@cityoflosangeles @stateofclaifornia @newshour @bbc @abc7 @datadesk @atfweb @dhs-gov
+<img  alt="image" src="https://github.com/user-attachments/assets/06a9210b-85c5-4460-b8de-643336aa1903" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a62a0d41-5927-4bd4-8014-9e7c199bfa89" />
 
-<img  alt="image" src="https://github.com/user-attachments/assets/aa6292f6-2324-4926-859f-5e4aa041d4d0" />
+
+```shell
+
+C:\Users\pac>ping -n 2 fema.gov
+
+Pinging fema.gov [23.6.181.153] with 32 bytes of data:
+Request timed out.
+Request timed out.
+
+Ping statistics for 23.6.181.153:
+    Packets: Sent = 2, Received = 0, Lost = 2 (100% loss),
+
+C:\Users\pac>tracert whitehouse.gov
+
+Tracing route to whitehouse.gov [192.0.66.51]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.160.1
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+
+```
 
 
 [PRotest Notes @tesla](https://github.com/rashardgds/rashardgds.github.io/blob/master/_posts/2025-03-31-tesla.md) @whitehouse @atfweb @dhs-gov @cityoflosangeles @stateofCalifornia
