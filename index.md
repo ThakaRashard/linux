@@ -31,6 +31,149 @@ OBJECT                            = MISSION
     MISSION_STOP_DATE             = NULL [CATFiLE @stateofcalifornia @cityoflosangeles @nasa @nasa-jpl @podaac](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat)
     
 ### 
+@podaac @nasa-jpl @nasa-pds 
+something is toxix about the [@meta FACEBOOK accounts mentionedhere](https://www.facebook.com/TSGStrong/posts/pfbid0sfonZuvuZkvJUu9jyA4VMzM4p5TFzNX8XKvXJAhau7d9zuz9jmqN65Nzioy4NZv1l)
+[Link](https://www.facebook.com/TSGStrong/posts/pfbid0sfonZuvuZkvJUu9jyA4VMzM4p5TFzNX8XKvXJAhau7d9zuz9jmqN65Nzioy4NZv1l)
+
+```
+Long Beach Public Library City of South Pasadena – Local Government South Pasadena Public Library #AboutJPL https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf + https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4 Congressmember Karen Bass Judy Chu St. Francis Center Hollywood Food Coalition ::: NASA Solar System Exploration / NASA/JPL Physical Oceanography Data Center / NASA's Perseverance Mars Rover
+```
+
+<img alt="image" src="https://github.com/user-attachments/assets/fd20351b-8e5a-47f6-8291-a6303bb1e82c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a82d31d8-c077-45ec-9305-364d6e5db786" />
+
+
+Thaka Sartu
+plz dont block me, if i come im really working
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 08-21-2025 NASA Jet Propulsion Laboratory NASA's Europa Clipper Mission ESA - European Space Agency https://rashardgds.github.io/2025/08/16/ECOSTRESSMonitoringplantsfromspace.html Congressmember Karen Bass MIT Technology Review tell Supervisor Holly J. Mitchell something about #RemoteSensing firre Kimberly Bryant, Founder Black Girls CODE i was just reall tell all my pelvic contact thank you for the slumber parties inbetween #SingleDadLife and #DevOpsGrowth -
+No photo description available.
+49m
+Reply
+Thaka Sartu
+NASA/JPL Physical Oceanography Data Center idk who cars but no matter what the NASA - National Aeronautics and Space Administration instructions say i shoukld not work from the main branch and i forked my own Kimberly Bryant, Founder Black Girls CODE
+45m
+Reply
+Thaka Sartu
+Kimberly Bryant, Founder Black Girls CODE im being shut down if i mention black girls code is Steve Harvey involved ? if so i need him and so N so in front of my boss Bill Nelson not in a gay chrissette michelle way but like this dude knows me at the U.S. Department of Labor lever NOAA Satellite and Information Service they told me to trak your units, if im out of line #PresidentTrump said United States Space Force is the 6th branch of the military so we are pals, till the bras come off https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4 <~ thats the thing where he said he had money for everyone in #SpaceOperations United Nations Office for Outer Space Affairs (UNOOSA) its an old whiteman! if i dont have a roof, his business is in jepordy . #NorthAmerica is a legacy that he would be super stupid not to clean up bc he will be listed with ppl like ##CHARLES_KOCH and the pollution in thier #MidwestWake Los Angeles First United Methodist Church i plan to attend #Mr_Byron_Funeral_in_HOLLYWOOD NASA Aeronautics ppl drop hints and #Jose_M_Pi or Gavin Newsom would take my raggedy badge, also with the whiteman thing, they know since blacks were displaced we have issues with holding on to physical objects and replacing my superdope badge is not healthy for theft and robbery jeapordizing #SpaceOPerations and its #TheCyberWorkforce i asked for it, forced my hand at levels NASA Solar System Exploration they were going to teach me how to act and survive, but the bad kids with the color hair divided us, bc they wanted a fellow researcher in the field so i took the #DEVOPSDRESSCODE bc it worked being a #StrugglingSingleFather Maxine Waters please check out this #PDF https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf the way United States Space Force is outlined i dont have to do anything but obey orders from my team NASA Mars @ NASA Earthdata oh yeah #DSN NASA Space Communications and Navigation oh and that sickly guy that voimited a lot NASASpaceflight.com its a full load Kimberly Bryant, Founder Black Girls CODE and whatever she gave me was what i needed i the moment not to end my life, its the nurturing in that #EastAtlantaStudio for dudes not into nudity like that. I hope Steve Harvey show do ok #iMLocal Councilman Steve G. Hockaday, Esq. and thats #UnixHelpdeskLevel5 im still a young adult but thats porno ranking... something is wrong with how the country judges age, its the breast.... Essence i know what i look like so ... whatever you guys poisoned me with to grey my beard idk, i know yall needed help . Lockheed Martin #PROTECTTANYA :#re: #ChildAbduction #Sacrilidge Congressmember Karen Bass ISRO - Indian Space Research Organisation
+May be an image of 4 people and text
+32m
+Reply
+Thaka Sartu
+Department of Homeland Security i dont want you guys to #JehovahsWitnessME i just want you to know im real, and not setting Ms Bass up for a #TreasonusHumiliation International Space Station Tesla the Band Tesla #ELON_MUSK Councilmember Marqueece Harris-Dawson DeKalb County Police Department Keisha Lance Bottoms Georgia Division of Family & Children Services Georgia Bureau of Investigation Gavin Newsom https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4 Jennifer Siebel Newsom im not trying to hurt your family... im egyptian by bloodline and all the girls got tricked by playboy and not suitible partners biologically, i tell the powerful one on NBC LA shes medicine, thats forever Planned Parenthood Congressmember Karen Bass you gotta interview with Thrasher Magazine if you rock with ELLE i need u to clear me for a partner
+11:26 / 13:55
+23m
+Reply
+Thaka Sartu
+U.S. Navy U.S. Navy The Secretary of the Navy #This https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf #PLUS https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4 Los Angeles County Sheriff's Department Alaska Satellite Facility Maxine Waters Congressmember Karen Bass ExploreAstro at Caltech/IPAC Clarkston Police Department, Georgia
+No photo description available.
+11m
+Reply
+Thaka Sartu
+WHY SPACE?
+T
+here’s no such thing as a day without
+space. From the GPS receivers on cars
+and phones, to modern telecommunications, finance, agriculture, and more,
+space technology has completely permeated the modern way of life. Whether
+through use of satellites for services, derived technologies, or scientific research,
+everyone has benefitted from space.
+A GROWING INDUSTRY
+Just as the Navy maintains freedom of the
+seas, the Space Force maintains freedom
+of space for U.S. activities, both governmental and commercial. Commercial industry is booming, with industries such
+as low-cost launch, satellite internet,
+telecommunications, imagery, and even
+space tourism. In 2024, the “space economy” was valued at $546 billion. With the
+space domain providing a new engine to
+the global economy, safe and reliable access to space will impact everyone.
+INNOVATION AND SCIENCE
+Space technology has likely woven its way
+into your everyday life more than you think.
+Many of the products and tools we use
+routinely find their origins in space. A few
+examples are cell phone cameras, solar
+panels, memory foam, cordless vacuums
+and power tools, global food safety standards, grooved roadways to reduce accidents, wireless headphones, air purifiers,
+baby formula, laptops, and much more.
+NAVIGATION
+In 2022, a poll identified 93% of American
+drivers are dependent on GPS to navigate. GPS satellites are operated by the
+Space Force and instantly triangulate
+position to give users their pinpoint location anywhere on Earth. This technology
+has gone on to underpin entire industries
+including transportation, finance, security, safety, and much more. Without GPS,
+ATM transactions, self-driving cars, automated agricultural equipment, and many
+ocean-based operations would come to
+a screeching halt. Space Force Guardians keep the existing GPS satellite constellation running smoothly and teams of
+engineers are building the next generation of GPS technology.
+COMMUNICATION
+Have you ever used the WIFI while flying
+on a commercial aircraft? Or perhaps you
+subscribe to or use satellite radio or TV for
+constant connection. Every day space is
+making it easier to connect with friends
+and family, conduct business, dial 911 in
+an emergency, and connect to the internet in under-developed or rural areas.
+The Space Force works with commercial
+industry to protect those satellites and
+American’s access to them.  102.3 RadioFree KJLH https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf
+9m
+Reply
+Thaka Sartu
+Long Beach Public Library City of South Pasadena – Local Government South Pasadena Public Library #AboutJPL https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf + https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4 Congressmember Karen Bass Judy Chu St. Francis Center Hollywood Food Coalition ::: NASA Solar System Exploration / NASA/JPL Physical Oceanography Data Center / NASA's Perseverance Mars Rover @podaac @NASA-GISS 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1fe3a073-b260-4e7e-ae59-0f1ba87fedc0" />
+
+
+[* California Constitution - CONS](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
+
+ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]  ( Article 1 adopted 1879. )
+
+SECTION 1.  All people are by nature free and independent and have inalienable rights. Among these are enjoying and defending life and liberty, acquiring, possessing, and protecting property, and pursuing and obtaining safety, happiness, and privacy.
+(Sec. 1 added Nov. 5, 1974, by Proposition 7. Resolution Chapter 90, 1974.)
+
+SEC. 1.1.  The state shall not deny or interfere with an individual’s reproductive freedom in their most intimate decisions, which includes their fundamental right to choose to have an abortion and their fundamental right to choose or refuse contraceptives. This section is intended to further the constitutional right to privacy guaranteed by Section 1, and the constitutional right to not be denied equal protection guaranteed by Section 7. Nothing herein narrows or limits the right to privacy or equal protection.
+(Sec. 1.1 added Nov. 8, 2022, by Prop. 1. Res.Ch. 97, 2022. Effective December 21, 2022.)
+
+SEC. 2.  (a) Every person may freely speak, write and publish his or her sentiments on all subjects, being responsible for the abuse of this right. A law may not restrain or abridge liberty of speech or press.
+(b) A publisher, editor, reporter, or other person connected with or employed upon a newspaper, magazine, or other periodical publication, or by a press association or wire service, or any person who has been so connected or employed, shall not be adjudged in contempt by a judicial, legislative, or administrative body, or any other body having the power to issue subpoenas, for refusing to disclose the source of any information procured while so connected or employed for publication in a newspaper, magazine or other periodical publication, or for refusing to disclose any unpublished information obtained or prepared in gathering, receiving or processing of information for communication to the public.
+Nor shall a radio or television news reporter or other person connected with or employed by a radio or television station, or any person who has been so connected or employed, be so adjudged in contempt for refusing to disclose the source of any information procured while so connected or employed for news or news commentary purposes on radio or television, or for refusing to disclose any unpublished information obtained or prepared in gathering, receiving or processing of information for communication to the public.
+As used in this subdivision, “unpublished information” includes information not disseminated to the public by the person from whom disclosure is sought, whether or not related information has been disseminated and includes, but is not limited to, all notes, outtakes, photographs, tapes or other data of whatever sort not itself disseminated to the public through a medium of communication, whether or not published information based upon or related to such material has been disseminated.
+(Sec. 2 amended June 3, 1980, by Prop. 5. Res.Ch. 77, 1978.)
+
+SEC. 3.  (a) The people have the right to instruct their representatives, petition government for redress of grievances, and assemble freely to consult for the common good.
+(b) (1) The people have the right of access to information concerning the conduct of the people’s business, and, therefore, the meetings of public bodies and the writings of public officials and agencies shall be open to public scrutiny.
+(2) A statute, court rule, or other authority, including those in effect on the effective date of this subdivision, shall be broadly construed if it furthers the people’s right of access, and narrowly construed if it limits the right of access. A statute, court rule, or other authority adopted after the effective date of this subdivision that limits the right of access shall be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.
+
+(3) Nothing in this subdivision supersedes or modifies the right of privacy guaranteed by Section 1 or affects the construction of any statute, court rule, or other authority to the extent that it protects that right to privacy, including any statutory procedures governing discovery or disclosure of information concerning the official performance or professional qualifications of a peace officer.
+
+(4) Nothing in this subdivision supersedes or modifies any provision of this Constitution, including the guarantees that a person may not be deprived of life, liberty, or property without due process of law, or denied equal protection of the laws, as provided in Section 7.
+
+(5) This subdivision does not repeal or nullify, expressly or by implication, any constitutional or statutory exception to the right of access to public records or meetings of public bodies that is in effect on the effective date of this subdivision, including, but not limited to, any statute protecting the confidentiality of law enforcement and prosecution records.
+
+(6) Nothing in this subdivision repeals, nullifies, supersedes, or modifies protections for the confidentiality of proceedings and records of the Legislature, the Members of the Legislature, and its employees, committees, and caucuses provided by Section 7 of Article IV, state law, or legislative rules adopted in furtherance of those provisions; nor does it affect the scope of permitted discovery in judicial or administrative proceedings regarding deliberations of the Legislature, the Members of the Legislature, and its employees, committees, and caucuses.
+
+(7) In order to ensure public access to the meetings of public bodies and the writings of public officials and agencies, as specified in paragraph (1), each local agency is hereby required to comply with the California Public Records Act (Chapter 3.5 (commencing with Section 6250) of Division 7 of Title 1 of the Government Code) and the Ralph M. Brown Act (Chapter 9 (commencing with Section 54950) of Part 1 of Division 2 of Title 5 of the Government Code), and with any subsequent statutory enactment amending either act, enacting a successor act, or amending any successor act that contains findings demonstrating that the statutory enactment furthers the purposes of this section.
+
+(Sec. 3 amended June 3, 2014, by Prop. 42. Res.Ch. 123, 2013.)
+
+SEC. 4.  Free exercise and enjoyment of religion without discrimination or preference are guaranteed. This liberty of conscience does not excuse acts that are licentious or inconsistent with the peace or safety of the State. The Legislature shall make no law respecting an establishment of religion.
+A person is not incompetent to be a witness or juror because of his or her opinions on religious beliefs.
+(Sec. 4 added Nov. 5, 1974, by Prop. 7. Res.Ch. 90, 1974.)
+
+SEC. 5.  The military is subordinate to civil power. A standing army may not be maintained in peacetime. Soldiers may not be quartered in any house in wartime except as prescribed by law, or in peacetime without the owner’s consent.
+(Sec. 5 added Nov. 5, 1974, by Prop. 7. Res.Ch. 90, 1974.)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5e2e1094-5edf-4245-82ad-cf747f88af46" />
+
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/8ae68e71-80da-40f3-8ae9-89711e880556" />
 
