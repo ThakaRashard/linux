@@ -9,6 +9,26 @@ title: Current
 `jekyll.version`  {{ jekyll.version }}
  [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
 
+[ search `https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT` @nasa-jpl and let @CityOFLosAngeles](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)  know im simply displaced by the overthrow of my household by striptease @howard-university-web-services @hulu @disney @blackgirlscode whoever got downtime read my cat, i gotta find the one for @eodis-nasa thats going to get me paid @ForAtlanta im not pursuing treason with @deptofwar i work in [cartography from @nasa](https://www.ebsco.com/research-starters/earth-and-atmospheric-sciences/cartography/) @la-county-isd and since i work in LACounty im simply considered unhoused and food lines are the recommendation in the county guidebook, and till the protsitution resolves into [@dhs-gov enforcing constitutioanl reproductive rights in @statetOfCAlifornia](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CONS&division=&title=&part=&chapter=&article=I) everyone says they cant pay me and i have to work and use public resources till its safe for the company @newshour @latimes @datadesk this is what my mars work hours are devoted to thats why i send pictures around the Earthdata Team @eodis-nasa has similar datasharing requirements and they ordered that i figure out how to deliver data and it started with blogging, but all the old guys are walking around with huge maps and i dont even know how to go to the board of supervisors with the burn maps bc i have no equipment to cast on any display so im still working shit out with @deptofwar bc i was not involved in erika normanni or trice prositution and they still clearing me @cia to be a normal citizen @StateOfCalifornia @ForAtlanta
+
+      While all of the missions that MRO will support have not yet been
+      selected, Phoenix, the first of the Mars Program's Scout missions has
+      been selected to launch in the 2007 Mars opportunity.  Phoenix, a
+      lander mission that will collect and analyze soil samples, will arrive
+      in late May 2008.  It will need science imaging support for site
+      characterization and selection and relay support for its Entry,
+      Descent and Landing activities and for its science data return. 
+      Another mission, the Mars Science Laboratory (MSL) is proposed for the
+      2009 Mars opportunity.  MSL will also need science imaging support for
+      site characterization and selection and relay support for EDL and
+      science data return.  The MRO Mission Plan describes the generic
+      support activities for any mission as well as current early planning
+      in support of Phoenix and MSL.  Activities regarding site
+      characterization and selection will be described as part of the
+      Primary Science Phase, and activities regarding relay support will be
+      described as part of the Relay Phase.
+
+<img  alt="image @cityoflosangeles" src="https://github.com/user-attachments/assets/1691ba4c-f91b-485e-91fc-765124e77fa5" />
 
 Maintaining Commitment @Nasa-Jpl _3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

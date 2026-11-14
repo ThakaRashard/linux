@@ -13,6 +13,9 @@ background-size: 80.4px 80.4px;
 .twitter-tweet { margin:0;
                   padding:0;}
 
+
+
+/* 
 blockquote[src*="platform.twitter.com"] {
   font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;  
   padding: 0px;
@@ -21,7 +24,7 @@ blockquote[src*="platform.twitter.com"] {
   margin:0px;
 }
 
-
+*/
 
 #downloads .btn {
   display: inline-block;
@@ -397,8 +400,8 @@ pre {
   color: #b5e853;
   border-radius: 12px;
   word-wrap: normal;
-  overflow: auto;
-  overflow-y: hidden;
+ /* overflow: auto; */
+  
 }
 
 code.highlighter-rouge {
